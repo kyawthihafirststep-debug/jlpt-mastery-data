@@ -1,0 +1,1 @@
+# jlpt-mastery-data
