@@ -3751,686 +3751,1295 @@
         ]
       }
     ],
-    "grammar": [
-      {
-        "level": "n5",
-        "category": "grammar",
-        "lessons": [
-          {
-            "lesson_no": 1,
-            "title": "第1課",
-            "grammar_list": [
-              {
-                "id": "g01_001",
-                "pattern": "N1 は N2 です",
-                "meaning_mm": "N1 သည် N2 ဖြစ်ပါသည်။ (မိတ်ဆက်ခြင်း/ဖော်ပြခြင်း)",
-                "formation": "Noun 1 + は + Noun 2 + です"
-              },
-              {
-                "id": "g01_002",
-                "pattern": "N1 は N2 じゃありません",
-                "meaning_mm": "N1 သည် N2 မဟုတ်ပါ။ (အငြင်းပြခြင်း)",
-                "formation": "Noun 1 + は + Noun 2 + じゃありません / ではありません"
-              },
-              {
-                "id": "g01_003",
-                "pattern": "S か",
-                "meaning_mm": "လား (မေးခွန်းသင်္ကေတ)",
-                "formation": "Sentence + か"
-              },
-              {
-                "id": "g01_004",
-                "pattern": "N も",
-                "meaning_mm": "N လည်းပဲ",
-                "formation": "Noun + も"
-              },
-              {
-                "id": "g01_005",
-                "pattern": "N1 の N2",
-                "meaning_mm": "N1 ၏ N2 (ပိုင်ဆိုင်မှု သို့မဟုတ် ဆက်စပ်မှုပြခြင်း)",
-                "formation": "Noun 1 + の + Noun 2"
-              }
-            ]
-          },
-          {
-            "lesson_no": 2,
-            "title": "第2課",
-            "grammar_list": [
-              {
-                "id": "g02_001",
-                "pattern": "これ / それ / あれ",
-                "meaning_mm": "ဒါ / အဲဒါ / ဟိုဟာ (ညွှန်ပြစကားလုံး)",
-                "formation": "これ/それ/あれ + は + Noun + です"
-              },
-              {
-                "id": "g02_002",
-                "pattern": "この / その / あの",
-                "meaning_mm": "ဒီ... / အဲဒီ... / ဟို... (Noun ရှေ့မှ ကပ်လိုက်သော ညွှန်ပြစကားလုံး)",
-                "formation": "この/その/あの + Noun + は + ... です"
-              },
-              {
-                "id": "g02_003",
-                "pattern": "そうです / そうじゃありません",
-                "meaning_mm": "ဟုတ်ပါတယ် / မဟုတ်ပါဘူး (အတည်ပြုချက်ပေးခြင်း)",
-                "formation": "はい、そうです / いいえ、そうじゃありません"
-              }
-            ]
-          },
-          {
-            "lesson_no": 3,
-            "title": "第3課",
-            "grammar_list": [
-              {
-                "id": "g03_001",
-                "pattern": "ここ / そこ / あそこ",
-                "meaning_mm": "ဒီနေရာ / အဲဒီနေရာ / ဟိုနေရာ (နေရာညွှန်ပြခြင်း)",
-                "formation": "ここ/そこ/あそこ + は + Place + です"
-              },
-              {
-                "id": "g03_002",
-                "pattern": "こちら / そちら / あちら",
-                "meaning_mm": "ဒီဘက် / အဲဒီဘက် / ဟိုဘက် (ယဉ်ကျေးသော နေရာ/ဦးတည်ရာ ညွှန်ပြခြင်း)",
-                "formation": "こちら/そちら/あちら + は + Place + です"
-              },
-              {
-                "id": "g03_003",
-                "pattern": "N1 は N2 (နေရာ) です",
-                "meaning_mm": "N1 သည် N2 နေရာမှာ ရှိပါတယ်/ဖြစ်ပါတယ်",
-                "formation": "Noun + は + Place + です"
-              }
-            ]
-          },
-          {
-            "lesson_no": 4,
-            "title": "第4課",
-            "grammar_list": [
-              {
-                "id": "g04_001",
-                "pattern": "今 ～時 ～分 です",
-                "meaning_mm": "အခု ～နာရီ ～မိနစ် ရှိပါပြီ",
-                "formation": "Time + です"
-              },
-              {
-                "id": "g04_002",
-                "pattern": "V-ます / ました / ません",
-                "meaning_mm": "Verb ၏ ပစ္စုပ္ပန်၊ အတိတ် နှင့် အငြင်းပုံစံများ (ယဉ်ကျေးသောအသုံး)",
-                "formation": "Verb Stem + ます / ました / ません / ませんでした"
-              },
-              {
-                "id": "g04_003",
-                "pattern": "N (အချိန်) に V",
-                "meaning_mm": "～အချိန်မှာ လုပ်သည်",
-                "formation": "Time + に + Verb"
-              },
-              {
-                "id": "g04_004",
-                "pattern": "N1 から N2 まで",
-                "meaning_mm": "N1 မှ N2 အထိ",
-                "formation": "Noun 1 + から + Noun 2 + まで"
-              }
-            ]
-          },
-          {
-            "lesson_no": 5,
-            "title": "第5課",
-            "grammar_list": [
-              {
-                "id": "g05_001",
-                "pattern": "N (နေရာ) へ 行きます/来ます/帰ります",
-                "meaning_mm": "～သို့ သွားသည်/လာသည်/ပြန်သည်",
-                "formation": "Place + へ + Ikimasu/Kimasu/Kaerimasu"
-              },
-              {
-                "id": "g05_002",
-                "pattern": "どこ［へ］も 行きません",
-                "meaning_mm": "ဘယ်မှ မသွားပါဘူး",
-                "formation": "どこ + ［へ］ + も + Verb (Negative)"
-              },
-              {
-                "id": "g05_003",
-                "pattern": "N (ယာဉ်) で 行きます",
-                "meaning_mm": "～(ယာဉ်) ဖြင့် သွားသည်",
-                "formation": "Vehicle + で + 行きます"
-              },
-              {
-                "id": "g05_004",
-                "pattern": "N (လူ/တိရစ္ဆာန်) と V",
-                "meaning_mm": "～နှင့်အတူ လုပ်သည်",
-                "formation": "Person + と + Verb"
-              }
-            ]
-          },
-          {
-            "lesson_no": 6,
-            "title": "第6課",
-            "grammar_list": [
-              {
-                "id": "g06_001",
-                "pattern": "N を V (Transitive)",
-                "meaning_mm": "N ကို လုပ်သည် (ကံပုဒ်ပြခြင်း)",
-                "formation": "Noun + を + Verb"
-              },
-              {
-                "id": "g06_002",
-                "pattern": "N ကို します",
-                "meaning_mm": "N ကို လုပ်သည် (ဥပမာ- ဘောလုံးကစားသည်၊ အလုပ်လုပ်သည်)",
-                "formation": "Noun + を + します"
-              },
-              {
-                "id": "g06_003",
-                "pattern": "何 (なに) を しますか",
-                "meaning_mm": "ဘာလုပ်မှာလဲ",
-                "formation": "なに + を + しますか"
-              },
-              {
-                "id": "g06_004",
-                "pattern": "N (နေရာ) で V",
-                "meaning_mm": "～(နေရာ) မှာ လုပ်သည်",
-                "formation": "Place + で + Verb"
-              },
-              {
-                "id": "g06_005",
-                "pattern": "V-ませんか",
-                "meaning_mm": "～မလုပ်ဘူးလား (ဖိတ်ခေါ်ခြင်း)",
-                "formation": "Verb ます ဖြုတ် + ませんか"
-              },
-              {
-                "id": "g06_006",
-                "pattern": "V-ましょう",
-                "meaning_mm": "～လုပ်ကြစို့ (တိုက်တွန်းခြင်း)",
-                "formation": "Verb ます ဖြုတ် + ましょう"
-              }
-            ]
-          },
-          {
-            "lesson_no": 7,
-            "title": "第7課",
-            "grammar_list": [
-              {
-                "id": "g07_001",
-                "pattern": "N (ကိရိယာ) で V",
-                "meaning_mm": "～(ကိရိယာ/နည်းလမ်း) ဖြင့် လုပ်သည်",
-                "formation": "Tool/Means + で + Verb"
-              },
-              {
-                "id": "g07_002",
-                "pattern": "Language で V",
-                "meaning_mm": "～ဘာသာစကားဖြင့် လုပ်သည်/ပြောသည်",
-                "formation": "Language + で + Verb"
-              },
-              {
-                "id": "g07_003",
-                "pattern": "N1 (လူ) に N2 ကို あげます",
-                "meaning_mm": "N1 ကို N2 ပေးသည်",
-                "formation": "Receiver + に + Gift + ကို + あげます"
-              },
-              {
-                "id": "g07_004",
-                "pattern": "N1 (လူ) に N2 ကို もらいます",
-                "meaning_mm": "N1 ထံမှ N2 ကို လက်ခံရရှိသည်",
-                "formation": "Giver + に/から + Gift + ကို + もらいます"
-              },
-              {
-                "id": "g07_005",
-                "pattern": "もう V-ました",
-                "meaning_mm": "～ပြီးပါပြီ",
-                "formation": "もう + Verb (Past form)"
-              }
-            ]
-          },
-          {
-            "lesson_no": 8,
-            "title": "第8課",
-            "grammar_list": [
-              {
-                "id": "g08_001",
-                "pattern": "N は い-Adj です",
-                "meaning_mm": "N သည် (နာမဝိသေသန) ဖြစ်သည်",
-                "formation": "Noun + は + い-Adjective + です"
-              },
-              {
-                "id": "g08_002",
-                "pattern": "N は な-Adj です",
-                "meaning_mm": "N သည် (နာမဝိသေသန) ဖြစ်သည်",
-                "formation": "Noun + は + な-Adjective (な ဖြုတ်) + です"
-              },
-              {
-                "id": "g08_003",
-                "pattern": "Adjective Noun",
-                "meaning_mm": "～သော Noun",
-                "formation": "い-Adj + Noun / な-Adj + な + Noun"
-              },
-              {
-                "id": "g08_004",
-                "pattern": "あまり ～ません",
-                "meaning_mm": "သိပ်မ～ပါဘူး",
-                "formation": "あまり + Adjective/Verb (Negative)"
-              }
-            ]
-          },
-          {
-            "lesson_no": 9,
-            "title": "第9課",
-            "grammar_list": [
-              {
-                "id": "g09_001",
-                "pattern": "N が あります/わかります",
-                "meaning_mm": "N ရှိသည် / နားလည်သည်",
-                "formation": "Noun + が + あります / わかります"
-              },
-              {
-                "id": "g09_002",
-                "pattern": "N が 好き/嫌い/上手/下手 です",
-                "meaning_mm": "N ကို ကြိုက်သည်/မုန်းသည်/တော်သည်/ညံ့သည်",
-                "formation": "Noun + が + 好き/嫌い/上手/下手 + です"
-              },
-              {
-                "id": "g09_003",
-                "pattern": "S1 から、S2",
-                "meaning_mm": "S1 သောကြောင့် S2",
-                "formation": "Sentence 1 (Reason) + から + Sentence 2"
-              },
-              {
-                "id": "g09_004",
-                "pattern": "どうして",
-                "meaning_mm": "ဘာဖြစ်လို့လဲ",
-                "formation": "どうして + Sentence + か"
-              }
-            ]
-          },
-          {
-            "lesson_no": 10,
-            "title": "第10課",
-            "grammar_list": [
-              {
-                "id": "g10_001",
-                "pattern": "N が あります / います",
-                "meaning_mm": "N ရှိသည် (သက်မဲ့ / သက်ရှိ)",
-                "formation": "Noun + が + あります (Inanimate) / います (Animate)"
-              },
-              {
-                "id": "g10_002",
-                "pattern": "Place に N が あります/います",
-                "meaning_mm": "～(နေရာ) မှာ N ရှိသည်",
-                "formation": "Place + に + Noun + が + あります/います"
-              },
-              {
-                "id": "g10_003",
-                "pattern": "N は Place に あります/います",
-                "meaning_mm": "N သည် ～(နေရာ) မှာ ရှိပါသည်",
-                "formation": "Noun + は + Place + に + あります/います"
-              },
-              {
-                "id": "g10_004",
-                "pattern": "N1 (ပစ္စည်း) の N2 (တည်နေရာ)",
-                "meaning_mm": "N1 ၏ N2 (ဥပမာ- စားပွဲ၏အပေါ်)",
-                "formation": "Noun 1 + の + 上/下/前/後ろ/中/外/右/左/隣/近く/間"
-              }
-            ]
-          },
-          {
-            "lesson_no": 11,
-            "title": "第11課",
-            "grammar_list": [
-              {
-                "id": "g11_001",
-                "pattern": "Counters (အရေအတွက်များ)",
-                "meaning_mm": "၁ ခု၊ ၂ ခု စသည်ဖြင့် ရေတွက်ခြင်း",
-                "formation": "ひとつ、ふたつ ... / ～にん (လူ) / ～だい (စက်ပစ္စည်း) / ～まい (အချပ်)"
-              },
-              {
-                "id": "g11_002",
-                "pattern": "Quantifier (အရေအတွက်) V",
-                "meaning_mm": "～(အရေအတွက်) လုပ်သည်/ရှိသည်",
-                "formation": "Quantifier + Verb (助詞 - Particle မလိုပါ)"
-              },
-              {
-                "id": "g11_003",
-                "pattern": "Quantifier (အချိန်ကာလ) に ～回 V",
-                "meaning_mm": "～(အချိန်ကာလ) မှာ ～ကြိမ် လုပ်သည်",
-                "formation": "Period + に + Frequency + Verb"
-              },
-              {
-                "id": "g11_004",
-                "pattern": "～だけ",
-                "meaning_mm": "～ပဲ / ～သာ",
-                "formation": "Noun/Quantifier + だけ"
-              }
-            ]
-          },
-          {
-            "lesson_no": 12,
-            "title": "第12課",
-            "grammar_list": [
-              {
-                "id": "g12_001",
-                "pattern": "Adj Past Tense",
-                "meaning_mm": "နာမဝိသေသနများ၏ အတိတ်ကာလ",
-                "formation": "い-Adj: かった / な-Adj: でした"
-              },
-              {
-                "id": "g12_002",
-                "pattern": "N1 は N2 より Adj です",
-                "meaning_mm": "N1 သည် N2 ထက် ပိုပြီး Adj ဖြစ်သည်",
-                "formation": "Noun 1 + は + Noun 2 + より + Adjective + です"
-              },
-              {
-                "id": "g12_003",
-                "pattern": "N1 と N2 と どちらが Adj ですか",
-                "meaning_mm": "N1 နဲ့ N2 ဘယ်ဟာက ပိုပြီး Adj ဖြစ်သလဲ",
-                "formation": "Noun 1 + と + Noun 2 + と + どちらが + Adj + ですか"
-              },
-              {
-                "id": "g12_004",
-                "pattern": "N [の 中] で N2 が いちばん Adj です",
-                "meaning_mm": "N ထဲမှာ N2 က အဖြစ်ဆုံးပါ",
-                "formation": "Category + で + Noun + が + いちばん + Adj + です"
-              }
-            ]
-          },
-          {
-            "lesson_no": 13,
-            "title": "第13課",
-            "grammar_list": [
-              {
-                "id": "g13_001",
-                "pattern": "N が 欲しい (ほしい) です",
-                "meaning_mm": "N ကို လိုချင်ပါတယ်",
-                "formation": "Noun + が + ほしい + です"
-              },
-              {
-                "id": "g13_002",
-                "pattern": "V-たい です",
-                "meaning_mm": "～လုပ်ချင်ပါတယ်",
-                "formation": "Verb ます ဖြုတ် + たい + です"
-              },
-              {
-                "id": "g13_003",
-                "pattern": "N (နေရာ) へ V-に 行きます/来ます/帰ります",
-                "meaning_mm": "～(နေရာ) သို့ ～ရန် သွားသည်/လာသည်/ပြန်သည်",
-                "formation": "Place + へ + Verb Stem/Noun + に + 行きます"
-              }
-            ]
-          },
-          {
-            "lesson_no": 14,
-            "title": "第14課",
-            "grammar_list": [
-              {
-                "id": "g14_001",
-                "pattern": "Verb て-form",
-                "meaning_mm": "ကြိယာ て ပုံစံ ပြောင်းလဲခြင်း",
-                "formation": "Group 1: い/ち/り->って, み/び/に->んで, き->いて, ぎ->いで, し->して. Group 2: V-て. Group 3: して/きて"
-              },
-              {
-                "id": "g14_002",
-                "pattern": "V-て ください",
-                "meaning_mm": "ကျေးဇူးပြု၍ ～လုပ်ပေးပါ",
-                "formation": "Verb て-form + ください"
-              },
-              {
-                "id": "g14_003",
-                "pattern": "V-ましょうか",
-                "meaning_mm": "～လုပ်ပေးရမလား (ကူညီရန် ကမ်းလှမ်းခြင်း)",
-                "formation": "Verb ます ဖြုတ် + ましょうか"
-              },
-              {
-                "id": "g14_004",
-                "pattern": "V-て います (လုပ်ဆောင်ဆဲ)",
-                "meaning_mm": "～နေသည် (လက်ရှိလုပ်ဆောင်နေဆဲ)",
-                "formation": "Verb て-form + います"
-              }
-            ]
-          },
-          {
-            "lesson_no": 15,
-            "title": "第15課",
-            "grammar_list": [
-              {
-                "id": "g15_001",
-                "pattern": "V-て も いいです",
-                "meaning_mm": "～လုပ်လို့ ရပါတယ် (ခွင့်ပြုချက်)",
-                "formation": "Verb て-form + も + いいです"
-              },
-              {
-                "id": "g15_002",
-                "pattern": "V-て は いけません",
-                "meaning_mm": "～မလုပ်ရပါ (တားမြစ်ချက်)",
-                "formation": "Verb て-form + は + いけません"
-              },
-              {
-                "id": "g15_003",
-                "pattern": "V-て います (အခြေအနေ)",
-                "meaning_mm": "～နေသည် (ရလဒ် သို့မဟုတ် အခြေအနေတစ်ခု ဆက်လက်ဖြစ်ပေါ်နေခြင်း)",
-                "formation": "Verb て-form + います (ဥပမာ- သိသည်၊ အိမ်ထောင်ကျသည်၊ နေထိုင်သည်)"
-              }
-            ]
-          },
-          {
-            "lesson_no": 16,
-            "title": "第16課",
-            "grammar_list": [
-              {
-                "id": "g16_001",
-                "pattern": "V-て、V-て、...",
-                "meaning_mm": "～ပြီး၊ ～ပြီး (လုပ်ဆောင်ချက်များကို အစီအစဉ်အလိုက် ဆက်ပြခြင်း)",
-                "formation": "V1-て + V2-て + V3"
-              },
-              {
-                "id": "g16_002",
-                "pattern": "い-Adj -> ～くて、...",
-                "meaning_mm": "～ဖြစ်ပြီး၊ ～ (နာမဝိသေသနများကို ဆက်ခြင်း)",
-                "formation": "い-Adj (い ဖြုတ်) + くて + ..."
-              },
-              {
-                "id": "g16_003",
-                "pattern": "な-Adj / N -> ～で、...",
-                "meaning_mm": "～ဖြစ်ပြီး၊ ～ (နာမဝိသေသန သို့မဟုတ် Noun များကို ဆက်ခြင်း)",
-                "formation": "な-Adj/Noun + で + ..."
-              },
-              {
-                "id": "g16_004",
-                "pattern": "V-て から、...",
-                "meaning_mm": "～ပြီးတဲ့နောက်မှာ (တစ်ခုပြီးမှ တစ်ခုကို အလေးပေးခြင်း)",
-                "formation": "Verb て-form + から + Verb"
-              }
-            ]
-          },
-          {
-            "lesson_no": 17,
-            "title": "第17課",
-            "grammar_list": [
-              {
-                "id": "g17_001",
-                "pattern": "Verb ない-form",
-                "meaning_mm": "ကြိယာ ない ပုံစံ ပြောင်းလဲခြင်း",
-                "formation": "Group 1: u -> a + ない, Group 2: V-ない, Group 3: しない/こない"
-              },
-              {
-                "id": "g17_002",
-                "pattern": "V-ないで ください",
-                "meaning_mm": "ကျေးဇူးပြု၍ ～မလုပ်ပါနဲ့",
-                "formation": "Verb ない-form + で + ください"
-              },
-              {
-                "id": "g17_003",
-                "pattern": "V-なければ なりません",
-                "meaning_mm": "～လုပ်ရမည် (မဖြစ်မနေ)",
-                "formation": "Verb ない-form (い ဖြုတ်) + ければ + なりません"
-              },
-              {
-                "id": "g17_004",
-                "pattern": "V-なくても いいです",
-                "meaning_mm": "～မလုပ်လည်း ရပါတယ်",
-                "formation": "Verb ない-form (い ဖြုတ်) + くても + いいです"
-              }
-            ]
-          },
-          {
-            "lesson_no": 18,
-            "title": "第18課",
-            "grammar_list": [
-              {
-                "id": "g18_001",
-                "pattern": "Verb 辞書形 (Dictionary form)",
-                "meaning_mm": "ကြိယာ မူရင်းပုံစံ (အဘိဓာန်ပုံစံ)",
-                "formation": "Group 1: u-ending, Group 2: V-る, Group 3: する/くる"
-              },
-              {
-                "id": "g18_002",
-                "pattern": "V-辞書形 ことが できます",
-                "meaning_mm": "～လုပ်နိုင်သည်",
-                "formation": "Verb Dictionary form + ことが + できます"
-              },
-              {
-                "id": "g18_003",
-                "pattern": "趣味は V-辞書形 ことです",
-                "meaning_mm": "ဝါသနာသည် ～လုပ်ခြင်း ဖြစ်သည်",
-                "formation": "趣味は + Verb Dictionary form + こと + です"
-              },
-              {
-                "id": "g18_004",
-                "pattern": "V-辞書形 / Nの / Time 前に (まえに)",
-                "meaning_mm": "～မတိုင်ခင်",
-                "formation": "V-Dictionary / Nの / Time + 前に"
-              }
-            ]
-          },
-          {
-            "lesson_no": 19,
-            "title": "第19課",
-            "grammar_list": [
-              {
-                "id": "g19_001",
-                "pattern": "Verb た-form",
-                "meaning_mm": "ကြိယာ た ပုံစံ (အတိတ်ကာလ ပုံစံတို)",
-                "formation": "て-form နှင့် အတူတူပင်ဖြစ်သည် (て အစား た/だ ပြောင်းရန်)"
-              },
-              {
-                "id": "g19_002",
-                "pattern": "V-た ことが あります",
-                "meaning_mm": "～လုပ်ဖူးသည် (အတွေ့အကြုံ)",
-                "formation": "Verb た-form + ことが + あります"
-              },
-              {
-                "id": "g19_003",
-                "pattern": "V-たり、V-たり します",
-                "meaning_mm": "～လုပ်လိုက်၊ ～လုပ်လိုက် လုပ်သည်",
-                "formation": "V-た + り + V-た + り + します"
-              },
-              {
-                "id": "g19_004",
-                "pattern": "Adj / N に なります",
-                "meaning_mm": "～ဖြစ်လာသည် (အပြောင်းအလဲ)",
-                "formation": "い-Adj: くなります / な-Adj/N: になります"
-              }
-            ]
-          },
-          {
-            "lesson_no": 20,
-            "title": "第20課",
-            "grammar_list": [
-              {
-                "id": "g20_001",
-                "pattern": "普通形 (Plain Form)",
-                "meaning_mm": "ရိုးရိုးပုံစံ (သူငယ်ချင်း၊ မိသားစုကြား သုံးသောအသုံး)",
-                "formation": "ます -> 辞書形 / ません -> ない形 / ました -> た形"
-              }
-            ]
-          },
-          {
-            "lesson_no": 21,
-            "title": "第21課",
-            "grammar_list": [
-              {
-                "id": "g21_001",
-                "pattern": "～と 思います (おもいます)",
-                "meaning_mm": "～မယ်လို့ ထင်ပါတယ်",
-                "formation": "Plain form + と + 思います"
-              },
-              {
-                "id": "g21_002",
-                "pattern": "～と 言いました (いいました)",
-                "meaning_mm": "～လို့ ပြောခဲ့ပါတယ်",
-                "formation": "Plain form + と + 言いました"
-              },
-              {
-                "id": "g21_003",
-                "pattern": "～でしょう",
-                "meaning_mm": "～မှာပဲ/～လောက်မယ် (ခန့်မှန်းချက်)",
-                "formation": "Plain form + でしょう"
-              }
-            ]
-          },
-          {
-            "lesson_no": 22,
-            "title": "第22課",
-            "grammar_list": [
-              {
-                "id": "g22_001",
-                "pattern": "Noun Modification (Relative Clause)",
-                "meaning_mm": "Noun ကို ဝါကျဖြင့် အထူးပြုခြင်း",
-                "formation": "Plain form sentence + Noun (ဥပမာ- ကျွန်တော် မနေ့က ဝယ်ခဲ့သော စာအုပ်)"
-              }
-            ]
-          },
-          {
-            "lesson_no": 23,
-            "title": "第23課",
-            "grammar_list": [
-              {
-                "id": "g23_001",
-                "pattern": "V-辞書形 / V-た / V-ない / Adj / Nの とき",
-                "meaning_mm": "～သည့်အခါ / ～တုန်းက",
-                "formation": "Plain form + とき (な-Adj: な/ N: の)"
-              },
-              {
-                "id": "g23_002",
-                "pattern": "V-辞書形 と、...",
-                "meaning_mm": "～လျှင် (အလိုအလျောက် ဖြစ်ပေါ်မှု သို့မဟုတ် လမ်းညွှန်ချက်)",
-                "formation": "Verb Dictionary form + と"
-              }
-            ]
-          },
-          {
-            "lesson_no": 24,
-            "title": "第24課",
-            "grammar_list": [
-              {
-                "id": "g24_001",
-                "pattern": "くれます",
-                "meaning_mm": "ပေးသည် (သူတစ်ပါးက ကိုယ့်ကို ပေးခြင်း)",
-                "formation": "Person + が + わたし + に + N ကို + くれます"
-              },
-              {
-                "id": "g24_002",
-                "pattern": "V-て あげる / もらう / くれる",
-                "meaning_mm": "～လုပ်ပေးသည် / ～လုပ်ပေးခြင်းခံရသည် / (ကိုယ့်ကို) ～လုပ်ပေးသည်",
-                "formation": "Verb て-form + あげます/もらいます/くれます"
-              }
-            ]
-          },
-          {
-            "lesson_no": 25,
-            "title": "第25課",
-            "grammar_list": [
-              {
-                "id": "g25_001",
-                "pattern": "V-たら、...",
-                "meaning_mm": "～လျှင် / ～ပြီးနောက်",
-                "formation": "Verb た-form + ら"
-              },
-              {
-                "id": "g25_002",
-                "pattern": "V-て も、...",
-                "meaning_mm": "～သော်လည်း / ～ပေမယ့်လည်း",
-                "formation": "Verb て-form + も"
-              }
-            ]
-          }
-        ]
-      }
-    ],
+  "grammar": [
+    {
+      "level": "n5",
+      "category": "grammar",
+      "lessons": [
+        {
+          "lesson_no": 1,
+          "title": "第1課",
+          "grammar_list": [
+            {
+              "id": "g01_001",
+              "pattern": "N1 は N2 です",
+              "meaning_mm": "N1 သည် N2 ဖြစ်ပါသည်။ (မိတ်ဆက်ခြင်း/ဖော်ပြခြင်း)",
+              "formation": "Noun 1 + は + Noun 2 + です",
+              "examples": [
+                {
+                  "jp": "私は学生です。",
+                  "romaji": "Watashi wa gakusei desu.",
+                  "mm": "ကျွန်တော်သည် ကျောင်းသားဖြစ်ပါသည်။"
+                }
+              ]
+            },
+            {
+              "id": "g01_002",
+              "pattern": "N1 は N2 じゃありません",
+              "meaning_mm": "N1 သည် N2 မဟုတ်ပါ။ (အငြင်းပြခြင်း)",
+              "formation": "Noun 1 + は + Noun 2 + じゃありません / ではありません",
+              "examples": [
+                {
+                  "jp": "私は先生じゃありません。",
+                  "romaji": "Watashi wa sensei ja arimasen.",
+                  "mm": "ကျွန်တော်သည် ဆရာမဟုတ်ပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g01_003",
+              "pattern": "S か",
+              "meaning_mm": "လား (မေးခွန်းသင်္ကေတ)",
+              "formation": "Sentence + か",
+              "examples": [
+                {
+                  "jp": "あなたは学生ですか。",
+                  "romaji": "Anata wa gakusei desu ka.",
+                  "mm": "သင်သည် ကျောင်းသားလား။"
+                }
+              ]
+            },
+            {
+              "id": "g01_004",
+              "pattern": "N も",
+              "meaning_mm": "N လည်းပဲ",
+              "formation": "Noun + も",
+              "examples": [
+                {
+                  "jp": "私も学生です。",
+                  "romaji": "Watashi mo gakusei desu.",
+                  "mm": "ကျွန်တော်လည်း ကျောင်းသားဖြစ်ပါသည်။"
+                }
+              ]
+            },
+            {
+              "id": "g01_005",
+              "pattern": "N1 の N2",
+              "meaning_mm": "N1 ၏ N2 (ပိုင်ဆိုင်မှု သို့မဟုတ် ဆက်စပ်မှုပြခြင်း)",
+              "formation": "Noun 1 + の + Noun 2",
+              "examples": [
+                {
+                  "jp": "私の本です。",
+                  "romaji": "Watashi no hon desu.",
+                  "mm": "ကျွန်တော့်ရဲ့ စာအုပ်ဖြစ်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 2,
+          "title": "第2課",
+          "grammar_list": [
+            {
+              "id": "g02_001",
+              "pattern": "これ / それ / あれ",
+              "meaning_mm": "ဒါ / အဲဒါ / ဟိုဟာ (ညွှန်ပြစကားလုံး)",
+              "formation": "これ/それ/あれ + は + Noun + です",
+              "examples": [
+                {
+                  "jp": "これは辞書です。",
+                  "romaji": "Kore wa jisho desu.",
+                  "mm": "ဒါက အဘိဓာန်ဖြစ်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g02_002",
+              "pattern": "この / その / あの",
+              "meaning_mm": "ဒီ... / အဲဒီ... / ဟို... (Noun ရှေ့မှ ကပ်လိုက်သော ညွှန်ပြစကားလုံး)",
+              "formation": "この/その/あの + Noun + は + ... です",
+              "examples": [
+                {
+                  "jp": "この本は私のです。",
+                  "romaji": "Kono hon wa watashi no desu.",
+                  "mm": "ဒီစာအုပ်က ကျွန်တော့်ဟာ ဖြစ်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g02_003",
+              "pattern": "そうです / そうじゃありません",
+              "meaning_mm": "ဟုတ်ပါတယ် / မဟုတ်ပါဘူး (အတည်ပြုချက်ပေးခြင်း)",
+              "formation": "はい、そうです / いいえ、そうじゃありません",
+              "examples": [
+                {
+                  "jp": "はい、そうです。",
+                  "romaji": "Hai, sō desu.",
+                  "mm": "ဟုတ်ကဲ့၊ ဟုတ်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 3,
+          "title": "第3課",
+          "grammar_list": [
+            {
+              "id": "g03_001",
+              "pattern": "ここ / そこ / あそこ",
+              "meaning_mm": "ဒီနေရာ / အဲဒီနေရာ / ဟိုနေရာ (နေရာညွှန်ပြခြင်း)",
+              "formation": "ここ/そこ/あそこ + は + Place + です",
+              "examples": [
+                {
+                  "jp": "ここは教室です。",
+                  "romaji": "Koko wa kyōshitsu desu.",
+                  "mm": "ဒီနေရာက စာသင်ခန်းဖြစ်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g03_002",
+              "pattern": "こちら / そちら / あちら",
+              "meaning_mm": "ဒီဘက် / အဲဒီဘက် / ဟိုဘက် (ယဉ်ကျေးသော နေရာ/ဦးတည်ရာ ညွှန်ပြခြင်း)",
+              "formation": "こちら/そちら/あちら + は + Place + です",
+              "examples": [
+                {
+                  "jp": "トイレはあちらです。",
+                  "romaji": "Toire wa achira desu.",
+                  "mm": "အိမ်သာက ဟိုဘက်မှာပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g03_003",
+              "pattern": "N1 は N2 (နေရာ) です",
+              "meaning_mm": "N1 သည် N2 နေရာမှာ ရှိပါတယ်/ဖြစ်ပါတယ်",
+              "formation": "Noun + は + Place + です",
+              "examples": [
+                {
+                  "jp": "山田さんは食堂です。",
+                  "romaji": "Yamada-san wa shokudō desu.",
+                  "mm": "ယာမာဒါဆန်က ထမင်းစားခန်းမှာ ရှိပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 4,
+          "title": "第4課",
+          "grammar_list": [
+            {
+              "id": "g04_001",
+              "pattern": "今 ～時 ～分 です",
+              "meaning_mm": "အခု ～နာရီ ～မိနစ် ရှိပါပြီ",
+              "formation": "Time + です",
+              "examples": [
+                {
+                  "jp": "今、９時半です。",
+                  "romaji": "Ima, ku-ji han desu.",
+                  "mm": "အခု ကိုးနာရီခွဲ ပါပြီ။"
+                }
+              ]
+            },
+            {
+              "id": "g04_002",
+              "pattern": "V-ます / ました / ません",
+              "meaning_mm": "Verb ၏ ပစ္စုပ္ပန်၊ အတိတ် နှင့် အငြင်းပုံစံများ (ယဉ်ကျေးသောအသုံး)",
+              "formation": "Verb Stem + ます / ました / ません / ませんでした",
+              "examples": [
+                {
+                  "jp": "昨日、勉強しました。",
+                  "romaji": "Kinō, benkyō shimashita.",
+                  "mm": "မနေ့က စာလေ့လာခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g04_003",
+              "pattern": "N (အချိန်) に V",
+              "meaning_mm": "～အချိန်မှာ လုပ်သည်",
+              "formation": "Time + に + Verb",
+              "examples": [
+                {
+                  "jp": "６時に起きます。",
+                  "romaji": "Roku-ji ni okimasu.",
+                  "mm": "၆ နာရီမှာ အိပ်ရာထပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g04_004",
+              "pattern": "N1 から N2 まで",
+              "meaning_mm": "N1 မှ N2 အထိ",
+              "formation": "Noun 1 + から + Noun 2 + まで",
+              "examples": [
+                {
+                  "jp": "月曜日から金曜日まで働きます。",
+                  "romaji": "Getsuyōbi kara kinyōbi made hatarakimasu.",
+                  "mm": "တနင်္လာနေ့မှ သောကြာနေ့အထိ အလုပ်လုပ်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 5,
+          "title": "第5課",
+          "grammar_list": [
+            {
+              "id": "g05_001",
+              "pattern": "N (နေရာ) へ 行きます/来ます/帰ります",
+              "meaning_mm": "～သို့ သွားသည်/လာသည်/ပြန်သည်",
+              "formation": "Place + へ + Ikimasu/Kimasu/Kaerimasu",
+              "examples": [
+                {
+                  "jp": "学校へ行きます。",
+                  "romaji": "Gakkō e ikimasu.",
+                  "mm": "ကျောင်းသို့ သွားပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g05_002",
+              "pattern": "どこ［へ］も 行きません",
+              "meaning_mm": "ဘယ်မှ မသွားပါဘူး",
+              "formation": "どこ + ［へ］ + も + Verb (Negative)",
+              "examples": [
+                {
+                  "jp": "日曜日はどこへも行きません。",
+                  "romaji": "Nichiyōbi wa doko e mo ikimasen.",
+                  "mm": "တနင်္ဂနွေနေ့က ဘယ်မှ မသွားပါဘူး။"
+                }
+              ]
+            },
+            {
+              "id": "g05_003",
+              "pattern": "N (ယာဉ်) で 行きます",
+              "meaning_mm": "～(ယာဉ်) ဖြင့် သွားသည်",
+              "formation": "Vehicle + で + 行きます",
+              "examples": [
+                {
+                  "jp": "バスで会社へ行きます。",
+                  "romaji": "Basu de kaisha e ikimasu.",
+                  "mm": "ဘတ်စ်ကားဖြင့် ကုမ္ပဏီသို့ သွားပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g05_004",
+              "pattern": "N (လူ/တိရစ္ဆာန်) と V",
+              "meaning_mm": "～နှင့်အတူ လုပ်သည်",
+              "formation": "Person + と + Verb",
+              "examples": [
+                {
+                  "jp": "友達と日本へ来ました。",
+                  "romaji": "Tomodachi to Nihon e kimashita.",
+                  "mm": "သူငယ်ချင်းနဲ့အတူ ဂျပန်ကို လာခဲ့ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 6,
+          "title": "第6課",
+          "grammar_list": [
+            {
+              "id": "g06_001",
+              "pattern": "N を V (Transitive)",
+              "meaning_mm": "N ကို လုပ်သည် (ကံပုဒ်ပြခြင်း)",
+              "formation": "Noun + を + Verb",
+              "examples": [
+                {
+                  "jp": "水を飲みます。",
+                  "romaji": "Mizu o nomimasu.",
+                  "mm": "ရေကို သောက်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g06_002",
+              "pattern": "N ကို します",
+              "meaning_mm": "N ကို လုပ်သည် (ဥပမာ- ဘောလုံးကစားသည်၊ အလုပ်လုပ်သည်)",
+              "formation": "Noun + を + します",
+              "examples": [
+                {
+                  "jp": "サッカーをします。",
+                  "romaji": "Sakkā o shimasu.",
+                  "mm": "ဘောလုံး ကစားပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g06_003",
+              "pattern": "何 (なに) を しますか",
+              "meaning_mm": "ဘာလုပ်မှာလဲ",
+              "formation": "なに + を + しますか",
+              "examples": [
+                {
+                  "jp": "明日 何をしますか。",
+                  "romaji": "Ashita nani o shimasu ka.",
+                  "mm": "မနက်ဖြန် ဘာလုပ်မှာလဲ။"
+                }
+              ]
+            },
+            {
+              "id": "g06_004",
+              "pattern": "N (နေရာ) で V",
+              "meaning_mm": "～(နေရာ) မှာ လုပ်သည်",
+              "formation": "Place + で + Verb",
+              "examples": [
+                {
+                  "jp": "レストランで晩ごはんを食べます。",
+                  "romaji": "Resutoran de bangohan o tabemasu.",
+                  "mm": "စားသောက်ဆိုင်မှာ ညစာကို စားပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g06_005",
+              "pattern": "V-ませんか",
+              "meaning_mm": "～မလုပ်ဘူးလား (ဖိတ်ခေါ်ခြင်း)",
+              "formation": "Verb ます ဖြုတ် + ませんか",
+              "examples": [
+                {
+                  "jp": "一緒に京都へ行きませんか。",
+                  "romaji": "Issho ni Kyōto e ikimasen ka.",
+                  "mm": "အတူတူ ကျိုတိုကို မသွားဘူးလား။"
+                }
+              ]
+            },
+            {
+              "id": "g06_006",
+              "pattern": "V-ましょう",
+              "meaning_mm": "～လုပ်ကြစို့ (တိုက်တွန်းခြင်း)",
+              "formation": "Verb ます ဖြုတ် + ましょう",
+              "examples": [
+                {
+                  "jp": "ちょっと 休みましょう。",
+                  "romaji": "Chotto yasumimashō.",
+                  "mm": "ခဏလောက် နားကြစို့။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 7,
+          "title": "第7課",
+          "grammar_list": [
+            {
+              "id": "g07_001",
+              "pattern": "N (ကိရိယာ) で V",
+              "meaning_mm": "～(ကိရိယာ/နည်းလမ်း) ဖြင့် လုပ်သည်",
+              "formation": "Tool/Means + で + Verb",
+              "examples": [
+                {
+                  "jp": "箸でごはんを食べます。",
+                  "romaji": "Hashi de gohan o tabemasu.",
+                  "mm": "တူဖြင့် ထမင်းစားပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g07_002",
+              "pattern": "Language で V",
+              "meaning_mm": "～ဘာသာစကားဖြင့် လုပ်သည်/ပြောသည်",
+              "formation": "Language + で + Verb",
+              "examples": [
+                {
+                  "jp": "日本語でレポートを書きます。",
+                  "romaji": "Nihongo de repōto o kakimasu.",
+                  "mm": "ဂျပန်လို အစီရင်ခံစာ ရေးပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g07_003",
+              "pattern": "N1 (လူ) に N2 ကို あげます",
+              "meaning_mm": "N1 ကို N2 ပေးသည်",
+              "formation": "Receiver + に + Gift + ကို + あげます",
+              "examples": [
+                {
+                  "jp": "母に花をあげます。",
+                  "romaji": "Haha ni hana o agemasu.",
+                  "mm": "အမေ့ကို ပန်းပေးပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g07_004",
+              "pattern": "N1 (လူ) に N2 ကို もらいます",
+              "meaning_mm": "N1 ထံမှ N2 ကို လက်ခံရရှိသည်",
+              "formation": "Giver + に/から + Gift + ကို + もらいます",
+              "examples": [
+                {
+                  "jp": "山田さんにプレゼントをもらいました。",
+                  "romaji": "Yamada-san ni purezento o moraimashita.",
+                  "mm": "ယာမာဒါဆန်ဆီက လက်ဆောင် ရခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g07_005",
+              "pattern": "もう V-ました",
+              "meaning_mm": "～ပြီးပါပြီ",
+              "formation": "もう + Verb (Past form)",
+              "examples": [
+                {
+                  "jp": "もう昼ごはんを食べました。",
+                  "romaji": "Mō hirugohan o tabemashita.",
+                  "mm": "နေ့လယ်စာ စားပြီးပါပြီ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 8,
+          "title": "第8課",
+          "grammar_list": [
+            {
+              "id": "g08_001",
+              "pattern": "N は い-Adj です",
+              "meaning_mm": "N သည် (နာမဝိသေသန) ဖြစ်သည်",
+              "formation": "Noun + は + い-Adjective + です",
+              "examples": [
+                {
+                  "jp": "日本のカメラは高いです。",
+                  "romaji": "Nihon no kamera wa takai desu.",
+                  "mm": "ဂျပန်ကင်မရာက ဈေးကြီးပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g08_002",
+              "pattern": "N は な-Adj です",
+              "meaning_mm": "N သည် (နာမဝိသေသန) ဖြစ်သည်",
+              "formation": "Noun + は + な-Adjective (な ဖြုတ်) + です",
+              "examples": [
+                {
+                  "jp": "この町は静かです。",
+                  "romaji": "Kono machi wa shizuka desu.",
+                  "mm": "ဒီမြို့က တိတ်ဆိတ်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g08_003",
+              "pattern": "Adjective Noun",
+              "meaning_mm": "～သော Noun",
+              "formation": "い-Adj + Noun / な-Adj + な + Noun",
+              "examples": [
+                {
+                  "jp": "有名なレストランです。",
+                  "romaji": "Yūmeina resutoran desu.",
+                  "mm": "နာမည်ကြီးသော စားသောက်ဆိုင်ဖြစ်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g08_004",
+              "pattern": "あまり ～ません",
+              "meaning_mm": "သိပ်မ～ပါဘူး",
+              "formation": "あまり + Adjective/Verb (Negative)",
+              "examples": [
+                {
+                  "jp": "この本はあまり面白くないです。",
+                  "romaji": "Kono hon wa amari omoshirokunai desu.",
+                  "mm": "ဒီစာအုပ်က သိပ်မစိတ်ဝင်စားဖို့ကောင်းပါဘူး။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 9,
+          "title": "第9課",
+          "grammar_list": [
+            {
+              "id": "g09_001",
+              "pattern": "N が あります/わかります",
+              "meaning_mm": "N ရှိသည် / နားလည်သည်",
+              "formation": "Noun + が + あります / わかります",
+              "examples": [
+                {
+                  "jp": "私は日本語がわかります。",
+                  "romaji": "Watashi wa Nihongo ga wakarimasu.",
+                  "mm": "ကျွန်တော် ဂျပန်စာ နားလည်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g09_002",
+              "pattern": "N が 好き/嫌い/上手/下手 です",
+              "meaning_mm": "N ကို ကြိုက်သည်/မုန်းသည်/တော်သည်/ညံ့သည်",
+              "formation": "Noun + が + 好き/嫌い/上手/下手 + です",
+              "examples": [
+                {
+                  "jp": "私はスポーツが好きです。",
+                  "romaji": "Watashi wa supōtsu ga suki desu.",
+                  "mm": "ကျွန်တော် အားကစားကို ကြိုက်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g09_003",
+              "pattern": "S1 から、S2",
+              "meaning_mm": "S1 သောကြောင့် S2",
+              "formation": "Sentence 1 (Reason) + から + Sentence 2",
+              "examples": [
+                {
+                  "jp": "時間がないから、新聞を読みません。",
+                  "romaji": "Jikan ga nai kara, shinbun o yomimasen.",
+                  "mm": "အချိန်မရှိတဲ့အတွက် သတင်းစာမဖတ်ပါဘူး။"
+                }
+              ]
+            },
+            {
+              "id": "g09_004",
+              "pattern": "どうして",
+              "meaning_mm": "ဘာဖြစ်လို့လဲ",
+              "formation": "どうして + Sentence + か",
+              "examples": [
+                {
+                  "jp": "どうして昨日学校を休みましたか。",
+                  "romaji": "Dōshite kinō gakkō o yasumimashita ka.",
+                  "mm": "ဘာဖြစ်လို့ မနေ့က ကျောင်းပျက်ခဲ့တာလဲ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 10,
+          "title": "第10課",
+          "grammar_list": [
+            {
+              "id": "g10_001",
+              "pattern": "N が あります / います",
+              "meaning_mm": "N ရှိသည် (သက်မဲ့ / သက်ရှိ)",
+              "formation": "Noun + が + あります (Inanimate) / います (Animate)",
+              "examples": [
+                {
+                  "jp": "あそこに男の人がいます。",
+                  "romaji": "Asoko ni otoko no hito ga imasu.",
+                  "mm": "ဟိုမှာ ယောကျ်ားလေးတစ်ယောက် ရှိပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g10_002",
+              "pattern": "Place に N が あります/います",
+              "meaning_mm": "～(နေရာ) မှာ N ရှိသည်",
+              "formation": "Place + に + Noun + が + あります/います",
+              "examples": [
+                {
+                  "jp": "机の上に本があります。",
+                  "romaji": "Tsukue no ue ni hon ga arimasu.",
+                  "mm": "စားပွဲပေါ်မှာ စာအုပ်ရှိပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g10_003",
+              "pattern": "N は Place に あります/います",
+              "meaning_mm": "N သည် ～(နေရာ) မှာ ရှိပါသည်",
+              "formation": "Noun + は + Place + に + あります/います",
+              "examples": [
+                {
+                  "jp": "犬は庭にいます。",
+                  "romaji": "Inu wa niwa ni imasu.",
+                  "mm": "ခွေးက ခြံထဲမှာ ရှိပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g10_004",
+              "pattern": "N1 (ပစ္စည်း) の N2 (တည်နေရာ)",
+              "meaning_mm": "N1 ၏ N2 (ဥပမာ- စားပွဲ၏အပေါ်)",
+              "formation": "Noun 1 + の + 上/下/前/後ろ/中/外/右/左/隣/近く/間",
+              "examples": [
+                {
+                  "jp": "かばんの中に鍵があります。",
+                  "romaji": "Kaban no naka ni kagi ga arimasu.",
+                  "mm": "အိတ်ထဲမှာ သော့ရှိပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 11,
+          "title": "第11課",
+          "grammar_list": [
+            {
+              "id": "g11_001",
+              "pattern": "Counters (အရေအတွက်များ)",
+              "meaning_mm": "၁ ခု၊ ၂ ခု စသည်ဖြင့် ရေတွက်ခြင်း",
+              "formation": "ひとつ、ふたつ ... / ～にん (လူ) / ～だい (စက်ပစ္စည်း) / ～まい (အချပ်)",
+              "examples": [
+                {
+                  "jp": "みかんを３つ買いました。",
+                  "romaji": "Mikan o mittsu kaimashita.",
+                  "mm": "လိမ္မော်သီး သုံးလုံး ဝယ်ခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g11_002",
+              "pattern": "Quantifier (အရေအတွက်) V",
+              "meaning_mm": "～(အရေအတွက်) လုပ်သည်/ရှိသည်",
+              "formation": "Quantifier + Verb (助詞 - Particle မလိုပါ)",
+              "examples": [
+                {
+                  "jp": "外国人の学生が２人います。",
+                  "romaji": "Gaikokujin no gakusei ga futari imasu.",
+                  "mm": "နိုင်ငံခြားသား ကျောင်းသား နှစ်ယောက် ရှိပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g11_003",
+              "pattern": "Quantifier (အချိန်ကာလ) に ～回 V",
+              "meaning_mm": "～(အချိန်ကာလ) မှာ ～ကြိမ် လုပ်သည်",
+              "formation": "Period + に + Frequency + Verb",
+              "examples": [
+                {
+                  "jp": "１週間に１回映画を見ます。",
+                  "romaji": "Isshūkan ni ikkai eiga o mimasu.",
+                  "mm": "တစ်ပတ်ကို တစ်ကြိမ် ရုပ်ရှင်ကြည့်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g11_004",
+              "pattern": "～だけ",
+              "meaning_mm": "～ပဲ / ～သာ",
+              "formation": "Noun/Quantifier + だけ",
+              "examples": [
+                {
+                  "jp": "休みは日曜日だけです。",
+                  "romaji": "Yasumi wa Nichiyōbi dake desu.",
+                  "mm": "ပိတ်ရက်က တနင်္ဂနွေနေ့ တစ်ရက်တည်းပါ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 12,
+          "title": "第12課",
+          "grammar_list": [
+            {
+              "id": "g12_001",
+              "pattern": "Adj Past Tense",
+              "meaning_mm": "နာမဝိသေသနများ၏ အတိတ်ကာလ",
+              "formation": "い-Adj: かった / な-Adj: でした",
+              "examples": [
+                {
+                  "jp": "昨日は暑かったです。",
+                  "romaji": "Kinō wa atsukatta desu.",
+                  "mm": "မနေ့က ပူခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g12_002",
+              "pattern": "N1 は N2 より Adj です",
+              "meaning_mm": "N1 သည် N2 ထက် ပိုပြီး Adj ဖြစ်သည်",
+              "formation": "Noun 1 + は + Noun 2 + より + Adjective + です",
+              "examples": [
+                {
+                  "jp": "車は自転車より速いです。",
+                  "romaji": "Kuruma wa jitensha yori hayai desu.",
+                  "mm": "ကားက စက်ဘီးထက် ပိုမြန်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g12_003",
+              "pattern": "N1 と N2 と どちらが Adj ですか",
+              "meaning_mm": "N1 နဲ့ N2 ဘယ်ဟာက ပိုပြီး Adj ဖြစ်သလဲ",
+              "formation": "Noun 1 + と + Noun 2 + と + どちらが + Adj + ですか",
+              "examples": [
+                {
+                  "jp": "肉と魚とどちらが好きですか。",
+                  "romaji": "Niku to sakana to dochira ga suki desu ka.",
+                  "mm": "အသားနဲ့ ငါး ဘယ်ဟာကို ပိုကြိုက်လဲ။"
+                }
+              ]
+            },
+            {
+              "id": "g12_004",
+              "pattern": "N [の 中] で N2 が いちばん Adj です",
+              "meaning_mm": "N ထဲမှာ N2 က အဖြစ်ဆုံးပါ",
+              "formation": "Category + で + Noun + が + いちばん + Adj + です",
+              "examples": [
+                {
+                  "jp": "スポーツの中でサッカーがいちばん好きです。",
+                  "romaji": "Supōtsu no naka de sakkā ga ichiban suki desu.",
+                  "mm": "အားကစားတွေထဲမှာ ဘောလုံးကို အကြိုက်ဆုံးပါ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 13,
+          "title": "第13課",
+          "grammar_list": [
+            {
+              "id": "g13_001",
+              "pattern": "N が 欲しい (ほしい) です",
+              "meaning_mm": "N ကို လိုချင်ပါတယ်",
+              "formation": "Noun + が + ほしい + です",
+              "examples": [
+                {
+                  "jp": "私は新しいパソコンが欲しいです。",
+                  "romaji": "Watashi wa atarashii pasokon ga hoshii desu.",
+                  "mm": "ကျွန်တော် ကွန်ပျူတာအသစ် လိုချင်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g13_002",
+              "pattern": "V-たい です",
+              "meaning_mm": "～လုပ်ချင်ပါတယ်",
+              "formation": "Verb ます ဖြုတ် + たい + です",
+              "examples": [
+                {
+                  "jp": "日本へ行きたいです。",
+                  "romaji": "Nihon e ikitai desu.",
+                  "mm": "ဂျပန်ကို သွားချင်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g13_003",
+              "pattern": "N (နေရာ) へ V-に 行きます/来ます/帰ります",
+              "meaning_mm": "～(နေရာ) သို့ ～ရန် သွားသည်/လာသည်/ပြန်သည်",
+              "formation": "Place + へ + Verb Stem/Noun + に + 行きます",
+              "examples": [
+                {
+                  "jp": "デパートへ靴を買いに行きます。",
+                  "romaji": "Depāto e kutsu o kai ni ikimasu.",
+                  "mm": "ကုန်တိုက်ကို ဖိနပ်ဝယ်ဖို့ သွားပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 14,
+          "title": "第14課",
+          "grammar_list": [
+            {
+              "id": "g14_001",
+              "pattern": "Verb て-form",
+              "meaning_mm": "ကြိယာ て ပုံစံ ပြောင်းလဲခြင်း",
+              "formation": "Group 1: い/ち/り->って, み/び/に->んで, き->いて, ぎ->いで, し->して. Group 2: V-て. Group 3: して/きて",
+              "examples": [
+                {
+                  "jp": "書きます → 書いて",
+                  "romaji": "Kakimasu -> Kaite",
+                  "mm": "ရေးသည် → ရေး၍/ရေးပြီး"
+                }
+              ]
+            },
+            {
+              "id": "g14_002",
+              "pattern": "V-て ください",
+              "meaning_mm": "ကျေးဇူးပြု၍ ～လုပ်ပေးပါ",
+              "formation": "Verb て-form + ください",
+              "examples": [
+                {
+                  "jp": "ここに名前を書いてください。",
+                  "romaji": "Koko ni namae o kaite kudasai.",
+                  "mm": "ဒီနေရာမှာ နာမည်ရေးပေးပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g14_003",
+              "pattern": "V-ましょうか",
+              "meaning_mm": "～လုပ်ပေးရမလား (ကူညီရန် ကမ်းလှမ်းခြင်း)",
+              "formation": "Verb ます ဖြုတ် + ましょうか",
+              "examples": [
+                {
+                  "jp": "荷物を持ちましょうか。",
+                  "romaji": "Nimotsu o mochimashō ka.",
+                  "mm": "ပစ္စည်းတွေကို သယ်ပေးရမလား။"
+                }
+              ]
+            },
+            {
+              "id": "g14_004",
+              "pattern": "V-て います (လုပ်ဆောင်ဆဲ)",
+              "meaning_mm": "～နေသည် (လက်ရှိလုပ်ဆောင်နေဆဲ)",
+              "formation": "Verb て-form + います",
+              "examples": [
+                {
+                  "jp": "今、雨が降っています。",
+                  "romaji": "Ima, ame ga futte imasu.",
+                  "mm": "အခု မိုးရွာနေပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 15,
+          "title": "第15課",
+          "grammar_list": [
+            {
+              "id": "g15_001",
+              "pattern": "V-て も いいです",
+              "meaning_mm": "～လုပ်လို့ ရပါတယ် (ခွင့်ပြုချက်)",
+              "formation": "Verb て-form + も + いいです",
+              "examples": [
+                {
+                  "jp": "写真を撮ってもいいです。",
+                  "romaji": "Shashin o totte mo ii desu.",
+                  "mm": "ဓာတ်ပုံရိုက်လို့ ရပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g15_002",
+              "pattern": "V-て は いけません",
+              "meaning_mm": "～မလုပ်ရပါ (တားမြစ်ချက်)",
+              "formation": "Verb て-form + は + いけません",
+              "examples": [
+                {
+                  "jp": "ここでタバコを吸ってはいけません。",
+                  "romaji": "Koko de tabako o sutte wa ikemasen.",
+                  "mm": "ဒီနေရာမှာ ဆေးလိပ်မသောက်ရပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g15_003",
+              "pattern": "V-て います (အခြေအနေ)",
+              "meaning_mm": "～နေသည် (ရလဒ် သို့မဟုတ် အခြေအနေတစ်ခု ဆက်လက်ဖြစ်ပေါ်နေခြင်း)",
+              "formation": "Verb て-form + います (ဥပမာ- သိသည်၊ အိမ်ထောင်ကျသည်၊ နေထိုင်သည်)",
+              "examples": [
+                {
+                  "jp": "私は大阪に住んでいます。",
+                  "romaji": "Watashi wa Ōsaka ni sunde imasu.",
+                  "mm": "ကျွန်တော် အိုဆာကာမှာ နေထိုင်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 16,
+          "title": "第16課",
+          "grammar_list": [
+            {
+              "id": "g16_001",
+              "pattern": "V-て、V-て、...",
+              "meaning_mm": "～ပြီး၊ ～ပြီး (လုပ်ဆောင်ချက်များကို အစီအစဉ်အလိုက် ဆက်ပြခြင်း)",
+              "formation": "V1-て + V2-て + V3",
+              "examples": [
+                {
+                  "jp": "朝ごはんを食べて、学校へ行きます。",
+                  "romaji": "Asagohan o tabete, gakkō e ikimasu.",
+                  "mm": "မနက်စာစားပြီး ကျောင်းကို သွားပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g16_002",
+              "pattern": "い-Adj -> ～くて、...",
+              "meaning_mm": "～ဖြစ်ပြီး၊ ～ (နာမဝိသေသနများကို ဆက်ခြင်း)",
+              "formation": "い-Adj (い ဖြုတ်) + くて + ...",
+              "examples": [
+                {
+                  "jp": "このカメラは安くて、いいです。",
+                  "romaji": "Kono kamera wa yasukute, ii desu.",
+                  "mm": "ဒီကင်မရာက ဈေးသက်သာပြီး ကောင်းပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g16_003",
+              "pattern": "な-Adj / N -> ～で、...",
+              "meaning_mm": "～ဖြစ်ပြီး၊ ～ (နာမဝိသေသန သို့မဟုတ် Noun များကို ဆက်ခြင်း)",
+              "formation": "な-Adj/Noun + で + ...",
+              "examples": [
+                {
+                  "jp": "カリナさんは学生で、きれいです。",
+                  "romaji": "Karina-san wa gakusei de, kirei desu.",
+                  "mm": "ကာရီနာဆန်က ကျောင်းသူဖြစ်ပြီး လှပပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g16_004",
+              "pattern": "V-て から、...",
+              "meaning_mm": "～ပြီးတဲ့နောက်မှာ (တစ်ခုပြီးမှ တစ်ခုကို အလေးပေးခြင်း)",
+              "formation": "Verb て-form + から + Verb",
+              "examples": [
+                {
+                  "jp": "仕事が終わってから、飲みに行きます。",
+                  "romaji": "Shigoto ga owatte kara, nomi ni ikimasu.",
+                  "mm": "အလုပ်ပြီးတဲ့နောက် သောက်ဖို့သွားပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 17,
+          "title": "第17課",
+          "grammar_list": [
+            {
+              "id": "g17_001",
+              "pattern": "Verb ない-form",
+              "meaning_mm": "ကြိယာ ない ပုံစံ ပြောင်းလဲခြင်း",
+              "formation": "Group 1: u -> a + ない, Group 2: V-ない, Group 3: しない/こない",
+              "examples": [
+                {
+                  "jp": "飲みます → 飲まない",
+                  "romaji": "Nomimasu -> Nomanai",
+                  "mm": "သောက်သည် → မသောက်ဘူး"
+                }
+              ]
+            },
+            {
+              "id": "g17_002",
+              "pattern": "V-ないで ください",
+              "meaning_mm": "ကျေးဇူးပြု၍ ～မလုပ်ပါနဲ့",
+              "formation": "Verb ない-form + で + ください",
+              "examples": [
+                {
+                  "jp": "写真を撮らないでください。",
+                  "romaji": "Shashin o toranaide kudasai.",
+                  "mm": "ဓာတ်ပုံ မရိုက်ပါနဲ့။"
+                }
+              ]
+            },
+            {
+              "id": "g17_003",
+              "pattern": "V-なければ なりません",
+              "meaning_mm": "～လုပ်ရမည် (မဖြစ်မနေ)",
+              "formation": "Verb ない-form (い ဖြုတ်) + ければ + なりません",
+              "examples": [
+                {
+                  "jp": "薬を飲まなければなりません。",
+                  "romaji": "Kusuri o nomanakereba narimasen.",
+                  "mm": "ဆေး မသောက်လို့ မရပါဘူး (သောက်ရပါမယ်)။"
+                }
+              ]
+            },
+            {
+              "id": "g17_004",
+              "pattern": "V-なくても いいです",
+              "meaning_mm": "～မလုပ်လည်း ရပါတယ်",
+              "formation": "Verb ない-form (い ဖြုတ်) + くても + いいです",
+              "examples": [
+                {
+                  "jp": "明日、来なくてもいいです。",
+                  "romaji": "Ashita, konakutemo ii desu.",
+                  "mm": "မနက်ဖြန် မလာလည်း ရပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 18,
+          "title": "第18課",
+          "grammar_list": [
+            {
+              "id": "g18_001",
+              "pattern": "Verb 辞書形 (Dictionary form)",
+              "meaning_mm": "ကြိယာ မူရင်းပုံစံ (အဘိဓာန်ပုံစံ)",
+              "formation": "Group 1: u-ending, Group 2: V-る, Group 3: する/くる",
+              "examples": [
+                {
+                  "jp": "書きます → 書く",
+                  "romaji": "Kakimasu -> Kaku",
+                  "mm": "ရေးသည် → ရေး"
+                }
+              ]
+            },
+            {
+              "id": "g18_002",
+              "pattern": "V-辞書形 ことが できます",
+              "meaning_mm": "～လုပ်နိုင်သည်",
+              "formation": "Verb Dictionary form + ことが + できます",
+              "examples": [
+                {
+                  "jp": "私はピアノを弾くことができます。",
+                  "romaji": "Watashi wa piano o hiku koto ga dekimasu.",
+                  "mm": "ကျွန်တော် စန္ဒယားတီးနိုင်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g18_003",
+              "pattern": "趣味は V-辞書形 ことです",
+              "meaning_mm": "ဝါသနာသည် ～လုပ်ခြင်း ဖြစ်သည်",
+              "formation": "趣味は + Verb Dictionary form + こと + です",
+              "examples": [
+                {
+                  "jp": "私の趣味は映画を見ることです。",
+                  "romaji": "Watashi no shumi wa eiga o miru koto desu.",
+                  "mm": "ကျွန်တော့်ဝါသနာက ရုပ်ရှင်ကြည့်ခြင်းဖြစ်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g18_004",
+              "pattern": "V-辞書形 / Nの / Time 前に (まえに)",
+              "meaning_mm": "～မတိုင်ခင်",
+              "formation": "V-Dictionary / Nの / Time + 前に",
+              "examples": [
+                {
+                  "jp": "寝る前に、本を読みます。",
+                  "romaji": "Neru mae ni, hon o yomimasu.",
+                  "mm": "မအိပ်ခင် စာအုပ်ဖတ်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 19,
+          "title": "第19課",
+          "grammar_list": [
+            {
+              "id": "g19_001",
+              "pattern": "Verb た-form",
+              "meaning_mm": "ကြိယာ た ပုံစံ (အတိတ်ကာလ ပုံစံတို)",
+              "formation": "て-form နှင့် အတူတူပင်ဖြစ်သည် (て အစား た/だ ပြောင်းရန်)",
+              "examples": [
+                {
+                  "jp": "書きます → 書いて → 書いた",
+                  "romaji": "Kakimasu -> Kaite -> Kaita",
+                  "mm": "ရေးသည် → ရေး၍ → ရေးခဲ့သည်"
+                }
+              ]
+            },
+            {
+              "id": "g19_002",
+              "pattern": "V-た ことが あります",
+              "meaning_mm": "～လုပ်ဖူးသည် (အတွေ့အကြုံ)",
+              "formation": "Verb た-form + ことが + あります",
+              "examples": [
+                {
+                  "jp": "日本へ行ったことがあります。",
+                  "romaji": "Nihon e itta koto ga arimasu.",
+                  "mm": "ဂျပန်ကို သွားဖူးပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g19_003",
+              "pattern": "V-たり、V-たり します",
+              "meaning_mm": "～လုပ်လိုက်၊ ～လုပ်လိုက် လုပ်သည်",
+              "formation": "V-た + り + V-た + り + します",
+              "examples": [
+                {
+                  "jp": "日曜日は本を読んだり、映画を見たりします。",
+                  "romaji": "Nichiyōbi wa hon o yondari, eiga o mitari shimasu.",
+                  "mm": "တနင်္ဂနွေနေ့မှာ စာအုပ်ဖတ်လိုက် ရုပ်ရှင်ကြည့်လိုက် လုပ်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g19_004",
+              "pattern": "Adj / N に なります",
+              "meaning_mm": "～ဖြစ်လာသည် (အပြောင်းအလဲ)",
+              "formation": "い-Adj: くなります / な-Adj/N: になります",
+              "examples": [
+                {
+                  "jp": "寒くなります。",
+                  "romaji": "Samukunarimasu.",
+                  "mm": "အေးလာပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 20,
+          "title": "第20課",
+          "grammar_list": [
+            {
+              "id": "g20_001",
+              "pattern": "普通形 (Plain Form)",
+              "meaning_mm": "ရိုးရိုးပုံစံ (သူငယ်ချင်း၊ မိသားစုကြား သုံးသောအသုံး)",
+              "formation": "ます -> 辞書形 / ません -> ない形 / ました -> た形",
+              "examples": [
+                {
+                  "jp": "明日、東京へ行く？",
+                  "romaji": "Ashita, Tōkyō e iku?",
+                  "mm": "မနက်ဖြန် တိုကျိုကို သွားမလား။ (ရိုးရိုးအသုံး)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 21,
+          "title": "第21課",
+          "grammar_list": [
+            {
+              "id": "g21_001",
+              "pattern": "～と 思います (おもいます)",
+              "meaning_mm": "～မယ်လို့ ထင်ပါတယ်",
+              "formation": "Plain form + と + 思います",
+              "examples": [
+                {
+                  "jp": "明日、雨が降ると思います。",
+                  "romaji": "Ashita, ame ga furu to omoimasu.",
+                  "mm": "မနက်ဖြန် မိုးရွာမယ်လို့ ထင်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g21_002",
+              "pattern": "～と 言いました (いいました)",
+              "meaning_mm": "～လို့ ပြောခဲ့ပါတယ်",
+              "formation": "Plain form + と + 言いました",
+              "examples": [
+                {
+                  "jp": "ミラーさんは来週休むと言いました。",
+                  "romaji": "Mirā-san wa raishū yasumu to iimashita.",
+                  "mm": "မီလာဆန်က နောက်အပတ် နားမယ်လို့ ပြောခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g21_003",
+              "pattern": "～でしょう",
+              "meaning_mm": "～မှာပဲ/～လောက်မယ် (ခန့်မှန်းချက်)",
+              "formation": "Plain form + でしょう",
+              "examples": [
+                {
+                  "jp": "明日はいい天気でしょう。",
+                  "romaji": "Ashita wa ii tenki deshō.",
+                  "mm": "မနက်ဖြန်က ရာသီဥတု ကောင်းမှာပဲ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 22,
+          "title": "第22課",
+          "grammar_list": [
+            {
+              "id": "g22_001",
+              "pattern": "Noun Modification (Relative Clause)",
+              "meaning_mm": "Noun ကို ဝါကျဖြင့် အထူးပြုခြင်း",
+              "formation": "Plain form sentence + Noun (ဥပမာ- ကျွန်တော် မနေ့က ဝယ်ခဲ့သော စာအုပ်)",
+              "examples": [
+                {
+                  "jp": "これは私が昨日買った本です。",
+                  "romaji": "Kore wa watashi ga kinō katta hon desu.",
+                  "mm": "ဒါက ကျွန်တော် မနေ့က ဝယ်ခဲ့တဲ့ စာအုပ် ဖြစ်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 23,
+          "title": "第23課",
+          "grammar_list": [
+            {
+              "id": "g23_001",
+              "pattern": "V-辞書形 / V-た / V-ない / Adj / Nの とき",
+              "meaning_mm": "～သည့်အခါ / ～တုန်းက",
+              "formation": "Plain form + とき (な-Adj: な/ N: の)",
+              "examples": [
+                {
+                  "jp": "図書館で本を借りるとき、カードが要ります。",
+                  "romaji": "Toshokan de hon o kariru toki, kādo ga irimasu.",
+                  "mm": "စာကြည့်တိုက်မှာ စာအုပ်ငှားတဲ့အခါ ကတ်လိုပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g23_002",
+              "pattern": "V-辞書形 と、...",
+              "meaning_mm": "～လျှင် (အလိုအလျောက် ဖြစ်ပေါ်မှု သို့မဟုတ် လမ်းညွှန်ချက်)",
+              "formation": "Verb Dictionary form + と",
+              "examples": [
+                {
+                  "jp": "このボタンを押すと、お釣りが出ます。",
+                  "romaji": "Kono botan o osu to, otsuri ga demasu.",
+                  "mm": "ဒီခလုတ်ကို နှိပ်လိုက်ရင် ပိုက်ဆံအမ်းတာ ထွက်လာပါမယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 24,
+          "title": "第24課",
+          "grammar_list": [
+            {
+              "id": "g24_001",
+              "pattern": "くれます",
+              "meaning_mm": "ပေးသည် (သူတစ်ပါးက ကိုယ့်ကို ပေးခြင်း)",
+              "formation": "Person + が + わたし + に + N ကို + くれます",
+              "examples": [
+                {
+                  "jp": "佐藤さんが私に花をくれました。",
+                  "romaji": "Satō-san ga watashi ni hana o kuremashita.",
+                  "mm": "ဆာတိုးဆန်က ကျွန်တော့်ကို ပန်းပေးခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g24_002",
+              "pattern": "V-て あげる / もらう / くれる",
+              "meaning_mm": "～လုပ်ပေးသည် / ～လုပ်ပေးခြင်းခံရသည် / (ကိုယ့်ကို) ～လုပ်ပေးသည်",
+              "formation": "Verb て-form + あげます/もらいます/くれます",
+              "examples": [
+                {
+                  "jp": "私は友達に本を貸してあげました。",
+                  "romaji": "Watashi wa tomodachi ni hon o kashite agemashita.",
+                  "mm": "ကျွန်တော် သူငယ်ချင်းကို စာအုပ်ငှားပေးခဲ့ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 25,
+          "title": "第25課",
+          "grammar_list": [
+            {
+              "id": "g25_001",
+              "pattern": "V-たら、...",
+              "meaning_mm": "～လျှင် / ～ပြီးနောက်",
+              "formation": "Verb た-form + ら",
+              "examples": [
+                {
+                  "jp": "お金があったら、旅行します。",
+                  "romaji": "Okane ga attara, ryokō shimasu.",
+                  "mm": "ပိုက်ဆံရှိခဲ့ရင် ခရီးသွားမယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g25_002",
+              "pattern": "V-て も、...",
+              "meaning_mm": "～သော်လည်း / ～ပေမယ့်လည်း",
+              "formation": "Verb て-form + も",
+              "examples": [
+                {
+                  "jp": "雨が降っても、出かけます。",
+                  "romaji": "Ame ga futte mo, dekakemasu.",
+                  "mm": "မိုးရွာပေမယ့်လည်း အပြင်ထွက်ပါမယ်။"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
     "lessons": [
       {
         "lesson_no": 1,
@@ -20645,614 +21254,1140 @@
         ]
       }
     ],
-    "grammar": [
-      {
-        "level": "n4",
-        "category": "grammar",
-        "lessons": [
-          {
-            "lesson_no": 26,
-            "title": "第26課",
-            "grammar_list": [
-              {
-                "id": "g26_001",
-                "pattern": "～んです",
-                "meaning_mm": "～တာပါ (အကြောင်းပြချက်၊ အခြေအနေကို အလေးပေး ရှင်းပြရာတွင် သုံးသည်)",
-                "formation": "V/A/Na/N (普通形) + んです (*Na/N だ -> な)"
-              },
-              {
-                "id": "g26_002",
-                "pattern": "～んですが、～ていただけませんか",
-                "meaning_mm": "～လို့ပါ၊ ကျေးဇူးပြု၍ ～ပေးလို့ ရမလား (ယဉ်ကျေးစွာ အကူအညီတောင်းခြင်း)",
-                "formation": "V-て形 + いただけませんか"
-              },
-              {
-                "id": "g26_003",
-                "pattern": "～んですが、どうしたらいいですか",
-                "meaning_mm": "～လို့ပါ၊ ဘယ်လိုလုပ်ရမလဲ (အကြံဉာဏ် တောင်းခံခြင်း)",
-                "formation": "V-たら + いいですか"
-              }
-            ]
-          },
-          {
-            "lesson_no": 27,
-            "title": "第27課",
-            "grammar_list": [
-              {
-                "id": "g27_001",
-                "pattern": "可能動詞 (Potential Verbs)",
-                "meaning_mm": "～နိုင်သည် (စွမ်းဆောင်နိုင်စွမ်း နှင့် အခြေအနေအရ လုပ်နိုင်ခြင်း)",
-                "formation": "Group 1: u -> eる, Group 2: V-られる, Group 3: くる->こられる, する->できる"
-              },
-              {
-                "id": "g27_002",
-                "pattern": "見えます / 聞こえます",
-                "meaning_mm": "မြင်ရသည် / ကြားရသည် (မိမိဆန္ဒမပါဘဲ အလိုလို မြင်/ကြားရခြင်း)",
-                "formation": "N が + 見えます / 聞こえます"
-              },
-              {
-                "id": "g27_003",
-                "pattern": "できます",
-                "meaning_mm": "ပြီးစီးသည် / တည်ဆောက်ပြီးသည် / ဖြစ်ပေါ်လာသည်",
-                "formation": "N が + できます"
-              },
-              {
-                "id": "g27_004",
-                "pattern": "～しか ～ません",
-                "meaning_mm": "～မှလွဲ၍ မရှိ/မလုပ် (အနည်းငယ်သာ ရှိကြောင်းကို အလေးပေး ငြင်းဆန်ခြင်း)",
-                "formation": "N しか + V-ません"
-              }
-            ]
-          },
-          {
-            "lesson_no": 28,
-            "title": "第28課",
-            "grammar_list": [
-              {
-                "id": "g28_001",
-                "pattern": "～ながら",
-                "meaning_mm": "～ရင်းနဲ့ (အလုပ်နှစ်ခုကို တစ်ပြိုင်နက်တည်း တွဲလုပ်ခြင်း)",
-                "formation": "V1-ます (ます ဖြုတ်) + ながら + V2"
-              },
-              {
-                "id": "g28_002",
-                "pattern": "～ています (習慣)",
-                "meaning_mm": "～လေ့ရှိသည် (ပုံမှန် အလေ့အကျင့်အဖြစ် အမြဲတမ်း လုပ်ဆောင်နေခြင်း)",
-                "formation": "V-て形 + います"
-              },
-              {
-                "id": "g28_003",
-                "pattern": "～し、～し、～",
-                "meaning_mm": "～ပြီး၊ ～ပြီး (အကြောင်းပြချက်များကို ဆက်တိုက် ဖော်ပြခြင်း)",
-                "formation": "普通形 (Plain Form) + し"
-              },
-              {
-                "id": "g28_004",
-                "pattern": "それに / それで",
-                "meaning_mm": "ထို့ပြင် (Moreover) / ဒါကြောင့် (Therefore)",
-                "formation": "စာကြောင်းနှစ်ကြောင်းဆက်ရာတွင် ထိပ်မှသုံးသည်"
-              }
-            ]
-          },
-          {
-            "lesson_no": 29,
-            "title": "第29課",
-            "grammar_list": [
-              {
-                "id": "g29_001",
-                "pattern": "N が V-ています",
-                "meaning_mm": "～နေသည် (အလိုအလျောက် ဖြစ်ပေါ်နေသော အခြေအနေ/ရလဒ်ကို ဖော်ပြခြင်း)",
-                "formation": "N が + 自動詞 (Intransitive Verb) -て形 + います"
-              },
-              {
-                "id": "g29_002",
-                "pattern": "～てしまいます / ～てしまいました",
-                "meaning_mm": "～ပြီးသွားမည် / ～ပြီးသွားခဲ့ပြီ (အကုန်လုပ်ဆောင်ပြီးစီးခြင်း (သို့) နောင်တရခြင်း/စိတ်မကောင်းဖြစ်ခြင်း)",
-                "formation": "V-て形 + しまいます / しまいました"
-              }
-            ]
-          },
-          {
-            "lesson_no": 30,
-            "title": "第30課",
-            "grammar_list": [
-              {
-                "id": "g30_001",
-                "pattern": "N が V-てあります",
-                "meaning_mm": "～ထားသည် (တစ်စုံတစ်ယောက်က ရည်ရွယ်ချက်ရှိရှိ လုပ်ထားသော ရလဒ်/အခြေအနေကို ပြခြင်း)",
-                "formation": "N が + 他動詞 (Transitive Verb) -て形 + あります"
-              },
-              {
-                "id": "g30_002",
-                "pattern": "V-ておきます",
-                "meaning_mm": "～ထားမည် (ကြိုတင်ပြင်ဆင်ထားခြင်း (သို့) ရှိရင်းစွဲအတိုင်း ဆက်ထားရှိခြင်း)",
-                "formation": "V-て形 + おきます"
-              },
-              {
-                "id": "g30_003",
-                "pattern": "まだ ～ています",
-                "meaning_mm": "～နေတုန်းပဲ (လုပ်ဆောင်ချက် တစ်ခု ဆက်လက်ဖြစ်ပေါ်နေဆဲဖြစ်ကြောင်း ပြခြင်း)",
-                "formation": "まだ + V-て形 + います"
-              }
-            ]
-          },
-          {
-            "lesson_no": 31,
-            "title": "第31課",
-            "grammar_list": [
-              {
-                "id": "g31_001",
-                "pattern": "意向形 (Volitional Form)",
-                "meaning_mm": "လုပ်ကြစို့ (～ましょう ၏ ရိုးရိုးပုံစံ - Plain form)",
-                "formation": "Group 1: u -> oう, Group 2: V-よう, Group 3: くる->こよう, する->しよう"
-              },
-              {
-                "id": "g31_002",
-                "pattern": "V-意向形 と 思っています",
-                "meaning_mm": "～မယ်လို့ စိတ်ကူးထားတယ် (မိမိရဲ့ ရည်ရွယ်ချက်/ဆုံးဖြတ်ချက်ကို ဖော်ပြခြင်း)",
-                "formation": "V-意向形 + と 思っています"
-              },
-              {
-                "id": "g31_003",
-                "pattern": "V-辞書形 / V-ない形 つもりです",
-                "meaning_mm": "～ဖို့ ရည်ရွယ်ထားတယ် / ～မလုပ်ဖို့ ရည်ရွယ်ထားတယ် (思っています ထက် ပိုမိုခိုင်မာသော ဆုံးဖြတ်ချက်)",
-                "formation": "V-辞書形 / V-ない形 + つもりです"
-              },
-              {
-                "id": "g31_004",
-                "pattern": "V-辞書形 / Nの 予定です",
-                "meaning_mm": "～မည့် အစီအစဉ်ရှိသည် (တရားဝင် သတ်မှတ်ထားပြီးသား အစီအစဉ်)",
-                "formation": "V-辞書形 / Nの + 予定です"
-              }
-            ]
-          },
-          {
-            "lesson_no": 32,
-            "title": "第32課",
-            "grammar_list": [
-              {
-                "id": "g32_001",
-                "pattern": "V-た形 / V-ない形 ほうがいいです",
-                "meaning_mm": "～တာ ပိုကောင်းမယ် / ～မလုပ်တာ ပိုကောင်းမယ် (အကြံပေးခြင်း)",
-                "formation": "V-た形 / V-ない形 + ほうがいいです"
-              },
-              {
-                "id": "g32_002",
-                "pattern": "～でしょう",
-                "meaning_mm": "～လောက်မယ် (မိမိရဲ့ ခန့်မှန်းချက်ကို ဖော်ပြခြင်း)",
-                "formation": "普通形 (*Na/N だ ဖြုတ်) + でしょう"
-              },
-              {
-                "id": "g32_003",
-                "pattern": "～かもしれません",
-                "meaning_mm": "～ဖြစ်ကောင်းဖြစ်မယ် (ဖြစ်နိုင်ချေ ၅၀% ခန့် ရှိကြောင်း ဖော်ပြခြင်း)",
-                "formation": "普通形 (*Na/N だ ဖြုတ်) + かもしれません"
-              }
-            ]
-          },
-          {
-            "lesson_no": 33,
-            "title": "第33課",
-            "grammar_list": [
-              {
-                "id": "g33_001",
-                "pattern": "命令形 (Imperative Form)",
-                "meaning_mm": "လုပ်စမ်း! (အမိန့်ပေးခြင်း - ယောကျာ်းလေးများ အများဆုံးသုံးသည်)",
-                "formation": "Group 1: u -> e, Group 2: V-ろ, Group 3: くる->こい, する->しろ"
-              },
-              {
-                "id": "g33_002",
-                "pattern": "禁止形 (Prohibitive Form)",
-                "meaning_mm": "မလုပ်နဲ့! (တားမြစ်ခြင်း)",
-                "formation": "V-辞書形 + な"
-              },
-              {
-                "id": "g33_003",
-                "pattern": "～と 読みます / ～と 書いてあります",
-                "meaning_mm": "～လို့ ဖတ်ရသည် / ～လို့ ရေးထားသည်",
-                "formation": "စာသား/သင်္ကေတ + と 読みます / と 書いてあります"
-              },
-              {
-                "id": "g33_004",
-                "pattern": "X は Y という 意味です",
-                "meaning_mm": "X ဆိုတာ Y လို့ အဓိပ္ပာယ်ရတယ်",
-                "formation": "X は Y + という 意味です"
-              },
-              {
-                "id": "g33_005",
-                "pattern": "～と 言っていました",
-                "meaning_mm": "～လို့ ပြောခဲ့တယ် (သူတစ်ပါးပြောခဲ့သော စကားကို ပြန်လည်ပြောပြခြင်း)",
-                "formation": "普通形 + と 言っていました"
-              },
-              {
-                "id": "g33_006",
-                "pattern": "～と 伝えていただけませんか",
-                "meaning_mm": "～လို့ ပြောပေးလို့ ရမလား (ယဉ်ကျေးစွာ စကားပါးခြင်း)",
-                "formation": "普通形 + と 伝えていただけませんか"
-              }
-            ]
-          },
-          {
-            "lesson_no": 34,
-            "title": "第34課",
-            "grammar_list": [
-              {
-                "id": "g34_001",
-                "pattern": "V1-た形 / V1-辞書形 / Nの とおりに、V2",
-                "meaning_mm": "V1/N အတိုင်း V2 ကို လုပ်သည်",
-                "formation": "V1-た形 / V1-辞書形 / Nの + とおりに + V2"
-              },
-              {
-                "id": "g34_002",
-                "pattern": "V1-た形 / Nの あとで、V2",
-                "meaning_mm": "V1/N ပြီးတဲ့နောက်မှာ V2 ကို လုပ်သည်",
-                "formation": "V1-た形 / Nの + あとで + V2"
-              },
-              {
-                "id": "g34_003",
-                "pattern": "V1-て形 / V1-ないで V2",
-                "meaning_mm": "V1 ကိုလုပ်ပြီး V2 ကို လုပ်သည် / V1 ကို မလုပ်ဘဲ V2 ကို လုပ်သည် (အခြေအနေ/ပုံစံကို ဖော်ပြခြင်း)",
-                "formation": "V1-て形 / V1-ないで + V2"
-              }
-            ]
-          },
-          {
-            "lesson_no": 35,
-            "title": "第35課",
-            "grammar_list": [
-              {
-                "id": "g35_001",
-                "pattern": "条件形 (Conditional Form - ば形)",
-                "meaning_mm": "～ရင် (အခြေအနေတစ်ခုကို ယူဆပြောဆိုခြင်း)",
-                "formation": "Group 1: u -> eば, Group 2: V-れば, Group 3: くる->くれば, する->すれば. A-い -> ければ, Na/N -> なら"
-              },
-              {
-                "id": "g35_002",
-                "pattern": "疑問詞 (Question word) V-ば いいですか",
-                "meaning_mm": "ဘယ်လို ～ရင် ကောင်းမလဲ (အကြံဉာဏ်တောင်းခြင်း)",
-                "formation": "疑問詞 + V-ば + いいですか"
-              },
-              {
-                "id": "g35_003",
-                "pattern": "N なら、～",
-                "meaning_mm": "N ဆိုရင်တော့ ～ (အကြောင်းအရာတစ်ခုကို ကန့်သတ်ပြီး အကြံပေးခြင်း/ပြောဆိုခြင်း)",
-                "formation": "N + なら + ～"
-              }
-            ]
-          },
-          {
-            "lesson_no": 36,
-            "title": "第36課",
-            "grammar_list": [
-              {
-                "id": "g36_001",
-                "pattern": "V-辞書形 / V-ない形 ように、～",
-                "meaning_mm": "～ဖြစ်စေဖို့ရန်အတွက် / ～မဖြစ်စေဖို့ရန်အတွက် (ရည်ရွယ်ချက်/ပန်းတိုင်ကို ဖော်ပြခြင်း)",
-                "formation": "V-辞書形 / V-ない形 + ように + ～"
-              },
-              {
-                "id": "g36_002",
-                "pattern": "V-辞書形 ようになります",
-                "meaning_mm": "～တတ်လာသည် / ～နိုင်လာသည် (အရင်က မလုပ်နိုင်ခဲ့ရာမှ ယခု လုပ်နိုင်လာသော အပြောင်းအလဲ)",
-                "formation": "V-辞書形 (အများအားဖြင့် Potential Verb) + ようになります"
-              },
-              {
-                "id": "g36_003",
-                "pattern": "V-辞書形 / V-ない形 ように しています",
-                "meaning_mm": "～အောင် ကြိုးစားနေတယ် / ～မဖြစ်အောင် ကြိုးစားနေတယ် (အလေ့အကျင့်တစ်ခုကို နေ့စဉ် ကြိုးစားလုပ်ဆောင်နေခြင်း)",
-                "formation": "V-辞書形 / V-ない形 + ように しています"
-              },
-              {
-                "id": "g36_004",
-                "pattern": "V-辞書形 / V-ない形 ように してください",
-                "meaning_mm": "～အောင် ကြိုးစားပေးပါ / ～မဖြစ်အောင် ကြိုးစားပေးပါ (သွယ်ဝိုက်ပြီး တောင်းဆိုခြင်း)",
-                "formation": "V-辞書形 / V-ない形 + ように してください"
-              }
-            ]
-          },
-          {
-            "lesson_no": 37,
-            "title": "第37課",
-            "grammar_list": [
-              {
-                "id": "g37_001",
-                "pattern": "受身形 (Passive Verb)",
-                "meaning_mm": "အလုပ်ခံရသည် (အများအားဖြင့် ဒုက္ခရောက်သော/နစ်နာသော အဓိပ္ပာယ်သက်ရောက်သည်)",
-                "formation": "Group 1: u -> aれる, Group 2: V-られる, Group 3: くる->こられる, する->される"
-              },
-              {
-                "id": "g37_002",
-                "pattern": "N1(လူ) は N2(လူ) に V-受身形",
-                "meaning_mm": "N1 သည် N2 ၏ ～လုပ်ခြင်းကို ခံရသည်",
-                "formation": "N1 は + N2 に + V-受身形"
-              },
-              {
-                "id": "g37_003",
-                "pattern": "N1(လူ) は N2(လူ) に N3(ပစ္စည်း) を V-受身形",
-                "meaning_mm": "N1 သည် N2 ၏ N3 ကို ～လုပ်ခြင်း ခံရသည် (မိမိပစ္စည်းကို သူတစ်ပါးက တစ်ခုခုလုပ်ခြင်း)",
-                "formation": "N1 は + N2 に + N3 を + V-受身形"
-              },
-              {
-                "id": "g37_004",
-                "pattern": "N(အရာဝတ္ထု) が/は V-受身形",
-                "meaning_mm": "N ကို ～လုပ်သည် (ပြုလုပ်သူကို အဓိကမထားဘဲ အဖြစ်အပျက်ကိုသာ အလေးပေးပြောခြင်း)",
-                "formation": "N が/は + V-受身形 (ဥပမာ: 建てられます - တည်ဆောက်ခဲ့သည်)"
-              }
-            ]
-          },
-          {
-            "lesson_no": 38,
-            "title": "第38課",
-            "grammar_list": [
-              {
-                "id": "g38_001",
-                "pattern": "V-辞書形 のは Aです",
-                "meaning_mm": "～လုပ်ရတာက A(နာမဝိသေသန) ဖြစ်သည် (Verb ကို Noun ပြောင်းခြင်း)",
-                "formation": "V-辞書形 + のは + Aです (A = 楽しい、難しい စသည်)"
-              },
-              {
-                "id": "g38_002",
-                "pattern": "V-辞書形 のが Aです",
-                "meaning_mm": "～လုပ်တာကို A(နာမဝိသေသန) ဖြစ်သည် (ဝါသနာ၊ ကျွမ်းကျင်မှုများကို ပြရာတွင် သုံးသည်)",
-                "formation": "V-辞書形 + のが + Aです (A = 好き、上手、下手 စသည်)"
-              },
-              {
-                "id": "g38_003",
-                "pattern": "V-辞書形 のを 忘れました",
-                "meaning_mm": "～လုပ်ဖို့ မေ့သွားခဲ့တယ်",
-                "formation": "V-辞書形 + のを 忘れました"
-              },
-              {
-                "id": "g38_004",
-                "pattern": "V-普通形 のを 知っていますか",
-                "meaning_mm": "～တယ်ဆိုတာကို သိပါသလား",
-                "formation": "V-普通形 + のを 知っていますか (*Na/N だ -> な)"
-              }
-            ]
-          },
-          {
-            "lesson_no": 39,
-            "title": "第39課",
-            "grammar_list": [
-              {
-                "id": "g39_001",
-                "pattern": "V-て形 / V-ないで、～",
-                "meaning_mm": "～လို့၊ ～ (ရှေ့ကအကြောင်းအရာကြောင့် နောက်က ရလဒ်/ခံစားချက် ဖြစ်ပေါ်လာခြင်း)",
-                "formation": "V-て形 / V-ないで + [Feeling/Potential/State]"
-              },
-              {
-                "id": "g39_002",
-                "pattern": "A-くて / Na-で / N-で、～",
-                "meaning_mm": "～ဖြစ်လို့၊ ～ (အကြောင်းပြချက်ကို ဖော်ပြခြင်း)",
-                "formation": "A-くて / Na-で / N-で + [Feeling/Potential/State]"
-              },
-              {
-                "id": "g39_003",
-                "pattern": "～ので、～",
-                "meaning_mm": "～တာကြောင့်မို့လို့ (ယဉ်ကျေးသောအကြောင်းပြချက်၊ から ထက် ပို၍ ယဉ်ကျေးသည်)",
-                "formation": "普通形 + ので (*Na/N だ -> な)"
-              }
-            ]
-          },
-          {
-            "lesson_no": 40,
-            "title": "第40課",
-            "grammar_list": [
-              {
-                "id": "g40_001",
-                "pattern": "疑問詞 (Question word) ～か、わかりません",
-                "meaning_mm": "ဘယ်သူ/ဘယ်အချိန်/ဘယ်နေရာ ～လဲ ဆိုတာ မသိဘူး (မေးခွန်းကို စာကြောင်းထဲ ထည့်သွင်းခြင်း)",
-                "formation": "疑問詞 + 普通形 + か、わかりません (*Na/N だ ဖြုတ်)"
-              },
-              {
-                "id": "g40_002",
-                "pattern": "～かどうか、わかりません",
-                "meaning_mm": "～ဟုတ်၊ မဟုတ် / ～လုပ်မယ်၊ မလုပ်ဘူး ဆိုတာ မသိဘူး (Yes/No မေးခွန်းကို စာကြောင်းထဲ ထည့်သွင်းခြင်း)",
-                "formation": "普通形 + かどうか、わかりません (*Na/N だ ဖြုတ်)"
-              },
-              {
-                "id": "g40_003",
-                "pattern": "V-てみます",
-                "meaning_mm": "～ကြည့်မည် (စမ်းသပ်လုပ်ဆောင်ကြည့်ခြင်း)",
-                "formation": "V-て形 + みます"
-              }
-            ]
-          },
-          {
-            "lesson_no": 41,
-            "title": "第41課",
-            "grammar_list": [
-              {
-                "id": "g41_001",
-                "pattern": "いただきます / くださいます / やります",
-                "meaning_mm": "ရသည်(နှိမ့်ချ) / ပေးသည်(မြှင့်တင်) / ပေးသည်(အောက်လက်ငယ်သား/တိရစ္ဆာန်) (ပေးခြင်း/ရယူခြင်း စကားလုံးများ)",
-                "formation": "もらう -> いただく / くれる -> くださる / あげる -> やる"
-              },
-              {
-                "id": "g41_002",
-                "pattern": "V-て いただきます / くださいます / やります",
-                "meaning_mm": "လုပ်ပေးခြင်း၊ လုပ်ဆောင်ချက်ကို လက်ခံရယူခြင်း (ယဉ်ကျေးသောအသုံး)",
-                "formation": "V-て形 + いただきます / くださいます / やります"
-              }
-            ]
-          },
-          {
-            "lesson_no": 42,
-            "title": "第42課",
-            "grammar_list": [
-              {
-                "id": "g42_001",
-                "pattern": "V-辞書形 / Nの ために、～",
-                "meaning_mm": "～ရန်အတွက် / ～အတွက် (ရည်ရွယ်ချက်၊ အကျိုးကို ဖော်ပြခြင်း)",
-                "formation": "V-辞書形 / Nの + ために + ～"
-              },
-              {
-                "id": "g42_002",
-                "pattern": "V-辞書形 のに / N に、～",
-                "meaning_mm": "～ဖို့ရန်အတွက် (အချိန်၊ ငွေကြေး၊ ပစ္စည်း စသည်တို့ အသုံးပြုပုံကို ဖော်ပြရာတွင် သုံးသည်)",
-                "formation": "V-辞書形 + のに / N に + [使います / かかります / 役に立ちます]"
-              }
-            ]
-          },
-          {
-            "lesson_no": 43,
-            "title": "第43課",
-            "grammar_list": [
-              {
-                "id": "g43_001",
-                "pattern": "V-ます / A-い / Na-な そうです",
-                "meaning_mm": "～မယ့်ပုံပဲ / ～တဲ့ပုံပဲ (မြင်ရသည့်အခြေအနေအရ ခန့်မှန်းပြောဆိုခြင်း)",
-                "formation": "V-ます (ます ဖြုတ်) / A-い (い ဖြုတ်) / Na-な (な ဖြုတ်) + そうです"
-              },
-              {
-                "id": "g43_002",
-                "pattern": "V-て 来ます",
-                "meaning_mm": "～ပြီး ပြန်လာခဲ့မယ် (တစ်နေရာသို့သွား၍ တစ်ခုခုလုပ်ပြီး ပြန်လာမည်)",
-                "formation": "V-て形 + 来ます"
-              }
-            ]
-          },
-          {
-            "lesson_no": 44,
-            "title": "第44課",
-            "grammar_list": [
-              {
-                "id": "g44_001",
-                "pattern": "V-ます / A-い / Na-な すぎます",
-                "meaning_mm": "～လွန်းသည် (ပမာဏ သို့မဟုတ် အခြေအနေ လွန်ကဲမှုကို ပြသည်)",
-                "formation": "V-ます (ます ဖြုတ်) / A-い (い ဖြုတ်) / Na-な (な ဖြုတ်) + すぎます"
-              },
-              {
-                "id": "g44_002",
-                "pattern": "V-ます やすいです / にくいです",
-                "meaning_mm": "～ရလွယ်သည် / ～ရခက်သည်",
-                "formation": "V-ます (ます ဖြုတ်) + やすいです / にくいです"
-              },
-              {
-                "id": "g44_003",
-                "pattern": "A-く / Na-に / N-に します",
-                "meaning_mm": "～ဖြစ်အောင် လုပ်သည် / ～အဖြစ် သတ်မှတ်သည်(ရွေးချယ်သည်)",
-                "formation": "A-い -> A-く します / Na, N -> に します"
-              }
-            ]
-          },
-          {
-            "lesson_no": 45,
-            "title": "第45課",
-            "grammar_list": [
-              {
-                "id": "g45_001",
-                "pattern": "～場合は、",
-                "meaning_mm": "～တဲ့အခြေအနေမျိုးမှာ / ～တဲ့အခါကျရင် (အခြေအနေတစ်ခုကို ယူဆပြောဆိုခြင်း)",
-                "formation": "V-普通形 / A-い / Na-な / N-の + 場合は"
-              },
-              {
-                "id": "g45_002",
-                "pattern": "～のに、",
-                "meaning_mm": "～ပေမယ့်လည်း (မျှော်လင့်ထားသည်နှင့် ဆန့်ကျင်ဘက်ဖြစ်နေသောအခါ နောင်တ/အံ့ဩမှုဖြင့် သုံးသည်)",
-                "formation": "普通形 + のに (*Na/N だ -> な)"
-              }
-            ]
-          },
-          {
-            "lesson_no": 46,
-            "title": "第46課",
-            "grammar_list": [
-              {
-                "id": "g46_001",
-                "pattern": "V-辞書形 / V-ている / V-た ところです",
-                "meaning_mm": "ခုလေးတင် ～တော့မလို့ / ～နေတုန်းပဲ / ခုလေးတင် ～ပြီးသွားပြီ (အချိန်ကာလ အတိအကျကို ပြခြင်း)",
-                "formation": "V-辞書形 / V-て形 いる / V-た形 + ところです"
-              },
-              {
-                "id": "g46_002",
-                "pattern": "V-た ばかりです",
-                "meaning_mm": "ခုလေးတင် ～ပြီးကာစဖြစ်သည် (ပြောဆိုသူ၏ စိတ်ခံစားချက်အရ အချိန်မကြာသေးကြောင်း ပြသည်)",
-                "formation": "V-た形 + ばかりです"
-              },
-              {
-                "id": "g46_003",
-                "pattern": "～はずです",
-                "meaning_mm": "～သေချာပေါက်ဖြစ်မယ် / ～မှာပဲ (ခိုင်လုံသော အကြောင်းပြချက်ဖြင့် ယုံကြည်ချက်ကို ပြသည်)",
-                "formation": "普通形 + はずです (*Na だ -> な / N だ -> の)"
-              }
-            ]
-          },
-          {
-            "lesson_no": 47,
-            "title": "第47課",
-            "grammar_list": [
-              {
-                "id": "g47_001",
-                "pattern": "～そうです (伝聞)",
-                "meaning_mm": "～တယ်လို့ ကြားတယ် (သူတစ်ပါးထံမှ ကြားသိရသော သတင်းကို ပြန်ပြောခြင်း)",
-                "formation": "普通形 + そうです"
-              },
-              {
-                "id": "g47_002",
-                "pattern": "～ようです",
-                "meaning_mm": "～ပုံပေါ်တယ် / ～တဲ့ပုံပဲ (အာရုံခံစားမှု သို့မဟုတ် အခြေအနေအရ ခန့်မှန်းခြင်း)",
-                "formation": "普通形 + ようです (*Na だ -> な / N だ -> の)"
-              }
-            ]
-          },
-          {
-            "lesson_no": 48,
-            "title": "第48課",
-            "grammar_list": [
-              {
-                "id": "g48_001",
-                "pattern": "使役動詞 (Causative Verb)",
-                "meaning_mm": "လုပ်ခိုင်းသည် / ခွင့်ပြုသည်",
-                "formation": "Group 1: u -> aせる, Group 2: V-させる, Group 3: くる->こさせる, する->させる"
-              },
-              {
-                "id": "g48_002",
-                "pattern": "V-使役て いただけませんか",
-                "meaning_mm": "ကျွန်တော့်ကို ～လုပ်ခွင့်ပြုပါ (ယဉ်ကျေးစွာ ခွင့်တောင်းခြင်း)",
-                "formation": "V-使役 (Causative) て形 + いただけませんか"
-              }
-            ]
-          },
-          {
-            "lesson_no": 49,
-            "title": "第49課",
-            "grammar_list": [
-              {
-                "id": "g49_001",
-                "pattern": "尊敬語 (Sonkeigo - Respectful Language)",
-                "meaning_mm": "သူတစ်ပါး၏ လုပ်ဆောင်ချက်ကို မြှောက်စားပြောခြင်း (ဥပမာ: いらっしゃいます၊ めしあがります)",
-                "formation": "သီးသန့်ပြောင်းလဲသော စကားလုံးများ (Special Respectful Verbs)"
-              },
-              {
-                "id": "g49_002",
-                "pattern": "お V-ます に なります",
-                "meaning_mm": "သူတစ်ပါး၏ လုပ်ဆောင်ချက်ကို မြှောက်စားပြောခြင်း (General Rule)",
-                "formation": "お + V-ます (ます ဖြုတ်) + に なります"
-              }
-            ]
-          },
-          {
-            "lesson_no": 50,
-            "title": "第50課",
-            "grammar_list": [
-              {
-                "id": "g50_001",
-                "pattern": "謙譲語 (Kenjougo - Humble Language)",
-                "meaning_mm": "မိမိ၏ လုပ်ဆောင်ချက်ကို နှိမ့်ချပြောခြင်း (ဥပမာ: まいります၊ いただきます)",
-                "formation": "သီးသန့်ပြောင်းလဲသော စကားလုံးများ (Special Humble Verbs)"
-              },
-              {
-                "id": "g50_002",
-                "pattern": "お V-ます します",
-                "meaning_mm": "မိမိ၏ လုပ်ဆောင်ချက်ကို နှိမ့်ချပြောခြင်း (General Rule)",
-                "formation": "お + V-ます (ます ဖြုတ်) + します"
-              }
-            ]
-          }
-        ]
-      }
-    ],
+    
+  "grammar": [
+    {
+      "level": "n4",
+      "category": "grammar",
+      "lessons": [
+        {
+          "lesson_no": 26,
+          "title": "第26課",
+          "grammar_list": [
+            {
+              "id": "g26_001",
+              "pattern": "～んです",
+              "meaning_mm": "～တာပါ (အကြောင်းပြချက်၊ အခြေအနေကို အလေးပေး ရှင်းပြရာတွင် သုံးသည်)",
+              "formation": "V/A/Na/N (普通形) + んです (*Na/N だ -> な)",
+              "examples": [
+                {
+                  "jp": "気分が悪いんです。",
+                  "romaji": "Kibun ga waruin desu.",
+                  "mm": "နေလို့မကောင်းလို့ပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g26_002",
+              "pattern": "～んですが、～ていただけませんか",
+              "meaning_mm": "～လို့ပါ၊ ကျေးဇူးပြု၍ ～ပေးလို့ ရမလား (ယဉ်ကျေးစွာ အကူအညီတောင်းခြင်း)",
+              "formation": "V-て形 + いただけませんか",
+              "examples": [
+                {
+                  "jp": "日本語がわからないんですが、教えていただけませんか。",
+                  "romaji": "Nihongo ga wakaranain desu ga, oshiete itadakemasen ka.",
+                  "mm": "ဂျပန်စာနားမလည်လို့ပါ၊ သင်ပေးလို့ရမလား။"
+                }
+              ]
+            },
+            {
+              "id": "g26_003",
+              "pattern": "～んですが、どうしたらいいですか",
+              "meaning_mm": "～လို့ပါ၊ ဘယ်လိုလုပ်ရမလဲ (အကြံဉာဏ် တောင်းခံခြင်း)",
+              "formation": "V-たら + いいですか",
+              "examples": [
+                {
+                  "jp": "パスポートをなくしたんですが、どうしたらいいですか。",
+                  "romaji": "Pasupōto o nakushitan desu ga, dō shitara ii desu ka.",
+                  "mm": "ပတ်စ်ပို့ပျောက်သွားလို့ပါ၊ ဘယ်လိုလုပ်ရမလဲ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 27,
+          "title": "第27課",
+          "grammar_list": [
+            {
+              "id": "g27_001",
+              "pattern": "可能動詞 (Potential Verbs)",
+              "meaning_mm": "～နိုင်သည် (စွမ်းဆောင်နိုင်စွမ်း နှင့် အခြေအနေအရ လုပ်နိုင်ခြင်း)",
+              "formation": "Group 1: u -> eる, Group 2: V-られる, Group 3: くる->こられる, する->できる",
+              "examples": [
+                {
+                  "jp": "私は漢字が読めます。",
+                  "romaji": "Watashi wa kanji ga yomemasu.",
+                  "mm": "ကျွန်တော် ခန်ဂျီး ဖတ်တတ်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g27_002",
+              "pattern": "見えます / 聞こえます",
+              "meaning_mm": "မြင်ရသည် / ကြားရသည် (မိမိဆန္ဒမပါဘဲ အလိုလို မြင်/ကြားရခြင်း)",
+              "formation": "N が + 見えます / 聞こえます",
+              "examples": [
+                {
+                  "jp": "ここから富士山が見えます。",
+                  "romaji": "Koko kara Fujisan ga miemasu.",
+                  "mm": "ဒီနေရာကနေ ဖူဂျီတောင်ကို မြင်ရပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g27_003",
+              "pattern": "できます",
+              "meaning_mm": "ပြီးစီးသည် / တည်ဆောက်ပြီးသည် / ဖြစ်ပေါ်လာသည်",
+              "formation": "N が + できます",
+              "examples": [
+                {
+                  "jp": "新しいスーパーができました。",
+                  "romaji": "Atarashii sūpā ga dekimashita.",
+                  "mm": "စူပါမားကတ်အသစ် ဆောက်လုပ်ပြီးသွားပါပြီ။"
+                }
+              ]
+            },
+            {
+              "id": "g27_004",
+              "pattern": "～しか ～ません",
+              "meaning_mm": "～မှလွဲ၍ မရှိ/မလုပ် (အနည်းငယ်သာ ရှိကြောင်းကို အလေးပေး ငြင်းဆန်ခြင်း)",
+              "formation": "N しか + V-ません",
+              "examples": [
+                {
+                  "jp": "財布の中に100円しかありません。",
+                  "romaji": "Saifu no naka ni hyaku-en shika arimasen.",
+                  "mm": "ပိုက်ဆံအိတ်ထဲမှာ ယန်း၁၀၀ကလွဲပြီး မရှိပါဘူး။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 28,
+          "title": "第28課",
+          "grammar_list": [
+            {
+              "id": "g28_001",
+              "pattern": "～ながら",
+              "meaning_mm": "～ရင်းနဲ့ (အလုပ်နှစ်ခုကို တစ်ပြိုင်နက်တည်း တွဲလုပ်ခြင်း)",
+              "formation": "V1-ます (ます ဖြုတ်) + ながら + V2",
+              "examples": [
+                {
+                  "jp": "音楽を聞きながら、勉強します。",
+                  "romaji": "Ongaku o kikinagara, benkyō shimasu.",
+                  "mm": "သီချင်းနားထောင်ရင်းနဲ့ စာလေ့လာပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g28_002",
+              "pattern": "～ています (習慣)",
+              "meaning_mm": "～လေ့ရှိသည် (ပုံမှန် အလေ့အကျင့်အဖြစ် အမြဲတမ်း လုပ်ဆောင်နေခြင်း)",
+              "formation": "V-て形 + います",
+              "examples": [
+                {
+                  "jp": "毎朝、ジョギングをしています。",
+                  "romaji": "Maiasa, jogingu o shite imasu.",
+                  "mm": "မနက်တိုင်း ဂျော့ကင်း ပြေးလေ့ရှိပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g28_003",
+              "pattern": "～し、～し、～",
+              "meaning_mm": "～ပြီး၊ ～ပြီး (အကြောင်းပြချက်များကို ဆက်တိုက် ဖော်ပြခြင်း)",
+              "formation": "普通形 (Plain Form) + し",
+              "examples": [
+                {
+                  "jp": "彼は頭もいいし、親切だし、人気があります。",
+                  "romaji": "Kare wa atama mo ii shi, shinsetsu da shi, ninki ga arimasu.",
+                  "mm": "သူက ဉာဏ်လည်းကောင်းပြီး သဘောလည်းကောင်းတာကြောင့် နာမည်ကြီးပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g28_004",
+              "pattern": "それに / それで",
+              "meaning_mm": "ထို့ပြင် (Moreover) / ဒါကြောင့် (Therefore)",
+              "formation": "စာကြောင်းနှစ်ကြောင်းဆက်ရာတွင် ထိပ်မှသုံးသည်",
+              "examples": [
+                {
+                  "jp": "このレストランは安いです。それに、おいしいです。",
+                  "romaji": "Kono resutoran wa yasui desu. Sore ni, oishii desu.",
+                  "mm": "ဒီစားသောက်ဆိုင်က ဈေးသက်သာပါတယ်။ ထို့ပြင် အရသာလည်းရှိပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 29,
+          "title": "第29課",
+          "grammar_list": [
+            {
+              "id": "g29_001",
+              "pattern": "N が V-ています",
+              "meaning_mm": "～နေသည် (အလိုအလျောက် ဖြစ်ပေါ်နေသော အခြေအနေ/ရလဒ်ကို ဖော်ပြခြင်း)",
+              "formation": "N が + 自動詞 (Intransitive Verb) -て形 + います",
+              "examples": [
+                {
+                  "jp": "窓が閉まっています。",
+                  "romaji": "Mado ga shimatte imasu.",
+                  "mm": "ပြတင်းပေါက် ပိတ်နေပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g29_002",
+              "pattern": "～てしまいます / ～てしまいました",
+              "meaning_mm": "～ပြီးသွားမည် / ～ပြီးသွားခဲ့ပြီ (အကုန်လုပ်ဆောင်ပြီးစီးခြင်း (သို့) နောင်တရခြင်း/စိတ်မကောင်းဖြစ်ခြင်း)",
+              "formation": "V-て形 + しまいます / しまいました",
+              "examples": [
+                {
+                  "jp": "パスポートを落としてしまいました。",
+                  "romaji": "Pasupōto o otoshite shimaimashita.",
+                  "mm": "ပတ်စ်ပို့ ပြုတ်ကျ(ပျောက်)သွားခဲ့ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 30,
+          "title": "第30課",
+          "grammar_list": [
+            {
+              "id": "g30_001",
+              "pattern": "N が V-てあります",
+              "meaning_mm": "～ထားသည် (တစ်စုံတစ်ယောက်က ရည်ရွယ်ချက်ရှိရှိ လုပ်ထားသော ရလဒ်/အခြေအနေကို ပြခြင်း)",
+              "formation": "N が + 他動詞 (Transitive Verb) -て形 + あります",
+              "examples": [
+                {
+                  "jp": "カレンダーに予定が書いてあります。",
+                  "romaji": "Karendā ni yotei ga kaite arimasu.",
+                  "mm": "ပြက္ခဒိန်မှာ အစီအစဉ် ရေးထားပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g30_002",
+              "pattern": "V-ておきます",
+              "meaning_mm": "～ထားမည် (ကြိုတင်ပြင်ဆင်ထားခြင်း (သို့) ရှိရင်းစွဲအတိုင်း ဆက်ထားရှိခြင်း)",
+              "formation": "V-て形 + おきます",
+              "examples": [
+                {
+                  "jp": "旅行の前に、切符を買っておきます。",
+                  "romaji": "Ryokō no mae ni, kippu o katte okimasu.",
+                  "mm": "ခရီးမသွားခင် လက်မှတ် ဝယ်ထားပါမယ်。"
+                }
+              ]
+            },
+            {
+              "id": "g30_003",
+              "pattern": "まだ ～ています",
+              "meaning_mm": "～နေတုန်းပဲ (လုပ်ဆောင်ချက် တစ်ခု ဆက်လက်ဖြစ်ပေါ်နေဆဲဖြစ်ကြောင်း ပြခြင်း)",
+              "formation": "まだ + V-て形 + います",
+              "examples": [
+                {
+                  "jp": "まだ雨が降っています。",
+                  "romaji": "Mada ame ga futte imasu.",
+                  "mm": "မိုးရွာနေတုန်းပါပဲ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 31,
+          "title": "第31課",
+          "grammar_list": [
+            {
+              "id": "g31_001",
+              "pattern": "意向形 (Volitional Form)",
+              "meaning_mm": "လုပ်ကြစို့ (～ましょう ၏ ရိုးရိုးပုံစံ - Plain form)",
+              "formation": "Group 1: u -> oう, Group 2: V-よう, Group 3: くる->こよう, する->しよう",
+              "examples": [
+                {
+                  "jp": "週末は海へ行こう。",
+                  "romaji": "Shūmatsu wa umi e ikō.",
+                  "mm": "ပိတ်ရက်မှာ ပင်လယ်ကို သွားကြစို့။"
+                }
+              ]
+            },
+            {
+              "id": "g31_002",
+              "pattern": "V-意向形 と 思っています",
+              "meaning_mm": "～မယ်လို့ စိတ်ကူးထားတယ် (မိမိရဲ့ ရည်ရွယ်ချက်/ဆုံးဖြတ်ချက်ကို ဖော်ပြခြင်း)",
+              "formation": "V-意向形 + と 思っています",
+              "examples": [
+                {
+                  "jp": "将来、自分の会社を作ろうと思っています。",
+                  "romaji": "Shōrai, jibun no kaisha o tsukurō to omotte imasu.",
+                  "mm": "အနာဂတ်မှာ ကိုယ်ပိုင်ကုမ္ပဏီတည်ထောင်မယ်လို့ စိတ်ကူးထားပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g31_003",
+              "pattern": "V-辞書形 / V-ない形 つもりです",
+              "meaning_mm": "～ဖို့ ရည်ရွယ်ထားတယ် / ～မလုပ်ဖို့ ရည်ရွယ်ထားတယ် (思っています ထက် ပိုမိုခိုင်မာသော ဆုံးဖြတ်ချက်)",
+              "formation": "V-辞書形 / V-ない形 + つもりです",
+              "examples": [
+                {
+                  "jp": "明日からはタバコを吸わないつもりです。",
+                  "romaji": "Ashita kara wa tabako o suwanai tsumori desu.",
+                  "mm": "မနက်ဖြန်ကစပြီး ဆေးလိပ်မသောက်ဖို့ ရည်ရွယ်ထားပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g31_004",
+              "pattern": "V-辞書形 / Nの 予定です",
+              "meaning_mm": "～မည့် အစီအစဉ်ရှိသည် (တရားဝင် သတ်မှတ်ထားပြီးသား အစီအစဉ်)",
+              "formation": "V-辞書形 / Nの + 予定です",
+              "examples": [
+                {
+                  "jp": "来週、日本へ出張する予定です。",
+                  "romaji": "Raishū, Nihon e shutchō suru yotei desu.",
+                  "mm": "နောက်အပတ်မှာ ဂျပန်ကို အလုပ်ကိစ္စနဲ့သွားဖို့ အစီအစဉ်ရှိပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 32,
+          "title": "第32課",
+          "grammar_list": [
+            {
+              "id": "g32_001",
+              "pattern": "V-た形 / V-ない形 ほうがいいです",
+              "meaning_mm": "～တာ ပိုကောင်းမယ် / ～မလုပ်တာ ပိုကောင်းမယ် (အကြံပေးခြင်း)",
+              "formation": "V-た形 / V-ない形 + ほうがいいです",
+              "examples": [
+                {
+                  "jp": "毎日、野菜を食べたほうがいいですよ。",
+                  "romaji": "Mainichi, yasai o tabeta hō ga ii desu yo.",
+                  "mm": "နေ့တိုင်း ဟင်းသီးဟင်းရွက်စားတာ ပိုကောင်းမယ်နော်။"
+                }
+              ]
+            },
+            {
+              "id": "g32_002",
+              "pattern": "～でしょう",
+              "meaning_mm": "～လောက်မယ် (မိမိရဲ့ ခန့်မှန်းချက်ကို ဖော်ပြခြင်း)",
+              "formation": "普通形 (*Na/N だ ဖြုတ်) + でしょう",
+              "examples": [
+                {
+                  "jp": "明日は雨が降るでしょう。",
+                  "romaji": "Ashita wa ame ga furu deshō.",
+                  "mm": "မနက်ဖြန် မိုးရွာလောက်မယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g32_003",
+              "pattern": "～かもしれません",
+              "meaning_mm": "～ဖြစ်ကောင်းဖြစ်မယ် (ဖြစ်နိုင်ချေ ၅၀% ခန့် ရှိကြောင်း ဖော်ပြခြင်း)",
+              "formation": "普通形 (*Na/N だ ဖြုတ်) + かもしれません",
+              "examples": [
+                {
+                  "jp": "午後から雪が降るかもしれません。",
+                  "romaji": "Gogo kara yuki ga furu kamoshiremasen.",
+                  "mm": "နေ့လယ်ကစပြီး နှင်းကျကောင်းကျနိုင်တယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 33,
+          "title": "第33課",
+          "grammar_list": [
+            {
+              "id": "g33_001",
+              "pattern": "命令形 (Imperative Form)",
+              "meaning_mm": "လုပ်စမ်း! (အမိန့်ပေးခြင်း - ယောကျာ်းလေးများ အများဆုံးသုံးသည်)",
+              "formation": "Group 1: u -> e, Group 2: V-ろ, Group 3: くる->こい, する->しろ",
+              "examples": [
+                {
+                  "jp": "早く起きろ！",
+                  "romaji": "Hayaku okiro!",
+                  "mm": "မြန်မြန်ထစမ်း。"
+                }
+              ]
+            },
+            {
+              "id": "g33_002",
+              "pattern": "禁止形 (Prohibitive Form)",
+              "meaning_mm": "မလုပ်နဲ့! (တားမြစ်ခြင်း)",
+              "formation": "V-辞書形 + な",
+              "examples": [
+                {
+                  "jp": "ここに入るな！",
+                  "romaji": "Koko ni hairuna!",
+                  "mm": "ဒီကို မဝင်နဲ့။"
+                }
+              ]
+            },
+            {
+              "id": "g33_003",
+              "pattern": "～と 読みます / ～と 書いてあります",
+              "meaning_mm": "～လို့ ဖတ်ရသည် / ～လို့ ရေးထားသည်",
+              "formation": "စာသား/သင်္ကေတ + と 読みます / と 書いてあります",
+              "examples": [
+                {
+                  "jp": "「止まれ」と書いてあります。",
+                  "romaji": "「Tomare」 to kaite arimasu.",
+                  "mm": "‘ရပ်ပါ’ လို့ ရေးထားပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g33_004",
+              "pattern": "X は Y という 意味です",
+              "meaning_mm": "X ဆိုတာ Y လို့ အဓိပ္ပာယ်ရတယ်",
+              "formation": "X は Y + という 意味です",
+              "examples": [
+                {
+                  "jp": "「立入禁止」は入るなという意味です。",
+                  "romaji": "「Tachiirikinshi」 wa hairuna to iu imi desu.",
+                  "mm": "‘ဝင်ခွင့်မပြု’ ဆိုတာ မဝင်နဲ့လို့ အဓိပ္ပာယ်ရပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g33_005",
+              "pattern": "～と 言っていました",
+              "meaning_mm": "～လို့ ပြောခဲ့တယ် (သူတစ်ပါးပြောခဲ့သော စကားကို ပြန်လည်ပြောပြခြင်း)",
+              "formation": "普通形 + と 言っていました",
+              "examples": [
+                {
+                  "jp": "田中さんは明日休むと言っていました。",
+                  "romaji": "Tanaka-san wa ashita yasumu to itte imashita.",
+                  "mm": "တာနာကာဆန်က မနက်ဖြန် နားမယ်လို့ ပြောခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g33_006",
+              "pattern": "～と 伝えていただけませんか",
+              "meaning_mm": "～လို့ ပြောပေးလို့ ရမလား (ယဉ်ကျေးစွာ စကားပါးခြင်း)",
+              "formation": "普通形 + と 伝えていただけませんか",
+              "examples": [
+                {
+                  "jp": "会議は10時からだと伝えていただけませんか。",
+                  "romaji": "Kaigi wa jū-ji kara da to tsutaete itadakemasen ka.",
+                  "mm": "အစည်းအဝေးကို ၁၀နာရီကစမယ်လို့ ပြောပေးလို့ ရမလား။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 34,
+          "title": "第34課",
+          "grammar_list": [
+            {
+              "id": "g34_001",
+              "pattern": "V1-た形 / V1-辞書形 / Nの とおりに、V2",
+              "meaning_mm": "V1/N အတိုင်း V2 ကို လုပ်သည်",
+              "formation": "V1-た形 / V1-辞書形 / Nの + とおりに + V2",
+              "examples": [
+                {
+                  "jp": "私が言うとおりに、書いてください。",
+                  "romaji": "Watashi ga iu tōri ni, kaite kudasai.",
+                  "mm": "ကျွန်တော်ပြောတဲ့အတိုင်း ရေးပေးပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g34_002",
+              "pattern": "V1-た形 / Nの あとで、V2",
+              "meaning_mm": "V1/N ပြီးတဲ့နောက်မှာ V2 ကို လုပ်သည်",
+              "formation": "V1-た形 / Nの + あとで + V2",
+              "examples": [
+                {
+                  "jp": "ごはんを食べたあとで、薬を飲みます。",
+                  "romaji": "Gohan o tabeta ato de, kusuri o nomimasu.",
+                  "mm": "ထမင်းစားပြီးတဲ့နောက်မှာ ဆေးသောက်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g34_003",
+              "pattern": "V1-て形 / V1-ないで V2",
+              "meaning_mm": "V1 ကိုလုပ်ပြီး V2 ကို လုပ်သည် / V1 ကို မလုပ်ဘဲ V2 ကို လုပ်သည် (အခြေအနေ/ပုံစံကို ဖော်ပြခြင်း)",
+              "formation": "V1-て形 / V1-ないで + V2",
+              "examples": [
+                {
+                  "jp": "傘を持たないで出かけました。",
+                  "romaji": "Kasa o motanaide dekakemashita.",
+                  "mm": "ထီးမယူဘဲ အပြင်ထွက်ခဲ့ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 35,
+          "title": "第35課",
+          "grammar_list": [
+            {
+              "id": "g35_001",
+              "pattern": "条件形 (Conditional Form - ば形)",
+              "meaning_mm": "～ရင် (အခြေအနေတစ်ခုကို ယူဆပြောဆိုခြင်း)",
+              "formation": "Group 1: u -> eば, Group 2: V-れば, Group 3: くる->くれば, する->すれば. A-い -> ければ, Na/N -> なら",
+              "examples": [
+                {
+                  "jp": "天気が良ければ、山へ行きます。",
+                  "romaji": "Tenki ga yokereba, yama e ikimasu.",
+                  "mm": "ရာသီဥတုကောင်းရင် တောင်ပေါ်သွားမယ်。"
+                }
+              ]
+            },
+            {
+              "id": "g35_002",
+              "pattern": "疑問詞 (Question word) V-ば いいですか",
+              "meaning_mm": "ဘယ်လို ～ရင် ကောင်းမလဲ (အကြံဉာဏ်တောင်းခြင်း)",
+              "formation": "疑問詞 + V-ば + いいですか",
+              "examples": [
+                {
+                  "jp": "パスポートをなくしたんですが、どうすればいいですか。",
+                  "romaji": "Pasupōto o nakushitan desu ga, dō sureba ii desu ka.",
+                  "mm": "ပတ်စ်ပို့ပျောက်သွားလို့ပါ၊ ဘယ်လိုလုပ်ရင်ကောင်းမလဲ。"
+                }
+              ]
+            },
+            {
+              "id": "g35_003",
+              "pattern": "N なら、～",
+              "meaning_mm": "N ဆိုရင်တော့ ～ (အကြောင်းအရာတစ်ခုကို ကန့်သတ်ပြီး အကြံပေးခြင်း/ပြောဆိုခြင်း)",
+              "formation": "N + なら + ～",
+              "examples": [
+                {
+                  "jp": "パソコンなら、あの店がいいですよ。",
+                  "romaji": "Pasokon nara, ano mise ga ii desu yo.",
+                  "mm": "ကွန်ပျူတာဆိုရင်တော့ ဟိုဆိုင်က ကောင်းတယ်နော်。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 36,
+          "title": "第36課",
+          "grammar_list": [
+            {
+              "id": "g36_001",
+              "pattern": "V-辞書形 / V-ない形 ように、～",
+              "meaning_mm": "～ဖြစ်စေဖို့ရန်အတွက် / ～မဖြစ်စေဖို့ရန်အတွက် (ရည်ရွယ်ချက်/ပန်းတိုင်ကို ဖော်ပြခြင်း)",
+              "formation": "V-辞書形 / V-ない形 + ように + ～",
+              "examples": [
+                {
+                  "jp": "忘れないように、メモします。",
+                  "romaji": "Wasurenai yō ni, memo shimasu.",
+                  "mm": "မမေ့စေဖို့ရန်အတွက် မှတ်စုရေးပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g36_002",
+              "pattern": "V-辞書形 ようになります",
+              "meaning_mm": "～တတ်လာသည် / ～နိုင်လာသည် (အရင်က မလုပ်နိုင်ခဲ့ရာမှ ယခု လုပ်နိုင်လာသော အပြောင်းအလဲ)",
+              "formation": "V-辞書形 (အများအားဖြင့် Potential Verb) + ようになります",
+              "examples": [
+                {
+                  "jp": "毎日練習して、泳げるようになりました。",
+                  "romaji": "Mainichi renshū shite, oyogeru yō ni narimashita.",
+                  "mm": "နေ့တိုင်းလေ့ကျင့်ပြီး ရေကူးနိုင်လာပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g36_003",
+              "pattern": "V-辞書形 / V-ない形 ように しています",
+              "meaning_mm": "～အောင် ကြိုးစားနေတယ် / ～မဖြစ်အောင် ကြိုးစားနေတယ် (အလေ့အကျင့်တစ်ခုကို နေ့စဉ် ကြိုးစားလုပ်ဆောင်နေခြင်း)",
+              "formation": "V-辞書形 / V-ない形 + ように しています",
+              "examples": [
+                {
+                  "jp": "毎日、野菜を食べるようにしています。",
+                  "romaji": "Mainichi, yasai o taberu yō ni shite imasu.",
+                  "mm": "နေ့တိုင်း ဟင်းသီးဟင်းရွက်စားဖြစ်အောင် ကြိုးစားနေပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g36_004",
+              "pattern": "V-辞書形 / V-ない形 ように してください",
+              "meaning_mm": "～အောင် ကြိုးစားပေးပါ / ～မဖြစ်အောင် ကြိုးစားပေးပါ (သွယ်ဝိုက်ပြီး တောင်းဆိုခြင်း)",
+              "formation": "V-辞書形 / V-ない形 + ように してください",
+              "examples": [
+                {
+                  "jp": "明日は遅れないようにしてください。",
+                  "romaji": "Ashita wa okurenai yō ni shite kudasai.",
+                  "mm": "မနက်ဖြန် နောက်မကျအောင် ကြိုးစားပေးပါ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 37,
+          "title": "第37課",
+          "grammar_list": [
+            {
+              "id": "g37_001",
+              "pattern": "受身形 (Passive Verb)",
+              "meaning_mm": "အလုပ်ခံရသည် (အများအားဖြင့် ဒုက္ခရောက်သော/နစ်နာသော အဓိပ္ပာယ်သက်ရောက်သည်)",
+              "formation": "Group 1: u -> aれる, Group 2: V-られる, Group 3: くる->こられる, する->される",
+              "examples": [
+                {
+                  "jp": "母に叱られました。",
+                  "romaji": "Haha ni shikararemashita.",
+                  "mm": "အမေ့ရဲ့ ဆူတာကို ခံရပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g37_002",
+              "pattern": "N1(လူ) は N2(လူ) に V-受身形",
+              "meaning_mm": "N1 သည် N2 ၏ ～လုပ်ခြင်းကို ခံရသည်",
+              "formation": "N1 は + N2 に + V-受身形",
+              "examples": [
+                {
+                  "jp": "私は先生に褒められました。",
+                  "romaji": "Watashi wa sensei ni homeraremashita.",
+                  "mm": "ကျွန်တော်သည် ဆရာ့ရဲ့ ချီးကျူးခြင်းကို ခံရပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g37_003",
+              "pattern": "N1(လူ) は N2(လူ) に N3(ပစ္စည်း) を V-受身形",
+              "meaning_mm": "N1 သည် N2 ၏ N3 ကို ～လုပ်ခြင်း ခံရသည် (မိမိပစ္စည်းကို သူတစ်ပါးက တစ်ခုခုလုပ်ခြင်း)",
+              "formation": "N1 は + N2 に + N3 を + V-受身形",
+              "examples": [
+                {
+                  "jp": "私は弟にパソコンを壊されました。",
+                  "romaji": "Watashi wa otōto ni pasokon o kowasaremashita.",
+                  "mm": "ကျွန်တော်သည် ညီလေး၏ ကွန်ပျူတာဖျက်ဆီးခြင်းကို ခံလိုက်ရပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g37_004",
+              "pattern": "N(အရာဝတ္ထု) が/は V-受身形",
+              "meaning_mm": "N ကို ～လုပ်သည် (ပြုလုပ်သူကို အဓိကမထားဘဲ အဖြစ်အပျက်ကိုသာ အလေးပေးပြောခြင်း)",
+              "formation": "N が/は + V-受身形 (ဥပမာ: 建てられます - တည်ဆောက်ခဲ့သည်)",
+              "examples": [
+                {
+                  "jp": "この家は200年前に建てられました。",
+                  "romaji": "Kono ie wa ni-hyaku nen mae ni tateraremashita.",
+                  "mm": "ဒီအိမ်ကို လွန်ခဲ့တဲ့နှစ်၂၀၀က တည်ဆောက်ခဲ့ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 38,
+          "title": "第38課",
+          "grammar_list": [
+            {
+              "id": "g38_001",
+              "pattern": "V-辞書形 のは Aです",
+              "meaning_mm": "～လုပ်ရတာက A(နာမဝိသေသန) ဖြစ်သည် (Verb ကို Noun ပြောင်းခြင်း)",
+              "formation": "V-辞書形 + のは + Aです (A = 楽しい、難しい စသည်)",
+              "examples": [
+                {
+                  "jp": "音楽を聞くのは楽しいです。",
+                  "romaji": "Ongaku o kiku no wa tanoshii desu.",
+                  "mm": "သီချင်းနားထောင်ရတာက ပျော်စရာကောင်းပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g38_002",
+              "pattern": "V-辞書形 のが Aです",
+              "meaning_mm": "～လုပ်တာကို A(နာမဝိသေသန) ဖြစ်သည် (ဝါသနာ၊ ကျွမ်းကျင်မှုများကို ပြရာတွင် သုံးသည်)",
+              "formation": "V-辞書形 + のが + Aです (A = 好き、上手、下手 စသည်)",
+              "examples": [
+                {
+                  "jp": "私は絵を描くのが好きです。",
+                  "romaji": "Watashi wa e o kaku no ga suki desu.",
+                  "mm": "ကျွန်တော် ပန်းချီဆွဲတာကို ကြိုက်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g38_003",
+              "pattern": "V-辞書形 のを 忘れました",
+              "meaning_mm": "～လုပ်ဖို့ မေ့သွားခဲ့တယ်",
+              "formation": "V-辞書形 + のを 忘れました",
+              "examples": [
+                {
+                  "jp": "薬を飲むのを忘れました。",
+                  "romaji": "Kusuri o nomu no o wasuremashita.",
+                  "mm": "ဆေးသောက်ဖို့ မေ့သွားခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g38_004",
+              "pattern": "V-普通形 のを 知っていますか",
+              "meaning_mm": "～တယ်ဆိုတာကို သိပါသလား",
+              "formation": "V-普通形 + のを 知っていますか (*Na/N だ -> な)",
+              "examples": [
+                {
+                  "jp": "木村さんが結婚したのを知っていますか。",
+                  "romaji": "Kimura-san ga kekkon shita no o shitte imasu ka.",
+                  "mm": "ခီမူရာဆန် အိမ်ထောင်ကျသွားတယ်ဆိုတာကို သိပါသလား。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 39,
+          "title": "第39課",
+          "grammar_list": [
+            {
+              "id": "g39_001",
+              "pattern": "V-て形 / V-ないで、～",
+              "meaning_mm": "～လို့၊ ～ (ရှေ့ကအကြောင်းအရာကြောင့် နောက်က ရလဒ်/ခံစားချက် ဖြစ်ပေါ်လာခြင်း)",
+              "formation": "V-て形 / V-ないで + [Feeling/Potential/State]",
+              "examples": [
+                {
+                  "jp": "ニュースを聞いて、びっくりしました。",
+                  "romaji": "Nyūsu o kiite, bikkuri shimashita.",
+                  "mm": "သတင်းကိုကြားပြီး လန့်သွားခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g39_002",
+              "pattern": "A-くて / Na-で / N-で、～",
+              "meaning_mm": "～ဖြစ်လို့၊ ～ (အကြောင်းပြချက်ကို ဖော်ပြခြင်း)",
+              "formation": "A-くて / Na-で / N-で + [Feeling/Potential/State]",
+              "examples": [
+                {
+                  "jp": "忙しくて、遊びに行けません。",
+                  "romaji": "Isogashikute, asobi ni ikemasen.",
+                  "mm": "အလုပ်များလို့ အလည်မသွားနိုင်ပါဘူး。"
+                }
+              ]
+            },
+            {
+              "id": "g39_003",
+              "pattern": "～ので、～",
+              "meaning_mm": "～တာကြောင့်မို့လို့ (ယဉ်ကျေးသောအကြောင်းပြချက်၊ から ထက် ပို၍ ယဉ်ကျေးသည်)",
+              "formation": "普通形 + ので (*Na/N だ -> な)",
+              "examples": [
+                {
+                  "jp": "日本語がわからないので、英語で話してください。",
+                  "romaji": "Nihongo ga wakaranai node, eigo de hanashite kudasai.",
+                  "mm": "ဂျပန်စာ နားမလည်တာကြောင့်မို့လို့ အင်္ဂလိပ်လို ပြောပေးပါ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 40,
+          "title": "第40課",
+          "grammar_list": [
+            {
+              "id": "g40_001",
+              "pattern": "疑問詞 (Question word) ～か、わかりません",
+              "meaning_mm": "ဘယ်သူ/ဘယ်အချိန်/ဘယ်နေရာ ～လဲ ဆိုတာ မသိဘူး (မေးခွန်းကို စာကြောင်းထဲ ထည့်သွင်းခြင်း)",
+              "formation": "疑問詞 + 普通形 + か、わかりません (*Na/N だ ဖြုတ်)",
+              "examples": [
+                {
+                  "jp": "会議は何時に終わるか、わかりません。",
+                  "romaji": "Kaigi wa nan-ji ni owaru ka, wakarimasen.",
+                  "mm": "အစည်းအဝေး ဘယ်အချိန်ပြီးမလဲဆိုတာ မသိပါဘူး。"
+                }
+              ]
+            },
+            {
+              "id": "g40_002",
+              "pattern": "～かどうか、わかりません",
+              "meaning_mm": "～ဟုတ်၊ မဟုတ် / ～လုပ်မယ်၊ မလုပ်ဘူး ဆိုတာ မသိဘူး (Yes/No မေးခွန်းကို စာကြောင်းထဲ ထည့်သွင်းခြင်း)",
+              "formation": "普通形 + かどうか、わかりません (*Na/N だ ဖြုတ်)",
+              "examples": [
+                {
+                  "jp": "明日、パーティーに行くかどうか、わかりません。",
+                  "romaji": "Ashita, pātī ni iku ka dō ka, wakarimasen.",
+                  "mm": "မနက်ဖြန် ပါတီကို သွားမယ်၊ မသွားဘူးဆိုတာ မသိသေးပါဘူး。"
+                }
+              ]
+            },
+            {
+              "id": "g40_003",
+              "pattern": "V-てみます",
+              "meaning_mm": "～ကြည့်မည် (စမ်းသပ်လုပ်ဆောင်ကြည့်ခြင်း)",
+              "formation": "V-て形 + みます",
+              "examples": [
+                {
+                  "jp": "このズボンをはいてみます。",
+                  "romaji": "Kono zubon o haite mimasu.",
+                  "mm": "ဒီဘောင်းဘီကို ဝတ်ကြည့်ပါမယ်。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 41,
+          "title": "第41課",
+          "grammar_list": [
+            {
+              "id": "g41_001",
+              "pattern": "いただきます / くださいます / やります",
+              "meaning_mm": "ရသည်(နှိမ့်ချ) / ပေးသည်(မြှင့်တင်) / ပေးသည်(အောက်လက်ငယ်သား/တိရစ္ဆာန်) (ပေးခြင်း/ရယူခြင်း စကားလုံးများ)",
+              "formation": "もらう -> いただく / くれる -> くださる / あげる -> やる",
+              "examples": [
+                {
+                  "jp": "先生に本をいただきました。",
+                  "romaji": "Sensei ni hon o itadakimashita.",
+                  "mm": "ဆရာ့ဆီကနေ စာအုပ်ကို ရခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g41_002",
+              "pattern": "V-て いただきます / くださいます / やります",
+              "meaning_mm": "လုပ်ပေးခြင်း၊ လုပ်ဆောင်ချက်ကို လက်ခံရယူခြင်း (ယဉ်ကျေးသောအသုံး)",
+              "formation": "V-て形 + いただきます / くださいます / やります",
+              "examples": [
+                {
+                  "jp": "先生に漢字を教えていただきました。",
+                  "romaji": "Sensei ni kanji o oshiete itadakimashita.",
+                  "mm": "ဆရာ့ဆီကနေ ခန်ဂျီးသင်ပေးခြင်းကို ရရှိခဲ့ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 42,
+          "title": "第42課",
+          "grammar_list": [
+            {
+              "id": "g42_001",
+              "pattern": "V-辞書形 / Nの ために、～",
+              "meaning_mm": "～ရန်အတွက် / ～အတွက် (ရည်ရွယ်ချက်၊ အကျိုးကို ဖော်ပြခြင်း)",
+              "formation": "V-辞書形 / Nの + ために + ～",
+              "examples": [
+                {
+                  "jp": "家族のために、一生懸命働きます。",
+                  "romaji": "Kazoku no tame ni, isshōkenmei hatarakimasu.",
+                  "mm": "မိသားစုအတွက် ကြိုးစားပမ်းစား အလုပ်လုပ်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g42_002",
+              "pattern": "V-辞書形 のに / N に、～",
+              "meaning_mm": "～ဖို့ရန်အတွက် (အချိန်၊ ငွေကြေး၊ ပစ္စည်း စသည်တို့ အသုံးပြုပုံကို ဖော်ပြရာတွင် သုံးသည်)",
+              "formation": "V-辞書形 + のに / N に + [使います / かかります / 役に立ちます]",
+              "examples": [
+                {
+                  "jp": "このかばんはパソコンを運ぶのに便利です。",
+                  "romaji": "Kono kaban wa pasokon o hakobu no ni benri desu.",
+                  "mm": "ဒီအိတ်က ကွန်ပျူတာသယ်ဖို့အတွက် အဆင်ပြေပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 43,
+          "title": "第43課",
+          "grammar_list": [
+            {
+              "id": "g43_001",
+              "pattern": "V-ます / A-い / Na-な そうです",
+              "meaning_mm": "～မယ့်ပုံပဲ / ～တဲ့ပုံပဲ (မြင်ရသည့်အခြေအနေအရ ခန့်မှန်းပြောဆိုခြင်း)",
+              "formation": "V-ます (ます ဖြုတ်) / A-い (い ဖြုတ်) / Na-な (な ဖြုတ်) + そうです",
+              "examples": [
+                {
+                  "jp": "今にも雨が降りそうです。",
+                  "romaji": "Ima ni mo ame ga furisō desu.",
+                  "mm": "အခုပဲ မိုးရွာတော့မယ့်ပုံပါပဲ。"
+                }
+              ]
+            },
+            {
+              "id": "g43_002",
+              "pattern": "V-て 来ます",
+              "meaning_mm": "～ပြီး ပြန်လာခဲ့မယ် (တစ်နေရာသို့သွား၍ တစ်ခုခုလုပ်ပြီး ပြန်လာမည်)",
+              "formation": "V-て形 + 来ます",
+              "examples": [
+                {
+                  "jp": "ちょっとタバコを買って来ます。",
+                  "romaji": "Chotto tabako o katte kimasu.",
+                  "mm": "ခဏလောက် ဆေးလိပ်သွားဝယ်ပြီး ပြန်လာခဲ့ပါမယ်。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 44,
+          "title": "第44課",
+          "grammar_list": [
+            {
+              "id": "g44_001",
+              "pattern": "V-ます / A-い / Na-な すぎます",
+              "meaning_mm": "～လွန်းသည် (ပမာဏ သို့မဟုတ် အခြေအနေ လွန်ကဲမှုကို ပြသည်)",
+              "formation": "V-ます (ます ဖြုတ်) / A-い (い ဖြုတ်) / Na-な (な ဖြုတ်) + すぎます",
+              "examples": [
+                {
+                  "jp": "昨日の夜、お酒を飲みすぎました。",
+                  "romaji": "Kinō no yoru, osake o nomisugimashita.",
+                  "mm": "မနေ့ညက အရက်သောက်တာ လွန်သွားခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g44_002",
+              "pattern": "V-ます やすいです / にくいです",
+              "meaning_mm": "～ရလွယ်သည် / ～ရခက်သည်",
+              "formation": "V-ます (ます ဖြုတ်) + やすいです / にくいです",
+              "examples": [
+                {
+                  "jp": "このペンはとても書きやすいです。",
+                  "romaji": "Kono pen wa totemo kakiyasui desu.",
+                  "mm": "ဒီဘောပင်က အရမ်းရေးရလွယ်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g44_003",
+              "pattern": "A-く / Na-に / N-に します",
+              "meaning_mm": "～ဖြစ်အောင် လုပ်သည် / ～အဖြစ် သတ်မှတ်သည်(ရွေးချယ်သည်)",
+              "formation": "A-い -> A-く します / Na, N -> に します",
+              "examples": [
+                {
+                  "jp": "音を大きくします。",
+                  "romaji": "Oto o ōkiku shimasu.",
+                  "mm": "အသံကို ကျယ်အောင်လုပ်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 45,
+          "title": "第45課",
+          "grammar_list": [
+            {
+              "id": "g45_001",
+              "pattern": "～場合は、",
+              "meaning_mm": "～တဲ့အခြေအနေမျိုးမှာ / ～တဲ့အခါကျရင် (အခြေအနေတစ်ခုကို ယူဆပြောဆိုခြင်း)",
+              "formation": "V-普通形 / A-い / Na-な / N-の + 場合は",
+              "examples": [
+                {
+                  "jp": "パスポートをなくした場合は、警察に行ってください。",
+                  "romaji": "Pasupōto o nakushita baai wa, keisatsu ni itte kudasai.",
+                  "mm": "ပတ်စ်ပို့ပျောက်သွားတဲ့အခြေအနေမျိုးမှာ ရဲစခန်းကို သွားပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g45_002",
+              "pattern": "～のに、",
+              "meaning_mm": "～ပေမယ့်လည်း (မျှော်လင့်ထားသည်နှင့် ဆန့်ကျင်ဘက်ဖြစ်နေသောအခါ နောင်တ/အံ့ဩမှုဖြင့် သုံးသည်)",
+              "formation": "普通形 + のに (*Na/N だ -> な)",
+              "examples": [
+                {
+                  "jp": "毎日練習したのに、試合に負けました。",
+                  "romaji": "Mainichi renshū shita noni, shiai ni makemashita.",
+                  "mm": "နေ့တိုင်းလေ့ကျင့်ခဲ့ပေမယ့်လည်း ပြိုင်ပွဲမှာ ရှုံးခဲ့ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 46,
+          "title": "第46課",
+          "grammar_list": [
+            {
+              "id": "g46_001",
+              "pattern": "V-辞書形 / V-ている / V-た ところです",
+              "meaning_mm": "ခုလေးတင် ～တော့မလို့ / ～နေတုန်းပဲ / ခုလေးတင် ～ပြီးသွားပြီ (အချိန်ကာလ အတိအကျကို ပြခြင်း)",
+              "formation": "V-辞書形 / V-て形 いる / V-た形 + ところです",
+              "examples": [
+                {
+                  "jp": "今、昼ごはんを食べているところです。",
+                  "romaji": "Ima, hirugohan o tabete iru tokoro desu.",
+                  "mm": "အခု နေ့လယ်စာစားနေတုန်းပါပဲ。"
+                }
+              ]
+            },
+            {
+              "id": "g46_002",
+              "pattern": "V-た ばかりです",
+              "meaning_mm": "ခုလေးတင် ～ပြီးကာစဖြစ်သည် (ပြောဆိုသူ၏ စိတ်ခံစားချက်အရ အချိန်မကြာသေးကြောင်း ပြသည်)",
+              "formation": "V-た形 + ばかりです",
+              "examples": [
+                {
+                  "jp": "さっき起きたばかりです。",
+                  "romaji": "Sakki okita bakari desu.",
+                  "mm": "စောစောလေးကမှ အိပ်ရာထထားတာပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g46_003",
+              "pattern": "～はずです",
+              "meaning_mm": "～သေချာပေါက်ဖြစ်မယ် / ～မှာပဲ (ခိုင်လုံသော အကြောင်းပြချက်ဖြင့် ယုံကြည်ချက်ကို ပြသည်)",
+              "formation": "普通形 + はずです (*Na だ -> な / N だ -> の)",
+              "examples": [
+                {
+                  "jp": "ミラーさんは今日来るはずです。",
+                  "romaji": "Mirā-san wa kyō kuru hazu desu.",
+                  "mm": "မီလာဆန်က ဒီနေ့ သေချာပေါက်လာမှာပါ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 47,
+          "title": "第47課",
+          "grammar_list": [
+            {
+              "id": "g47_001",
+              "pattern": "～そうです (伝聞)",
+              "meaning_mm": "～တယ်လို့ ကြားတယ် (သူတစ်ပါးထံမှ ကြားသိရသော သတင်းကို ပြန်ပြောခြင်း)",
+              "formation": "普通形 + そうです",
+              "examples": [
+                {
+                  "jp": "天気予報によると、明日は雨が降るそうです。",
+                  "romaji": "Tenkiyohō ni yoru to, ashita wa ame ga furu sō desu.",
+                  "mm": "မိုးလေဝသခန့်မှန်းချက်အရ မနက်ဖြန် မိုးရွာမယ်လို့ ကြားတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g47_002",
+              "pattern": "～ようです",
+              "meaning_mm": "～ပုံပေါ်တယ် / ～တဲ့ပုံပဲ (အာရုံခံစားမှု သို့မဟုတ် အခြေအနေအရ ခန့်မှန်းခြင်း)",
+              "formation": "普通形 + ようです (*Na だ -> な / N だ -> の)",
+              "examples": [
+                {
+                  "jp": "誰もいませんね。みんな帰ったようです。",
+                  "romaji": "Dare mo imasen ne. Minna kaetta yō desu.",
+                  "mm": "ဘယ်သူမှ မရှိဘူးနော်။ အားလုံး ပြန်သွားကြတဲ့ပုံပဲ。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 48,
+          "title": "第48課",
+          "grammar_list": [
+            {
+              "id": "g48_001",
+              "pattern": "使役動詞 (Causative Verb)",
+              "meaning_mm": "လုပ်ခိုင်းသည် / ခွင့်ပြုသည်",
+              "formation": "Group 1: u -> aせる, Group 2: V-させる, Group 3: くる->こさせる, する->させる",
+              "examples": [
+                {
+                  "jp": "先生は学生に宿題をさせました。",
+                  "romaji": "Sensei wa gakusei ni shukudai o sasemashita.",
+                  "mm": "ဆရာက ကျောင်းသားတွေကို အိမ်စာ လုပ်ခိုင်းခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g48_002",
+              "pattern": "V-使役て いただけませんか",
+              "meaning_mm": "ကျွန်တော့်ကို ～လုပ်ခွင့်ပြုပါ (ယဉ်ကျေးစွာ ခွင့်တောင်းခြင်း)",
+              "formation": "V-使役 (Causative) て形 + いただけませんか",
+              "examples": [
+                {
+                  "jp": "気分が悪いので、早く帰らせていただけませんか。",
+                  "romaji": "Kibun ga warui node, hayaku kaerasete itadakemasen ka.",
+                  "mm": "နေလို့မကောင်းတာကြောင့် စောစောပြန်ခွင့်ပြုလို့ ရမလား။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 49,
+          "title": "第49課",
+          "grammar_list": [
+            {
+              "id": "g49_001",
+              "pattern": "尊敬語 (Sonkeigo - Respectful Language)",
+              "meaning_mm": "သူတစ်ပါး၏ လုပ်ဆောင်ချက်ကို မြှောက်စားပြောခြင်း (ဥပမာ: いらっしゃいます၊ めしあがります)",
+              "formation": "သီးသန့်ပြောင်းလဲသော စကားလုံးများ (Special Respectful Verbs)",
+              "examples": [
+                {
+                  "jp": "社長はいらっしゃいますか。",
+                  "romaji": "Shachō wa irasshaimasu ka.",
+                  "mm": "သူဌေး ရှိပါသလား။"
+                }
+              ]
+            },
+            {
+              "id": "g49_002",
+              "pattern": "お V-ます に なります",
+              "meaning_mm": "သူတစ်ပါး၏ လုပ်ဆောင်ချက်ကို မြှောက်စားပြောခြင်း (General Rule)",
+              "formation": "お + V-ます (ます ဖြုတ်) + に なります",
+              "examples": [
+                {
+                  "jp": "社長はもうお帰りになりました。",
+                  "romaji": "Shachō wa mō okaeri ni narimashita.",
+                  "mm": "သူဌေးက ပြန်သွားပါပြီ。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 50,
+          "title": "第50課",
+          "grammar_list": [
+            {
+              "id": "g50_001",
+              "pattern": "謙譲語 (Kenjougo - Humble Language)",
+              "meaning_mm": "မိမိ၏ လုပ်ဆောင်ချက်ကို နှိမ့်ချပြောခြင်း (ဥပမာ: まいります၊ いただきます)",
+              "formation": "သီးသန့်ပြောင်းလဲသော စကားလုံးများ (Special Humble Verbs)",
+              "examples": [
+                {
+                  "jp": "私はアメリカから参りました。",
+                  "romaji": "Watashi wa Amerika kara mairimashita.",
+                  "mm": "ကျွန်တော်က အမေရိကန်ကနေ လာခဲ့တာပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g50_002",
+              "pattern": "お V-ます します",
+              "meaning_mm": "မိမိ၏ လုပ်ဆောင်ချက်ကို နှိမ့်ချပြောခြင်း (General Rule)",
+              "formation": "お + V-ます (ます ဖြုတ်) + します",
+              "examples": [
+                {
+                  "jp": "私が荷物をお持ちします。",
+                  "romaji": "Watashi ga nimotsu o omochi shimasu.",
+                  "mm": "ကျွန်တော် ပစ္စည်းတွေကို သယ်ပေးပါမယ်。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
     "jlpt_n4_vocab": [
       {
         "instruction": "မျဉ်းတားထားသော စာလုံး၏ အမှန်ကန်ဆုံး အသံထွက်ကို ရွေးပါ။",
