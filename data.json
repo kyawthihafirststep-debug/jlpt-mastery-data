@@ -39786,12 +39786,2508 @@
     ]
   }
 ],
+  "lessons": [
+    {
+      "lesson_no": 51,
+      "title": "第51課 (အလုပ်အကိုင်နှင့် စီးပွားရေး)",
+      "vocabulary": [
+        { "id": "v51_001", "word": "経営", "reading": "けいえい", "meaning_mm": "စီမံခန့်ခွဲမှု (Management)" },
+        { "id": "v51_002", "word": "景気", "reading": "けいき", "meaning_mm": "စီးပွားရေးအခြေအနေ" },
+        { "id": "v51_003", "word": "就職", "reading": "しゅうしょく", "meaning_mm": "အလုပ်ဝင်ခြင်း" },
+        { "id": "v51_004", "word": "退職", "reading": "たいしょく", "meaning_mm": "အလုပ်ထွက်ခြင်း / အနားယူခြင်း" },
+        { "id": "v51_005", "word": "利益", "reading": "りえき", "meaning_mm": "အကျိုးအမြတ်" },
+        { "id": "v51_006", "word": "産業", "reading": "さんぎょう", "meaning_mm": "စက်မှုလက်မှုလုပ်ငန်း" },
+        { "id": "v51_007", "word": "貿易", "reading": "ぼうえき", "meaning_mm": "နိုင်ငံတကာကုန်သွယ်မှု" },
+        { "id": "v51_008", "word": "給料", "reading": "きゅうりょう", "meaning_mm": "လစာ" },
+        { "id": "v51_009", "word": "失業", "reading": "しつぎょう", "meaning_mm": "အလုပ်လက်မဲ့ဖြစ်ခြင်း" },
+        { "id": "v51_010", "word": "残業", "reading": "ざんぎょう", "meaning_mm": "အချိန်ပိုအလုပ်လုပ်ခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 52,
+      "title": "第52課 (စိတ်နေစိတ်ထားနှင့် စရိုက်)",
+      "vocabulary": [
+        { "id": "v52_001", "word": "積極的", "reading": "せっきょくてき", "meaning_mm": "တက်ကြွသော / ဦးဆောင်ဦးရွက်ပြုသော" },
+        { "id": "v52_002", "word": "消極적", "reading": "しょうきょくてき", "meaning_mm": "တက်ကြွမှုမရှိသော / အလိုအလျောက်မလုပ်သော" },
+        { "id": "v52_003", "word": "正直", "reading": "しょうじき", "meaning_mm": "ရိုးသားဖြောင့်မတ်သော" },
+        { "id": "v52_004", "word": "我慢", "reading": "がまん", "meaning_mm": "သည်းခံခြင်း / အောင့်အည်းခြင်း" },
+        { "id": "v52_005", "word": "満足", "reading": "まんぞく", "meaning_mm": "ကျေနပ်အားရမှုရှိသော" },
+        { "id": "v52_006", "word": "退屈", "reading": "たいくつ", "meaning_mm": "ပျင်းရိငြီးငွေ့သော" },
+        { "id": "v52_007", "word": "落ち着く", "reading": "おちつく", "meaning_mm": "တည်ငြိမ်သည် / စိတ်အေးလက်အေးရှိသည်" },
+        { "id": "v52_008", "word": "わがまま", "reading": "わがまま", "meaning_mm": "တစ်ကိုယ်ကောင်းဆန်သော" },
+        { "id": "v52_009", "word": "意地悪", "reading": "いじわる", "meaning_mm": "စိတ်ပုတ်သော / ညစ်ပတ်သော" },
+        { "id": "v52_010", "word": "冷静", "reading": "れいせい", "meaning_mm": "အေးအေးဆေးဆေးရှိသော / တည်ငြိမ်သော" }
+      ]
+    },
+    {
+      "lesson_no": 53,
+      "title": "第53課 (လူမှုပတ်ဝန်းကျင်နှင့် ပြဿနာများ)",
+      "vocabulary": [
+        { "id": "v53_001", "word": "環境", "reading": "かんきょう", "meaning_mm": "ပတ်ဝန်းကျင်" },
+        { "id": "v53_002", "word": "政府", "reading": "せいふ", "meaning_mm": "အစိုးရ" },
+        { "id": "v53_003", "word": "政治", "reading": "せいじ", "meaning_mm": "နိုင်ငံရေး" },
+        { "id": "v53_004", "word": "権利", "reading": "けんり", "meaning_mm": "အခွင့်အရေး (Right)" },
+        { "id": "v53_005", "word": "義務", "reading": "ぎむ", "meaning_mm": "တာဝန် (Duty)" },
+        { "id": "v53_006", "word": "犯罪", "reading": "はんざい", "meaning_mm": "ရာဇဝတ်မှု" },
+        { "id": "v53_007", "word": "事件", "reading": "じけん", "meaning_mm": "ဖြစ်ရပ် / အမှု" },
+        { "id": "v53_008", "word": "解決", "reading": "かいけつ", "meaning_mm": "ဖြေရှင်းခြင်း" },
+        { "id": "v53_009", "word": "国際", "reading": "こくさい", "meaning_mm": "နိုင်ငံတကာ" },
+        { "id": "v53_010", "word": "社会", "reading": "しゃかい", "meaning_mm": "လူ့အဖွဲ့အစည်း" }
+      ]
+    },
+    {
+      "lesson_no": 54,
+      "title": "第54課 (ကျန်းမာရေးနှင့် ခန္ဓာကိုယ်)",
+      "vocabulary": [
+        { "id": "v54_001", "word": "健康", "reading": "けんこう", "meaning_mm": "ကျန်းမာရေး" },
+        { "id": "v54_002", "word": "筋肉", "reading": "きんにく", "meaning_mm": "ကြွက်သား" },
+        { "id": "v54_003", "word": "骨折", "reading": "こっせつ", "meaning_mm": "အရိုးကျိုးခြင်း" },
+        { "id": "v54_004", "word": "症状", "reading": "しょうじょう", "meaning_mm": "ရောဂါလက္ခဏာ" },
+        { "id": "v54_005", "word": "治療", "reading": "ちりょう", "meaning_mm": "ကုသမှု" },
+        { "id": "v54_006", "word": "手術", "reading": "しゅじゅつ", "meaning_mm": "ခွဲစိတ်မှု" },
+        { "id": "v54_007", "word": "予防", "reading": "よぼう", "meaning_mm": "ကာကွယ်ခြင်း" },
+        { "id": "v54_008", "word": "栄養", "reading": "えいよう", "meaning_mm": "အာဟာရ" },
+        { "id": "v54_009", "word": "回復", "reading": "かいふく", "meaning_mm": "ပြန်လည်ကောင်းမွန်လာခြင်း" },
+        { "id": "v54_010", "word": "診察", "reading": "しんさつ", "meaning_mm": "ဆေးစစ်ခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 55,
+      "title": "第55課 (နည်းပညာနှင့် စွမ်းဆောင်ရည်)",
+      "vocabulary": [
+        { "id": "v55_001", "word": "機能", "reading": "きのう", "meaning_mm": "လုပ်ဆောင်ချက် (Function)" },
+        { "id": "v55_002", "word": "性能", "reading": "せいのう", "meaning_mm": "စွမ်းဆောင်ရည် (Performance)" },
+        { "id": "v55_003", "word": "技術", "reading": "ぎじゅつ", "meaning_mm": "နည်းပညာ" },
+        { "id": "v55_004", "word": "効率", "reading": "こうりつ", "meaning_mm": "ထိရောက်မှု (Efficiency)" },
+        { "id": "v55_005", "word": "宣伝", "reading": "せんでん", "meaning_mm": "ကြော်ငြာခြင်း" },
+        { "id": "v55_006", "word": "節約", "reading": "せつやく", "meaning_mm": "ချွေတာခြင်း" },
+        { "id": "v55_007", "word": "発明", "reading": "はつめい", "meaning_mm": "တီထွင်မှု" },
+        { "id": "v55_008", "word": "最新", "reading": "さいしん", "meaning_mm": "အသစ်ဆုံး / နောက်ဆုံးပေါ်" },
+        { "id": "v55_009", "word": "通信", "reading": "つうしん", "meaning_mm": "ဆက်သွယ်ရေး" },
+        { "id": "v55_010", "word": "開発", "reading": "かいはつ", "meaning_mm": "ဖွံ့ဖြိုးတိုးတက်အောင်လုပ်ခြင်း (Development)" }
+      ]
+    },
+    {
+      "lesson_no": 56,
+      "title": "第56課 (ပညာရေးနှင့် သင်ကြားမှု)",
+      "vocabulary": [
+        { "id": "v56_001", "word": "奨学金", "reading": "しょうがくきん", "meaning_mm": "ပညာသင်ဆု (Scholarship)" },
+        { "id": "v56_002", "word": "講義", "reading": "こうぎ", "meaning_mm": "ဟောပြောပွဲ / သင်ခန်းစာပို့ချချက်" },
+        { "id": "v56_003", "word": "単位", "reading": "たんい", "meaning_mm": "ယူနစ် / အမှတ် (Credit)" },
+        { "id": "v56_004", "word": "専攻", "reading": "せんこう", "meaning_mm": "အဓိကဘာသာရပ် (Major)" },
+        { "id": "v56_005", "word": "学部", "reading": "がくぶ", "meaning_mm": "ဌာန / မဟာဌာန (Faculty)" },
+        { "id": "v56_006", "word": "受験", "reading": "じゅけん", "meaning_mm": "စာမေးပွဲဖြေဆိုခြင်း" },
+        { "id": "v56_007", "word": "参考書", "reading": "さんこうしょ", "meaning_mm": "ကိုးကားစာအုပ်" },
+        { "id": "v56_008", "word": "集中", "reading": "しゅうちゅう", "meaning_mm": "အာရုံစူးစိုက်ခြင်း" },
+        { "id": "v56_009", "word": "暗記", "reading": "あんき", "meaning_mm": "အလွတ်ကျက်မှတ်ခြင်း" },
+        { "id": "v56_010", "word": "成績", "reading": "せいせき", "meaning_mm": "ရလဒ် / အမှတ်" }
+      ]
+    },
+    {
+      "lesson_no": 57,
+      "title": "第57課 (သဘာဝဘေးအန္တရာယ်နှင့် ရာသီဥတု)",
+      "vocabulary": [
+        { "id": "v57_001", "word": "異常", "reading": "いじょう", "meaning_mm": "ပုံမှန်မဟုတ်သော / ထူးခြားသော" },
+        { "id": "v57_002", "word": "被害", "reading": "ひがい", "meaning_mm": "ထိခိုက်ပျက်စီးမှု" },
+        { "id": "v57_003", "word": "津波", "reading": "つなみ", "meaning_mm": "ဆူနာမီလှိုင်း" },
+        { "id": "v57_004", "word": "温暖化", "reading": "おんだんか", "meaning_mm": "ကမ္ဘာကြီးပူနွေးလာမှု" },
+        { "id": "v57_005", "word": "砂漠", "reading": "さばく", "meaning_mm": "သဲကန္တာရ" },
+        { "id": "v57_006", "word": "影響", "reading": "えいきょう", "meaning_mm": "သက်ရောက်မှု / သြဇာ" },
+        { "id": "v57_007", "word": "観測", "reading": "かんそく", "meaning_mm": "လေ့လာစောင့်ကြည့်ခြင်း" },
+        { "id": "v57_008", "word": "発生", "reading": "はっせい", "meaning_mm": "ဖြစ်ပွားခြင်း" },
+        { "id": "v57_009", "word": "洪水", "reading": "こうずい", "meaning_mm": "ရေကြီးခြင်း" },
+        { "id": "v57_010", "word": "自然", "reading": "しぜん", "meaning_mm": "သဘာဝ" }
+      ]
+    },
+    {
+      "lesson_no": 58,
+      "title": "第58課 (ခရီးသွားလာရေးနှင့် လမ်းပန်းဆက်သွယ်ရေး)",
+      "vocabulary": [
+        { "id": "v58_001", "word": "渋滞", "reading": "じゅうたい", "meaning_mm": "ယာဉ်ကြောပိတ်ဆို့ခြင်း" },
+        { "id": "v58_002", "word": "停車", "reading": "ていしゃ", "meaning_mm": "ကားရပ်နားခြင်း" },
+        { "id": "v58_003", "word": "往復", "reading": "おうふく", "meaning_mm": "အသွားအပြန်" },
+        { "id": "v58_004", "word": "片道", "reading": "かたみち", "meaning_mm": "တစ်ကြောင်းစာ (အသွား သို့မဟုတ် အပြန်)" },
+        { "id": "v58_005", "word": "航空", "reading": "こうくう", "meaning_mm": "လေကြောင်းလိုင်း" },
+        { "id": "v58_006", "word": "到着", "reading": "とうちゃく", "meaning_mm": "ဆိုက်ရောက်ခြင်း" },
+        { "id": "v58_007", "word": "観光", "reading": "かんこう", "meaning_mm": "လည်ပတ်ကြည့်ရှုခြင်း (Sightseeing)" },
+        { "id": "v58_008", "word": "出発", "reading": "しゅっぱつ", "meaning_mm": "ထွက်ခွာခြင်း" },
+        { "id": "v58_009", "word": "踏切", "reading": "ふみきり", "meaning_mm": "မီးရထားသံလမ်းဖြတ်လမ်း" },
+        { "id": "v58_010", "word": "通過", "reading": "つうか", "meaning_mm": "ဖြတ်သန်းသွားခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 59,
+      "title": "第59課 (နေ့စဉ်ဘဝနှင့် နေထိုင်မှုစရိတ်)",
+      "vocabulary": [
+        { "id": "v59_001", "word": "家賃", "reading": "やちん", "meaning_mm": "အိမ်ငှားခ" },
+        { "id": "v59_002", "word": "物価", "reading": "ぶっか", "meaning_mm": "ကုန်ဈေးနှုန်း" },
+        { "id": "v59_003", "word": "節約", "reading": "せつやく", "meaning_mm": "ခြွေတာခြင်း" },
+        { "id": "v59_004", "word": "貯金", "reading": "ちょきん", "meaning_mm": "စုငွေ / ဘဏ်တွင်ငွေစုခြင်း" },
+        { "id": "v59_005", "word": "無料", "reading": "むりょう", "meaning_mm": "အခမဲ့" },
+        { "id": "v59_006", "word": "有料", "reading": "ゆうりょう", "meaning_mm": "အခကြေးငွေပေးရသော" },
+        { "id": "v59_007", "word": "容器", "reading": "ようき", "meaning_mm": "ဗူး / ထည့်စရာခွက်" },
+        { "id": "v59_008", "word": "資源", "reading": "しげん", "meaning_mm": "သယံဇာတ" },
+        { "id": "v59_009", "word": "管理", "reading": "かんり", "meaning_mm": "ထိန်းသိမ်းစီမံခန့်ခွဲခြင်း" },
+        { "id": "v59_010", "word": "暮らし", "reading": "くらし", "meaning_mm": "နေထိုင်မှုဘဝ" }
+      ]
+    },
+    {
+      "lesson_no": 60,
+      "title": "第60課 (အမေးများသော N3 Adverbs & Conjunctions)",
+      "vocabulary": [
+        { "id": "v60_001", "word": "ついに", "reading": "ついに", "meaning_mm": "နောက်ဆုံးတော့ (Finally)" },
+        { "id": "v60_002", "word": "結局", "reading": "けっきょく", "meaning_mm": "အဆုံးသတ်မှာတော့ / အနှစ်ချုပ်အားဖြင့်" },
+        { "id": "v60_003", "word": "まさか", "reading": "まさか", "meaning_mm": "လုံးဝ (မထင်မှတ်ထားသောအရာ)" },
+        { "id": "v60_004", "word": "たまに", "reading": "たまに", "meaning_mm": "တစ်ခါတလေ" },
+        { "id": "v60_005", "word": "次第に", "reading": "しだいに", "meaning_mm": "တဖြည်းဖြည်းချင်း" },
+        { "id": "v60_006", "word": "既に", "reading": "すでに", "meaning_mm": "ပြီးနှင့်နေပြီ (Already)" },
+        { "id": "v60_007", "word": "必ずしも", "reading": "かならずしも", "meaning_mm": "အမြဲတမ်းတော့ (မဟုတ်ပါ)" },
+        { "id": "v60_008", "word": "単に", "reading": "たんに", "meaning_mm": "ရိုးရိုးလေး / သာမန်အားဖြင့်" },
+        { "id": "v60_009", "word": "ちなみに", "reading": "ちなみに", "meaning_mm": "စကားမစပ် / ဒါနဲ့" },
+        { "id": "v60_010", "word": "しかも", "reading": "しかも", "meaning_mm": "ဒါတင်မကသေးဘဲ / ထပ်လောင်း၍" }
+      ]
+    },
+    {
+      "lesson_no": 61,
+      "title": "第61課 (Abstract Verbs - စိတ္တဇကြိယာများ)",
+      "vocabulary": [
+        { "id": "v61_001", "word": "与える", "reading": "あたえる", "meaning_mm": "ပေးသည် (အခွင့်အရေး၊ ပညာ၊ ဆု စသဖြင့်)" },
+        { "id": "v61_002", "word": "得る", "reading": "える", "meaning_mm": "ရရှိသည် (အချက်အလက်၊ ဗဟုသုတ)" },
+        { "id": "v61_003", "word": "欠ける", "reading": "かける", "meaning_mm": "လိုနေသည် / ဟာနေသည် (အစိပ်အပိုင်း)" },
+        { "id": "v61_004", "word": "深める", "reading": "ふかめる", "meaning_mm": "ပိုမိုနက်ရှိုင်းစေသည် (ဆက်ဆံရေး၊ နားလည်မှု)" },
+        { "id": "v61_005", "word": "認める", "reading": "みとめる", "meaning_mm": "အသိအမှတ်ပြုသည် / လက်ခံသည်" },
+        { "id": "v61_006", "word": "占める", "reading": "しめる", "meaning_mm": "နေရာယူထားသည် (ရာခိုင်နှုန်း၊ အချိုးအစား)" },
+        { "id": "v61_007", "word": "求める", "reading": "もとめる", "meaning_mm": "တောင်းဆိုသည် / ရှာဖွေသည်" },
+        { "id": "v61_008", "word": "込める", "reading": "こめる", "meaning_mm": "ထည့်ဝင်သည် (မေတ္တာ၊ စေတနာ)" },
+        { "id": "v61_009", "word": "含める", "reading": "ふくめる", "meaning_mm": "အပါအဝင် (Including)" },
+        { "id": "v61_010", "word": "抱える", "reading": "かかえる", "meaning_mm": "ပိုက်ထားသည် / (ပြဿနာ) ရင်ဆိုင်နေရသည်" }
+      ]
+    },
+    {
+      "lesson_no": 62,
+      "title": "第62課 (Life Experiences - လူနေမှုအတွေ့အကြုံ)",
+      "vocabulary": [
+        { "id": "v62_001", "word": "苦労", "reading": "くろう", "meaning_mm": "ပင်ပန်းဆင်းရဲမှု / ဒုက္ခခံရခြင်း" },
+        { "id": "v62_002", "word": "勇気", "reading": "ゆうき", "meaning_mm": "သတ္တိ" },
+        { "id": "v62_003", "word": "幸運", "reading": "こううん", "meaning_mm": "ကံကောင်းခြင်း" },
+        { "id": "v62_004", "word": "希望", "reading": "きぼう", "meaning_mm": "မျှော်လင့်ချက်" },
+        { "id": "v62_005", "word": "期待", "reading": "きたい", "meaning_mm": "မျှော်လင့်စောင့်စားခြင်း" },
+        { "id": "v62_006", "word": "失望", "reading": "しつぼう", "meaning_mm": "စိတ်ပျက်အားငယ်ခြင်း" },
+        { "id": "v62_007", "word": "感謝", "reading": "かんしゃ", "meaning_mm": "ကျေးဇူးတင်ခြင်း" },
+        { "id": "v62_008", "word": "感情", "reading": "かんじょう", "meaning_mm": "ခံစားချက်" },
+        { "id": "v62_009", "word": "感動", "reading": "かんどう", "meaning_mm": "စိတ်လှုပ်ရှားကြည်နူးခြင်း" },
+        { "id": "v62_010", "word": "感激", "reading": "かんげき", "meaning_mm": "အလွန်အမင်းဝမ်းသာကြည်နူးခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 63,
+      "title": "第63課 (Home & Chores - အိမ်မှုကိစ္စ)",
+      "vocabulary": [
+        { "id": "v63_001", "word": "家具", "reading": "かぐ", "meaning_mm": "ပရိဘောဂ" },
+        { "id": "v63_002", "word": "洗剤", "reading": "せんざい", "meaning_mm": "ဆပ်ပြာမှုန့် / ဆပ်ပြာရည်" },
+        { "id": "v63_003", "word": "炊事", "reading": "すいじ", "meaning_mm": "ထမင်းချက်ခြင်း" },
+        { "id": "v63_004", "word": "洗濯", "reading": "せんたく", "meaning_mm": "အဝတ်လျှော်ခြင်း" },
+        { "id": "v63_005", "word": "掃除", "reading": "そうじ", "meaning_mm": "သန့်ရှင်းရေးလုပ်ခြင်း" },
+        { "id": "v63_006", "word": "片付ける", "reading": "かたづける", "meaning_mm": "ရှင်းလင်းသိမ်းဆည်းသည်" },
+        { "id": "v63_007", "word": "清潔", "reading": "せいけつ", "meaning_mm": "သန့်ရှင်းစင်ကြယ်သော" },
+        { "id": "v63_008", "word": "日常", "reading": "にちじょう", "meaning_mm": "နေ့စဉ်ပုံမှန်" },
+        { "id": "v63_009", "word": "面倒", "reading": "めんどう", "meaning_mm": "အလုပ်ရှုပ်သော / စိတ်ပျက်စရာ" },
+        { "id": "v63_010", "word": "育児", "reading": "いくじ", "meaning_mm": "ကလေးပြုစုစောင့်ရှောက်ခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 64,
+      "title": "第64課 (Science & Research - သိပ္ပံနှင့် သုတေသန)",
+      "vocabulary": [
+        { "id": "v64_001", "word": "実験", "reading": "じっけん", "meaning_mm": "လက်တွေ့စမ်းသပ်မှု" },
+        { "id": "v64_002", "word": "証明", "reading": "しょうめい", "meaning_mm": "သက်သေပြခြင်း" },
+        { "id": "v64_003", "word": "発見", "reading": "はっけん", "meaning_mm": "ရှာဖွေတွေ့ရှိခြင်း" },
+        { "id": "v64_004", "word": "分析", "reading": "ぶんせき", "meaning_mm": "ခွဲခြမ်းစိတ်ဖြာခြင်း (Analysis)" },
+        { "id": "v64_005", "word": "調査", "reading": "ちょうさ", "meaning_mm": "စစ်တမ်းကောက်ယူခြင်း / စစ်ဆေးခြင်း" },
+        { "id": "v64_006", "word": "結果", "reading": "けっか", "meaning_mm": "ရလဒ်" },
+        { "id": "v64_007", "word": "事実", "reading": "じじつ", "meaning_mm": "အမှန်တရား / အချက်အလက်" },
+        { "id": "v64_008", "word": "理論", "reading": "りろん", "meaning_mm": "သီအိုရီ" },
+        { "id": "v64_009", "word": "観察", "reading": "かんさつ", "meaning_mm": "စောင့်ကြည့်လေ့လာခြင်း" },
+        { "id": "v64_010", "word": "引用", "reading": "いんよう", "meaning_mm": "ကိုးကားဖော်ပြခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 65,
+      "title": "第65課 (Relationships & Communication - ဆက်ဆံရေး)",
+      "vocabulary": [
+        { "id": "v65_001", "word": "信頼", "reading": "しんらい", "meaning_mm": "ယုံကြည်ကိုးစားမှု" },
+        { "id": "v65_002", "word": "尊敬", "reading": "そんけい", "meaning_mm": "လေးစားကြည်ညိုခြင်း" },
+        { "id": "v65_003", "word": "協力", "reading": "きょうりょく", "meaning_mm": "ပူးပေါင်းဆောင်ရွက်ခြင်း" },
+        { "id": "v65_004", "word": "態度", "reading": "たいど", "meaning_mm": "အမူအရာ / သဘောထား" },
+        { "id": "v65_005", "word": "会話", "reading": "かいわ", "meaning_mm": "စကားပြောဆိုခြင်း" },
+        { "id": "v65_006", "word": "共同", "reading": "きょうどう", "meaning_mm": "အတူတကွလုပ်ဆောင်ခြင်း" },
+        { "id": "v65_007", "word": "対立", "reading": "たいりつ", "meaning_mm": "ဆန့်ကျင်ဘက်ဖြစ်ခြင်း / ထိပ်တိုက်တွေ့ခြင်း" },
+        { "id": "v65_008", "word": "共通", "reading": "きょうつう", "meaning_mm": "ဘုံတူညီသော" },
+        { "id": "v65_009", "word": "握手", "reading": "あくしゅ", "meaning_mm": "လက်ဆွဲနှုတ်ဆက်ခြင်း" },
+        { "id": "v65_010", "word": "相談", "reading": "そうだん", "meaning_mm": "တိုင်ပင်ဆွေးနွေးခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 66,
+      "title": "第66課 (Media & Information - သတင်းနှင့် အချက်အလက်)",
+      "vocabulary": [
+        { "id": "v66_001", "word": "記事", "reading": "きじ", "meaning_mm": "သတင်းဆောင်းပါး" },
+        { "id": "v66_002", "word": "広告", "reading": "こうこく", "meaning_mm": "ကြော်ငြာ" },
+        { "id": "v66_003", "word": "放送", "reading": "ほうそう", "meaning_mm": "အသံလွှင့်ခြင်း / ထုတ်လွှင့်ခြင်း" },
+        { "id": "v66_004", "word": "編集", "reading": "へんしゅう", "meaning_mm": "တည်းဖြတ်ခြင်း (Edit)" },
+        { "id": "v66_005", "word": "発行", "reading": "はっこう", "meaning_mm": "ထုတ်ဝေခြင်း" },
+        { "id": "v66_006", "word": "正確", "reading": "せいかく", "meaning_mm": "တိကျမှန်ကန်သော" },
+        { "id": "v66_007", "word": "話題", "reading": "わだい", "meaning_mm": "ပြောစမှတ်ပြုစရာအကြောင်းအရာ" },
+        { "id": "v66_008", "word": "速報", "reading": "そくほう", "meaning_mm": "သတင်းထူး / သတင်းဦး" },
+        { "id": "v66_009", "word": "取材", "reading": "しゅざい", "meaning_mm": "သတင်းအချက်အလက် စုဆောင်းခြင်း" },
+        { "id": "v66_010", "word": "詳細", "reading": "しょうさい", "meaning_mm": "အသေးစိတ်အချက်အလက်" }
+      ]
+    },
+    {
+      "lesson_no": 67,
+      "title": "第67課 (Nature & Geography - သဘာဝနှင့် ပထဝီဝင်)",
+      "vocabulary": [
+        { "id": "v67_001", "word": "資源", "reading": "しげん", "meaning_mm": "သယံဇာတ" },
+        { "id": "v67_002", "word": "独特", "reading": "どくとく", "meaning_mm": "ထူးခြားဆန်းသစ်သော / ကိုယ်ပိုင်ဟန်ရှိသော" },
+        { "id": "v67_003", "word": "貴重", "reading": "きちょう", "meaning_mm": "အဖိုးတန်သော / ရှားပါးသော" },
+        { "id": "v67_004", "word": "保護", "reading": "ほご", "meaning_mm": "ကာကွယ်စောင့်ရှောက်ခြင်း" },
+        { "id": "v67_005", "word": "破壊", "reading": "はかい", "meaning_mm": "ဖျက်ဆီးခြင်း" },
+        { "id": "v67_006", "word": "温暖", "reading": "おんだん", "meaning_mm": "နွေးထွေးသော (ရာသီဥတု)" },
+        { "id": "v67_007", "word": "湿度", "reading": "しつど", "meaning_mm": "စိုထိုင်းဆ" },
+        { "id": "v67_008", "word": "気候", "reading": "きこう", "meaning_mm": "ရာသီဥတုအခြေအနေ" },
+        { "id": "v67_009", "word": "列島", "reading": "れっとう", "meaning_mm": "ကျွန်းစု" },
+        { "id": "v67_010", "word": "盆地", "reading": "ぼんち", "meaning_mm": "ချိုင့်ဝှမ်းဒေသ" }
+      ]
+    },
+    {
+      "lesson_no": 68,
+      "title": "第68課 (Economy & Business - စီးပွားရေးနှင့် လုပ်ငန်းခွင်)",
+      "vocabulary": [
+        { "id": "v68_001", "word": "消費", "reading": "しょうひ", "meaning_mm": "သုံးစွဲခြင်း (Consumption)" },
+        { "id": "v68_002", "word": "需要", "reading": "じゅよう", "meaning_mm": "ဝယ်လိုအား (Demand)" },
+        { "id": "v68_003", "word": "供給", "reading": "きょうきゅう", "meaning_mm": "ရောင်းလိုအား (Supply)" },
+        { "id": "v68_004", "word": "投資", "reading": "とうし", "meaning_mm": "ရင်းနှီးမြှုပ်နှံခြင်း" },
+        { "id": "v68_005", "word": "契約", "reading": "けいやく", "meaning_mm": "စာချုပ်" },
+        { "id": "v68_006", "word": "交渉", "reading": "こうしょう", "meaning_mm": "ညှိနှိုင်းဆွေးနွေးခြင်း" },
+        { "id": "v68_007", "word": "拡大", "reading": "かくだい", "meaning_mm": "ချဲ့ထွင်ခြင်း" },
+        { "id": "v68_008", "word": "縮小", "reading": "しゅくしょう", "meaning_mm": "ကျုံ့ခြင်း / လျှော့ချခြင်း" },
+        { "id": "v68_009", "word": "市場", "reading": "しじょう", "meaning_mm": "ဈေးကွက် (Market)" },
+        { "id": "v68_010", "word": "倒産", "reading": "とうさん", "meaning_mm": "စီးပွားရေးပျက်ခြင်း / ဒေဝါလီခံခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 69,
+      "title": "第69課 (Law & Rules - ဥပဒေနှင့် စည်းကမ်းများ)",
+      "vocabulary": [
+        { "id": "v69_001", "word": "法律", "reading": "ほうりつ", "meaning_mm": "ဥပဒေ" },
+        { "id": "v69_002", "word": "裁判", "reading": "さいばん", "meaning_mm": "တရားစီရင်ခြင်း" },
+        { "id": "v69_003", "word": "違反", "reading": "いはん", "meaning_mm": "စည်းကမ်းဖောက်ဖျက်ခြင်း" },
+        { "id": "v69_004", "word": "禁止", "reading": "きんし", "meaning_mm": "တားမြစ်ခြင်း" },
+        { "id": "v69_005", "word": "逮捕", "reading": "たいほ", "meaning_mm": "ဖမ်းဆီးခြင်း" },
+        { "id": "v69_006", "word": "犯人", "reading": "はんにん", "meaning_mm": "တရားခံ" },
+        { "id": "v69_007", "word": "証拠", "reading": "しょうこ", "meaning_mm": "သက်သေအထောက်အထား" },
+        { "id": "v69_008", "word": "義務", "reading": "ぎむ", "meaning_mm": "တာဝန် (Duty)" },
+        { "id": "v69_009", "word": "権利", "reading": "けんり", "meaning_mm": "အခွင့်အရေး (Right)" },
+        { "id": "v69_010", "word": "許す", "reading": "ゆるす", "meaning_mm": "ခွင့်လွှတ်သည် / ခွင့်ပြုသည်" }
+      ]
+    },
+    {
+      "lesson_no": 70,
+      "title": "第70課 (Health & Medical - ကျန်းမာရေးနှင့် ဆေးပညာ)",
+      "vocabulary": [
+        { "id": "v70_001", "word": "診断", "reading": "しんだん", "meaning_mm": "ရောဂါရှာဖွေခြင်း" },
+        { "id": "v70_002", "word": "筋肉", "reading": "きんにく", "meaning_mm": "ကြွက်သား" },
+        { "id": "v70_003", "word": "胃", "reading": "い", "meaning_mm": "အစာအိမ်" },
+        { "id": "v70_004", "word": "症状", "reading": "しょうじょう", "meaning_mm": "ရောဂါလက္ခဏာ" },
+        { "id": "v70_005", "word": "治療", "reading": "ちりょう", "meaning_mm": "ကုသမှု" },
+        { "id": "v70_006", "word": "回復", "reading": "かいふく", "meaning_mm": "ပြန်လည်ကျန်းမာလာခြင်း" },
+        { "id": "v70_007", "word": "栄養", "reading": "えいよう", "meaning_mm": "အာဟာရ" },
+        { "id": "v70_008", "word": "無理", "reading": "むり", "meaning_mm": "အလွန်အကျွံလုပ်ခြင်း / မဖြစ်နိုင်သောအရာ" },
+        { "id": "v70_009", "word": "肩", "reading": "かた", "meaning_mm": "ပခုံး" },
+        { "id": "v70_010", "word": "咳", "reading": "せき", "meaning_mm": "ချောင်းဆိုးခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 71,
+      "title": "第71課 (Politics & Society - နိုင်ငံရေးနှင့် လူမှုအဖွဲ့အစည်း)",
+      "vocabulary": [
+        { "id": "v71_001", "word": "選挙", "reading": "せんきょ", "meaning_mm": "ရွေးကောက်ပွဲ" },
+        { "id": "v71_002", "word": "投票", "reading": "とうひょう", "meaning_mm": "မဲပေးခြင်း" },
+        { "id": "v71_003", "word": "首相", "reading": "しゅしょう", "meaning_mm": "ဝန်ကြီးချုပ်" },
+        { "id": "v71_004", "word": "民主主義", "reading": "みんしゅしゅぎ", "meaning_mm": "ဒီမိုကရေစီ" },
+        { "id": "v71_005", "word": "討論", "reading": "とうろん", "meaning_mm": "ဆွေးနွေးငြင်းခုံခြင်း" },
+        { "id": "v71_006", "word": "議論", "reading": "ぎろん", "meaning_mm": "အချေအတင် ဆွေးနွေးခြင်း" },
+        { "id": "v71_007", "word": "政府", "reading": "せいふ", "meaning_mm": "အစိုးရ" },
+        { "id": "v71_008", "word": "援助", "reading": "えんじょ", "meaning_mm": "အကူအညီပေးခြင်း / ထောက်ပံ့ခြင်း" },
+        { "id": "v71_009", "word": "国際的", "reading": "こくさいてき", "meaning_mm": "နိုင်ငံတကာအဆင့်မီသော" },
+        { "id": "v71_010", "word": "外交", "reading": "がいこう", "meaning_mm": "နိုင်ငံခြားရေး / သံတမန်ရေး" }
+      ]
+    },
+    {
+      "lesson_no": 72,
+      "title": "第72課 (Environment & Disasters - သဘာဝဘေးနှင့် ပတ်ဝန်းကျင်)",
+      "vocabulary": [
+        { "id": "v72_001", "word": "震度", "reading": "しんど", "meaning_mm": "ငလျင်ပြင်းအား" },
+        { "id": "v72_002", "word": "噴火", "reading": "ふんか", "meaning_mm": "မီးတောင်ပေါက်ကွဲခြင်း" },
+        { "id": "v72_003", "word": "避難", "reading": "ひなん", "meaning_mm": "ဘေးလွတ်ရာသို့ တိမ်းရှောင်ခြင်း" },
+        { "id": "v72_004", "word": "救助", "reading": "きゅうじょ", "meaning_mm": "ကယ်ဆယ်ရေး" },
+        { "id": "v72_005", "word": "乾燥", "reading": "かんそう", "meaning_mm": "ခြောက်သွေ့ခြင်း" },
+        { "id": "v72_006", "word": "湿気", "reading": "しっけ", "meaning_mm": "စိုထိုင်းဆ / အစိုဓာတ်" },
+        { "id": "v72_007", "word": "異常", "reading": "いじょう", "meaning_mm": "ပုံမှန်မဟုတ်ခြင်း / ထူးခြားခြင်း" },
+        { "id": "v72_008", "word": "予報", "reading": "よほう", "meaning_mm": "ခန့်မှန်းချက် (ဥပမာ- မိုးလေဝသ)" },
+        { "id": "v72_009", "word": "温暖化", "reading": "おんだんか", "meaning_mm": "ကမ္ဘာကြီးပူနွေးလာမှု" },
+        { "id": "v72_010", "word": "被害", "reading": "ひがい", "meaning_mm": "ထိခိုက်ပျက်စီးမှု" }
+      ]
+    },
+    {
+      "lesson_no": 73,
+      "title": "第73課 (Mental & Emotion - စိတ်ပိုင်းဆိုင်ရာ အခြေအနေ)",
+      "vocabulary": [
+        { "id": "v73_001", "word": "決意", "reading": "けつい", "meaning_mm": "ဆုံးဖြတ်ချက်ချခြင်း" },
+        { "id": "v73_002", "word": "意識", "reading": "いしき", "meaning_mm": "သတိ / အသိစိတ်" },
+        { "id": "v73_003", "word": "記憶", "reading": "きおく", "meaning_mm": "မှတ်ဉာဏ်" },
+        { "id": "v73_004", "word": "反省", "reading": "はんせい", "meaning_mm": "မိမိကိုယ်ကို ပြန်လည်သုံးသပ်ခြင်း" },
+        { "id": "v73_005", "word": "冷静", "reading": "れいせい", "meaning_mm": "တည်တည်ငြိမ်ငြိမ်ရှိသော" },
+        { "id": "v73_006", "word": "期待", "reading": "きたい", "meaning_mm": "မျှော်လင့်စောင့်စားခြင်း" },
+        { "id": "v73_007", "word": "尊重", "reading": "そんけい / そんちょう", "meaning_mm": "တန်ဖိုးထားလေးစားခြင်း" },
+        { "id": "v73_008", "word": "感情", "reading": "かんじょう", "meaning_mm": "ခံစားချက်" },
+        { "id": "v73_009", "word": "勇気", "reading": "ゆうき", "meaning_mm": "သတ္တိ" },
+        { "id": "v73_010", "word": "失望", "reading": "しつぼう", "meaning_mm": "စိတ်ပျက်အားငယ်ခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 74,
+      "title": "第74課 (Social Issues - လူမှုရေးပြဿနာများ)",
+      "vocabulary": [
+        { "id": "v74_001", "word": "少子化", "reading": "しょうしか", "meaning_mm": "ကလေးမွေးဖွားနှုန်း လျော့ကျခြင်း" },
+        { "id": "v74_002", "word": "高齢化", "reading": "こうれいか", "meaning_mm": "လူဦးရေ သက်ကြီးရွယ်အို ပိုများလာခြင်း" },
+        { "id": "v74_003", "word": "格差", "reading": "かくさ", "meaning_mm": "ကွာဟချက် (ဥပမာ- ဆင်းရဲချမ်းသာ)" },
+        { "id": "v74_004", "word": "貧困", "reading": "ひんこん", "meaning_mm": "ဆင်းရဲနွမ်းပါးခြင်း" },
+        { "id": "v74_005", "word": "差別", "reading": "さべつ", "meaning_mm": "ခွဲခြားဆက်ဆံခြင်း" },
+        { "id": "v74_006", "word": "景気", "reading": "けいき", "meaning_mm": "စီးပွားရေးအခြေအနေ" },
+        { "id": "v74_007", "word": "人口", "reading": "じんこう", "meaning_mm": "လူဦးရေ" },
+        { "id": "v74_008", "word": "犯罪", "reading": "はんざい", "meaning_mm": "ရာဇဝတ်မှု" },
+        { "id": "v74_009", "word": "福祉", "reading": "ふくし", "meaning_mm": "လူမှုဝန်ထမ်း / လူမှုဖူလုံရေး" },
+        { "id": "v74_010", "word": "税金", "reading": "ぜいきん", "meaning_mm": "အခွန်" }
+      ]
+    },
+    {
+      "lesson_no": 75,
+      "title": "第75課 (Advanced Adverbs - ကြိယာဝိသေသနများ)",
+      "vocabulary": [
+        { "id": "v75_001", "word": "思わず", "reading": "おもわず", "meaning_mm": "မရည်ရွယ်ဘဲ / မသိလိုက်ဘဲ" },
+        { "id": "v75_002", "word": "案外", "reading": "あんがい", "meaning_mm": "ထင်ထားတာထက်" },
+        { "id": "v75_003", "word": "せっかく", "reading": "せっかく", "meaning_mm": "အပင်ပန်းခံပြီးမှ / ရခဲလှစွာသော" },
+        { "id": "v75_004", "word": "徐々に", "reading": "じょじょに", "meaning_mm": "တဖြည်းဖြည်းချင်း" },
+        { "id": "v75_005", "word": "相当", "reading": "そうとう", "meaning_mm": "အတော်အတန် / တော်တော်လေး" },
+        { "id": "v75_006", "word": "常に", "reading": "つねに", "meaning_mm": "အမြဲတမ်း" },
+        { "id": "v75_007", "word": "まさに", "reading": "まさに", "meaning_mm": "အတိအကျ / အမှန်တကယ်" },
+        { "id": "v75_010", "word": "おそらく", "reading": "おそらく", "meaning_mm": "ဖြစ်နိုင်ခြေများသော / ဖြစ်ကောင်းဖြစ်နိုင်သော" },
+        { "id": "v75_009", "word": "めったに", "reading": "めったに", "meaning_mm": "ခဲယဉ်းစွာ (အငြင်းနှင့်တွဲသုံးသည်)" },
+        { "id": "v75_008", "word": "むしろ", "reading": "むしろ", "meaning_mm": "အဲဒါထက်စာရင် / အဲဒီထက်ပိုပြီး" }
+      ]
+    },
+    {
+      "lesson_no": 76,
+      "title": "第76課 (Business Operations - လုပ်ငန်းလည်ပတ်မှု)",
+      "vocabulary": [
+        { "id": "v76_001", "word": "企画", "reading": "きかく", "meaning_mm": "စီမံကိန်း / အစီအစဉ်" },
+        { "id": "v76_002", "word": "採用", "reading": "さいよう", "meaning_mm": "အလုပ်ခန့်ခြင်း / လက်ခံကျင့်သုံးခြင်း" },
+        { "id": "v76_003", "word": "検討", "reading": "けんとう", "meaning_mm": "အသေအချာ စဉ်းစားသုံးသပ်ခြင်း" },
+        { "id": "v76_004", "word": "実行", "reading": "じっこう", "meaning_mm": "လက်တွေ့အကောင်အထည်ဖော်ခြင်း" },
+        { "id": "v76_005", "word": "成果", "reading": "せいか", "meaning_mm": "အောင်မြင်မှုရလဒ်" },
+        { "id": "v76_006", "word": "報告", "reading": "ほうこく", "meaning_mm": "အစီရင်ခံစာတင်ပြခြင်း" },
+        { "id": "v76_007", "word": "能率", "reading": "のうりつ", "meaning_mm": "စွမ်းဆောင်ရည်" },
+        { "id": "v76_008", "word": "出張", "reading": "しゅっちょう", "meaning_mm": "အလုပ်ကိစ္စဖြင့် ခရီးသွားခြင်း" },
+        { "id": "v76_009", "word": "指示", "reading": "しじ", "meaning_mm": "ညွှန်ကြားချက်" },
+        { "id": "v76_010", "word": "調整", "reading": "ちょうせい", "meaning_mm": "ညှိနှိုင်းပြင်ဆင်ခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 77,
+      "title": "第77課 (Art & Tradition - အနုပညာနှင့် ယဉ်ကျေးမှု)",
+      "vocabulary": [
+        { "id": "v77_001", "word": "伝統", "reading": "でんとう", "meaning_mm": "ရိုးရာအစဉ်အလာ" },
+        { "id": "v77_002", "word": "芸術", "reading": "げいじゅつ", "meaning_mm": "အနုပညာ" },
+        { "id": "v77_003", "word": "鑑賞", "reading": "かんしょう", "meaning_mm": "ခံစားနားဆင်ခြင်း / အနုပညာကို ခံစားခြင်း" },
+        { "id": "v77_004", "word": "代表", "reading": "だいひょう", "meaning_mm": "ကိုယ်စားလှယ်" },
+        { "id": "v77_005", "word": "特徴", "reading": "とくちょう", "meaning_mm": "ထူးခြားချက် / ဝိသေသ" },
+        { "id": "v77_006", "word": "普及", "reading": "ふきゅう", "meaning_mm": "ပျံ့နှံ့ခြင်း / ခေတ်စားလာခြင်း" },
+        { "id": "v77_007", "word": "保存", "reading": "ほぞန်", "meaning_mm": "ထိန်းသိမ်းခြင်း" },
+        { "id": "v77_008", "word": "交流", "reading": "こうりゅう", "meaning_mm": "အပြန်အလှန် ဆက်ဆံရေး" },
+        { "id": "v77_009", "word": "独自", "reading": "どくじ", "meaning_mm": "ကိုယ်ပိုင် / သီးသန့်ဖြစ်သော" },
+        { "id": "v77_010", "word": "貴重", "reading": "きちょう", "meaning_mm": "အဖိုးတန်သော" }
+      ]
+    },
+    {
+      "lesson_no": 78,
+      "title": "第78課 (Daily Actions - နေ့စဉ်ပြုမူသော ကြိယာများ)",
+      "vocabulary": [
+        { "id": "v78_001", "word": "扱う", "reading": "あつかう", "meaning_mm": "ကိုင်တွယ်သည် / ဆက်ဆံသည်" },
+        { "id": "v78_002", "word": "省く", "reading": "はぶく", "meaning_mm": "ဖယ်ထုတ်သည် / ချန်လှပ်သည်" },
+        { "id": "v78_003", "word": "招く", "reading": "まねく", "meaning_mm": "ဖိတ်ခေါ်သည် / (ပြဿနာ) ကို ဖိတ်ခေါ်သည်" },
+        { "id": "v78_004", "word": "補う", "reading": "おぎなう", "meaning_mm": "ဖြည့်စွက်သည် / အစားထိုးသည်" },
+        { "id": "v78_005", "word": "従う", "reading": "したがう", "meaning_mm": "လိုက်နာသည် / နာခံသည်" },
+        { "id": "v78_006", "word": "囲む", "reading": "かこむ", "meaning_mm": "ဝန်းရံသည်" },
+        { "id": "v78_007", "word": "勧める", "reading": "すすめる", "meaning_mm": "တိုက်တွန်းသည် / အကြံပြုသည်" },
+        { "id": "v78_008", "word": "避ける", "reading": "さける", "meaning_mm": "ရှောင်ကြဉ်သည်" },
+        { "id": "v78_009", "word": "耕す", "reading": "たがやす", "meaning_mm": "မြေတူးသည် / လယ်ထွန်သည်" },
+        { "id": "v78_010", "word": "掘る", "reading": "ほる", "meaning_mm": "တူးဆွသည်" }
+      ]
+    },
+    {
+      "lesson_no": 79,
+      "title": "第79課 (Fashion & Appearance - ဖက်ရှင်နှင့် အသွင်အပြင်)",
+      "vocabulary": [
+        { "id": "v79_001", "word": "地味", "reading": "じみ", "meaning_mm": "ရိုးရိုးရှင်းရှင်းဖြစ်သော" },
+        { "id": "v79_002", "word": "派手", "reading": "はで", "meaning_mm": "တောက်တောက်ပပဖြစ်သော" },
+        { "id": "v79_003", "word": "流行", "reading": "りゅうこう", "meaning_mm": "ခေတ်စားခြင်း / ရေပန်းစားခြင်း" },
+        { "id": "v79_004", "word": "似合う", "reading": "にあう", "meaning_mm": "လိုက်ဖက်သည်" },
+        { "id": "v79_005", "word": "姿勢", "reading": "しせい", "meaning_mm": "နေထိုင်မှုပုံစံ / ကိုယ်ဟန်အနေအထား" },
+        { "id": "v79_006", "word": "表情", "reading": "ひょうじょう", "meaning_mm": "မျက်နှာအမူအရာ" },
+        { "id": "v79_007", "word": "上品", "reading": "じょうひん", "meaning_mm": "ယဉ်ကျေးသိမ်မွေ့သော / အဆင့်အတန်းရှိသော" },
+        { "id": "v79_008", "word": "清潔", "reading": "せいけつ", "meaning_mm": "သန့်ရှင်းစင်ကြယ်သော" },
+        { "id": "v79_009", "word": "慎重", "reading": "しんちょう", "meaning_mm": "ဂရုတစိုက်ရှိသော" },
+        { "id": "v79_010", "word": "装飾", "reading": "そうしょく", "meaning_mm": "အလှဆင်ခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 80,
+      "title": "第80課 (Food & Nutrition - အစားအစာနှင့် အာဟာရ)",
+      "vocabulary": [
+        { "id": "v80_001", "word": "収穫", "reading": "しゅうかく", "meaning_mm": "ရိတ်သိမ်းခြင်း" },
+        { "id": "v80_002", "word": "調理", "reading": "ちょうり", "meaning_mm": "ချက်ပြုတ်ပြင်ဆင်ခြင်း" },
+        { "id": "v80_003", "word": "味わう", "reading": "あじわう", "meaning_mm": "မြည်းစမ်းသည် / အရသာခံသည်" },
+        { "id": "v80_004", "word": "煮る", "reading": "にる", "meaning_mm": "ပြုတ်သည်" },
+        { "id": "v80_005", "word": "焼く", "reading": "やく", "meaning_mm": "ကင်သည် / ဖုတ်သည်" },
+        { "id": "v80_006", "word": "蒸す", "reading": "むす", "meaning_mm": "ပေါင်းသည်" },
+        { "id": "v80_007", "word": "腐る", "reading": "くさる", "meaning_mm": "ပုပ်သိုးသည်" },
+        { "id": "v80_008", "word": "成分", "reading": "せいぶん", "meaning_mm": "ပါဝင်ပစ္စည်း" },
+        { "id": "v80_009", "word": "新鮮", "reading": "しんせん", "meaning_mm": "လတ်ဆတ်သော" },
+        { "id": "v80_010", "word": "保存", "reading": "ほぞん", "meaning_mm": "သိုလှောင်ထိန်းသိမ်းခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 81,
+      "title": "第81課 (Physical States - ခန္ဓာကိုယ်နှင့် အခြေအနေများ)",
+      "vocabulary": [
+        { "id": "v81_001", "word": "呼吸", "reading": "こきゅう", "meaning_mm": "အသက်ရှူခြင်း" },
+        { "id": "v81_002", "word": "消化", "reading": "しょうか", "meaning_mm": "အစာခြေဖျက်ခြင်း" },
+        { "id": "v81_003", "word": "血圧", "reading": "けつあつ", "meaning_mm": "သွေးဖိအား" },
+        { "id": "v81_004", "word": "睡眠", "reading": "すいみん", "meaning_mm": "အိပ်စက်ခြင်း" },
+        { "id": "v81_005", "word": "体力", "reading": "たいりょく", "meaning_mm": "ကိုယ်ကာယအင်အား" },
+        { "id": "v81_006", "word": "刺激", "reading": "しげき", "meaning_mm": "လှုံ့ဆော်မှု / အားပေးမှု" },
+        { "id": "v81_007", "word": "疲労", "reading": "ひろう", "meaning_mm": "ညောင်းညာပင်ပန်းမှု" },
+        { "id": "v81_008", "word": "骨", "reading": "ほね", "meaning_mm": "အရိုး" },
+        { "id": "v81_009", "word": "肌", "reading": "はだ", "meaning_mm": "အရေပြား" },
+        { "id": "v81_010", "word": "健康診断", "reading": "けんこうしんだん", "meaning_mm": "ကျန်းမာရေးစစ်ဆေးမှု" }
+      ]
+    },
+    {
+      "lesson_no": 82,
+      "title": "第82課 (Urban Life - မြို့ပြနှင့် လူနေမှုဘဝ)",
+      "vocabulary": [
+        { "id": "v82_001", "word": "都会", "reading": "とかい", "meaning_mm": "မြို့ကြီးပြကြီး" },
+        { "id": "v82_002", "word": "地方", "reading": "ちほう", "meaning_mm": "နယ်ဒေသ / ဒေသန္တရ" },
+        { "id": "v82_003", "word": "施設", "reading": "しせつ", "meaning_mm": "အဆောက်အအုံ / အသုံးအဆောင်" },
+        { "id": "v82_004", "word": "公共", "reading": "こうきょう", "meaning_mm": "အများပြည်သူဆိုင်ရာ" },
+        { "id": "v82_005", "word": "活発", "reading": "かっぱつ", "meaning_mm": "တက်ကြွဖျတ်လတ်သော" },
+        { "id": "v82_006", "word": "密集", "reading": "みっしゅう", "meaning_mm": "စုပြုံနေခြင်း" },
+        { "id": "v82_007", "word": "騒音", "reading": "そうおん", "meaning_mm": "ဆူညံသံ" },
+        { "id": "v82_008", "word": "街角", "reading": "まちかど", "meaning_mm": "လမ်းထောင့်" },
+        { "id": "v82_009", "word": "住宅", "reading": "じゅうたく", "meaning_mm": "နေအိမ်" },
+        { "id": "v82_010", "word": "建築", "reading": "けんちく", "meaning_mm": "ဗိသုကာ / အဆောက်အအုံ" }
+      ]
+    },
+    {
+      "lesson_no": 83,
+      "title": "第83課 (Media & Internet - မီဒီယာနှင့် အင်တာနက်)",
+      "vocabulary": [
+        { "id": "v83_001", "word": "接続", "reading": "せつぞく", "meaning_mm": "ချိတ်ဆက်ခြင်း (Connection)" },
+        { "id": "v83_002", "word": "検索", "reading": "けんさく", "meaning_mm": "ရှာဖွေခြင်း (Search)" },
+        { "id": "v83_003", "word": "転送", "reading": "てんそう", "meaning_mm": "တစ်ဆင့်ပေးပို့ခြင်း (Forward)" },
+        { "id": "v83_004", "word": "更新", "reading": "こうしん", "meaning_mm": "အသစ်ပြန်လုပ်ခြင်း (Update)" },
+        { "id": "v83_005", "word": "入力", "reading": "にゅうりょく", "meaning_mm": "အချက်အလက်ရိုက်ထည့်ခြင်း" },
+        { "id": "v83_006", "word": "画面", "reading": "がめん", "meaning_mm": "မျက်နှာပြင် (Screen)" },
+        { "id": "v83_007", "word": "通信", "reading": "つうしん", "meaning_mm": "ဆက်သွယ်ရေး" },
+        { "id": "v83_008", "word": "拡散", "reading": "かくさん", "meaning_mm": "ပျံ့နှံ့ခြင်း (Viral ဖြစ်ခြင်း)" },
+        { "id": "v83_009", "word": "削除", "reading": "さくじょ", "meaning_mm": "ဖျက်ပစ်ခြင်း (Delete)" },
+        { "id": "v83_010", "word": "登録", "reading": "とうろく", "meaning_mm": "မှတ်ပုံတင်ခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 84,
+      "title": "第84課 (Human Relations - လူမှုဆက်ဆံရေး နာမ်များ)",
+      "vocabulary": [
+        { "id": "v84_001", "word": "知人", "reading": "ちじん", "meaning_mm": "အသိမိတ်ဆွေ" },
+        { "id": "v84_002", "word": "親友", "reading": "しんゆう", "meaning_mm": "ရင်းနှီးသောသူငယ်ချင်း" },
+        { "id": "v84_003", "word": "同僚", "reading": "どうりょう", "meaning_mm": "လုပ်ဖော်ကိုင်ဖက်" },
+        { "id": "v84_004", "word": "上司", "reading": "じょうし", "meaning_mm": "အထက်လူကြီး" },
+        { "id": "v84_005", "word": "部下", "reading": "ぶか", "meaning_mm": "လက်အောက်ငယ်သား" },
+        { "id": "v84_006", "word": "周囲", "reading": "しゅうい", "meaning_mm": "ပတ်ဝန်းကျင်ကလူများ" },
+        { "id": "v84_007", "word": "他親", "reading": "たにん", "meaning_mm": "သူစိမ်း" },
+        { "id": "v84_008", "word": "味方", "reading": "みかた", "meaning_mm": "မိမိဘက်တော်သား" },
+        { "id": "v84_009", "word": "相手", "reading": "あいて", "meaning_mm": "တစ်ဖက်လူ" },
+        { "id": "v84_010", "word": "仲間", "reading": "なかま", "meaning_mm": "အပေါင်းအဖော်" }
+      ]
+    },
+    {
+      "lesson_no": 85,
+      "title": "第85課 (Compound Verbs - ပေါင်းစပ်ကြိယာများ)",
+      "vocabulary": [
+        { "id": "v85_001", "word": "話し合う", "reading": "はなしあう", "meaning_mm": "အချင်းချင်းတိုင်ပင်ဆွေးနွေးသည်" },
+        { "id": "v85_002", "word": "間に合う", "reading": "まにあう", "meaning_mm": "အချိန်မီသည်" },
+        { "id": "v85_003", "word": "知り合う", "reading": "しりあう", "meaning_mm": "သိကျွမ်းသည်" },
+        { "id": "v85_004", "word": "見つめる", "reading": "みつめる", "meaning_mm": "စိုက်ကြည့်သည်" },
+        { "id": "v85_005", "word": "追い越す", "reading": "おいこす", "meaning_mm": "ကျော်တက်သွားသည်" },
+        { "id": "v85_006", "word": "振り返る", "reading": "ふりかえる", "meaning_mm": "လှည့်ကြည့်သည် / ပြန်လည်စဉ်းစားသည်" },
+        { "id": "v85_007", "word": "取り消す", "reading": "とりけす", "meaning_mm": "ပယ်ဖျက်သည် (Cancel)" },
+        { "id": "v85_008", "word": "引き受ける", "reading": "ひきうける", "meaning_mm": "တာဝန်ယူသည်" },
+        { "id": "v85_009", "word": "受け取る", "reading": "うけとる", "meaning_mm": "လက်ခံရယူသည်" },
+        { "id": "v85_010", "word": "申し込む", "reading": "もうしこむ", "meaning_mm": "လျှောက်ထားသည်" }
+      ]
+    },
+    {
+      "lesson_no": 86,
+      "title": "第86課 (Professions & Roles - အသက်မွေးဝမ်းကျောင်းနှင့် အခန်းကဏ္ဍ)",
+      "vocabulary": [
+        { "id": "v86_001", "word": "著者", "reading": "ちょしゃ", "meaning_mm": "စာရေးသူ / အာဘော်ရှင်" },
+        { "id": "v86_002", "word": "筆者", "reading": "ひっしゃ", "meaning_mm": "စာရေးသူ (ဆောင်းပါးရှင်)" },
+        { "id": "v86_003", "word": "司会", "reading": "しかい", "meaning_mm": "အခမ်းအနားမှူး" },
+        { "id": "v86_004", "word": "担当", "reading": "たんとう", "meaning_mm": "တာဝန်ခံ / တာဝန်ရှိသူ" },
+        { "id": "v86_005", "word": "役員", "reading": "やくいん", "meaning_mm": "အမှုဆောင်အရာရှိ" },
+        { "id": "v86_006", "word": "監督", "reading": "かんとく", "meaning_mm": "ဒါရိုက်တာ / နည်းပြ / ကြီးကြပ်သူ" },
+        { "id": "v86_007", "word": "講師", "reading": "こうし", "meaning_mm": "ကထိက / ဆရာ" },
+        { "id": "v86_008", "word": "事務", "reading": "じむ", "meaning_mm": "ရုံးလုပ်ငန်း" },
+        { "id": "v86_009", "word": "作業", "reading": "さぎょう", "meaning_mm": "လုပ်ငန်းခွင်အလုပ်" },
+        { "id": "v86_010", "word": "専門家", "reading": "せんもんか", "meaning_mm": "ကျွမ်းကျင်ပညာရှင်" }
+      ]
+    },
+    {
+      "lesson_no": 87,
+      "title": "第87課 (Describing Situations - အခြေအနေပြ နာမဝိသေသနများ)",
+      "vocabulary": [
+        { "id": "v87_001", "word": "惜しい", "reading": "おしい", "meaning_mm": "နှမြောစရာကောင်းသော / ကပ်သီးလေးလွဲသွားသော" },
+        { "id": "v87_002", "word": "怪しい", "reading": "あやしい", "meaning_mm": "သံသယဖြစ်ဖွယ်ကောင်းသော" },
+        { "id": "v87_003", "word": "激しい", "reading": "はげしい", "meaning_mm": "ပြင်းထန်သော (မိုး၊ လေ၊ တိုက်ပွဲ)" },
+        { "id": "v87_004", "word": "険しい", "reading": "けわしい", "meaning_mm": "မတ်စောက်သော / ခက်ခဲကြမ်းတမ်းသော" },
+        { "id": "v87_005", "word": "等しい", "reading": "ひとしい", "meaning_mm": "တူညီသော" },
+        { "id": "v87_006", "word": "相応しい", "reading": "ふさわしい", "meaning_mm": "သင့်တော်လျောက်ပတ်သော" },
+        { "id": "v87_007", "word": "図々しい", "reading": "ずうずうしい", "meaning_mm": "မျက်နှာပြောင်သော / အရှက်မရှိသော" },
+        { "id": "v87_008", "word": "喧しい", "reading": "やかましい", "meaning_mm": "ဆူညံသော / နားငြီးသော" },
+        { "id": "v87_009", "word": "緩い", "reading": "ゆるい", "meaning_mm": "ချောင်သော / လျော့ရဲသော" },
+        { "id": "v87_010", "word": "鋭い", "reading": "ふるどい", "meaning_mm": "ထက်မြက်သော / စူးရှသော" }
+      ]
+    },
+    {
+      "lesson_no": 88,
+      "title": "第88課 (Transport & Logistics - သယ်ယူပို့ဆောင်ရေးအဆင့်မြင့်)",
+      "vocabulary": [
+        { "id": "v88_001", "word": "輸送", "reading": "ゆそう", "meaning_mm": "ကုန်စည်ပို့ဆောင်ခြင်း" },
+        { "id": "v88_002", "word": "輸入", "reading": "ゆにゅう", "meaning_mm": "သွင်းကုန်" },
+        { "id": "v88_003", "word": "輸出", "reading": "ゆしゅつ", "meaning_mm": "ပို့ကုန်" },
+        { "id": "v88_004", "word": "配達", "reading": "はいたつ", "meaning_mm": "အိမ်အရောက်ပို့ခြင်း" },
+        { "id": "v88_005", "word": "便", "reading": "びん", "meaning_mm": "လေယာဉ်ခရီးစဉ် / အခွင့်အရေး" },
+        { "id": "v88_006", "word": "経由", "reading": "けいゆ", "meaning_mm": "မှတစ်ဆင့် (Via)" },
+        { "id": "v88_007", "word": "到着", "reading": "とうちゃく", "meaning_mm": "ဆိုက်ရောက်ခြင်း" },
+        { "id": "v88_008", "word": "発車", "reading": "はっしゃ", "meaning_mm": "ကားထွက်ခြင်း" },
+        { "id": "v88_009", "word": "追い越す", "reading": "おいこす", "meaning_mm": "ကျော်တက်သည်" },
+        { "id": "v88_010", "word": "衝突", "reading": "しょうとつ", "meaning_mm": "တိုက်မိခြင်း / ပဋိပက္ခ" }
+      ]
+    },
+    {
+      "lesson_no": 89,
+      "title": "第89課 (Sports & Competition - အားကစားနှင့် ပြိုင်ပွဲ)",
+      "vocabulary": [
+        { "id": "v89_001", "word": "競技", "reading": "きょうぎ", "meaning_mm": "အားကစားပြိုင်ပွဲ" },
+        { "id": "v89_002", "word": "勝負", "reading": "しょうぶ", "meaning_mm": "အနိုင်အရှုံး" },
+        { "id": "v89_003", "word": "記録", "reading": "きろく", "meaning_mm": "မှတ်တမ်း" },
+        { "id": "v89_004", "word": "逆転", "reading": "ぎゃくてん", "meaning_mm": "အခြေအနေ ပြောင်းပြန်ဖြစ်သွားခြင်း (ရှုံးနေရာမှ နိုင်ခြင်း)" },
+        { "id": "v89_005", "word": "応援", "reading": "おうえん", "meaning_mm": "အားပေးကူညီခြင်း" },
+        { "id": "v89_006", "word": "出場", "reading": "しゅつじょう", "meaning_mm": "ပါဝင်ယှဉ်ပြိုင်ခြင်း" },
+        { "id": "v89_007", "word": "訓練", "reading": "くんれん", "meaning_mm": "လေ့ကျင့်ခန်းဆင်းခြင်း" },
+        { "id": "v89_008", "word": "勝利", "reading": "しょうり", "meaning_mm": "အောင်ပွဲ" },
+        { "id": "v89_009", "word": "敗北", "reading": "はいぼく", "meaning_mm": "ရှုံးနိမ့်ခြင်း" },
+        { "id": "v89_010", "word": "合宿", "reading": "がっしゅく", "meaning_mm": "စခန်းသွင်းလေ့ကျင့်ခြင်း" }
+      ]
+    },
+    {
+      "lesson_no": 90,
+      "title": "第90課 (Logical Connectors - စာဖတ်စွမ်းရည်အတွက် စကားဆက်များ)",
+      "vocabulary": [
+        { "id": "v90_001", "word": "要するに", "reading": "ようするに", "meaning_mm": "လိုရင်းပြောရရင်" },
+        { "id": "v90_002", "word": "結局", "reading": "けっきょく", "meaning_mm": "နောက်ဆုံးတော့" },
+        { "id": "v90_003", "word": "したがって", "reading": "したがって", "meaning_mm": "ထို့ကြောင့် (Therefore)" },
+        { "id": "v90_004", "word": "あるいは", "reading": "あるいは", "meaning_mm": "သို့မဟုတ် (Or)" },
+        { "id": "v90_005", "word": "なお", "meaning_mm": "ထပ်လောင်းဖော်ပြရလျှင် (Furthermore)" },
+        { "id": "v90_006", "word": "もっとも", "reading": "もっとも", "meaning_mm": "ဒါပေမဲ့လည်း (အမှန်တော့)" },
+        { "id": "v90_007", "word": "さて", "reading": "さて", "meaning_mm": "ကဲ... (အကြောင်းအရာအသစ် စတော့မယ်ဆိုရင်)" },
+        { "id": "v90_008", "word": "もっとも", "reading": "もっとも", "meaning_mm": "အမှန်ကန်ဆုံး / အသင့်တော်ဆုံး" },
+        { "id": "v90_009", "word": "たとえ", "reading": "たとえ", "meaning_mm": "ဥပမာအားဖြင့် / အကယ်၍ပင်" },
+        { "id": "v90_010", "word": "いわば", "reading": "いわば", "meaning_mm": "ပြောရမယ်ဆိုရင် (As it were)" }
+      ]
+    },
+    {
+  "lessons": [
+    {
+      "lesson_no": 91,
+      "title": "第91課 (Industry & Technology - စက်မှုလက်မှုနှင့် နည်းပညာ)",
+      "vocabulary": [
+        { "id": "v91_001", "word": "製造", "reading": "せいぞう", "meaning_mm": "ကုန်ထုတ်လုပ်ခြင်း" },
+        { "id": "v91_002", "word": "加工", "reading": "かこう", "meaning_mm": "ပြုပြင်မွမ်းမံခြင်း (Processing)" },
+        { "id": "v91_003", "word": "部品", "reading": "ぶひん", "meaning_mm": "စက်ပစ္စည်းအစိတ်အပိုင်း" },
+        { "id": "v91_004", "word": "装置", "reading": "そうち", "meaning_mm": "တပ်ဆင်ထားသော ကိရိယာ / ယန္တရား" },
+        { "id": "v91_005", "word": "設計", "reading": "せっけい", "meaning_mm": "ဒီဇိုင်းဆွဲခြင်း / ပုံစံထုတ်ခြင်း" },
+        { "id": "v91_006", "word": "組み立て", "reading": "くみたて", "meaning_mm": "တပ်ဆင်ခြင်း" },
+        { "id": "v91_007", "word": "点検", "reading": "てんけん", "meaning_mm": "စစ်ဆေးခြင်း / အစစ်အဆေးခံခြင်း" },
+        { "id": "v91_008", "word": "修理", "reading": "しゅうり", "meaning_mm": "ပြင်ဆင်ခြင်း" },
+        { "id": "v91_009", "word": "停電", "reading": "ていでん", "meaning_mm": "မီးပျက်ခြင်း" },
+        { "id": "v91_010", "word": "燃料", "reading": "ねんりょう", "meaning_mm": "လောင်စာ" }
+      ]
+    },
+    {
+      "lesson_no": 92,
+      "title": "第92課 (Logic & Reasoning - ကျိုးကြောင်းဆင်ခြင်မှု)",
+      "vocabulary": [
+        { "id": "v92_001", "word": "分析", "reading": "ぶんせき", "meaning_mm": "ခွဲခြမ်းစိတ်ဖြာခြင်း" },
+        { "id": "v92_002", "word": "判断", "reading": "はんだん", "meaning_mm": "ဆုံးဖြတ်ချက်ချခြင်း / ဝေဖန်ပိုင်းခြားခြင်း" },
+        { "id": "v92_003", "word": "予測", "reading": "よそく", "meaning_mm": "ခန့်မှန်းခြင်း" },
+        { "id": "v92_004", "word": "比較", "reading": "ひかく", "meaning_mm": "နှိုင်းယှဉ်ခြင်း" },
+        { "id": "v92_005", "word": "肯定", "reading": "こうてい", "meaning_mm": "လက်ခံခြင်း / ဟုတ်မှန်ကြောင်း ဝန်ခံခြင်း" },
+        { "id": "v92_006", "word": "否定", "reading": "ひてい", "meaning_mm": "ငြင်းပယ်ခြင်း" },
+        { "id": "v92_007", "word": "範囲", "reading": "はんい", "meaning_mm": "အတိုင်းအတာ / ဘောင်" },
+        { "id": "v92_008", "word": "基準", "reading": "きじゅん", "meaning_mm": "စံနှုန်း" },
+        { "id": "v92_009", "word": "矛盾", "reading": "むじゅん", "meaning_mm": "ရှေ့နောက်မညီခြင်း / ဆန့်ကျင်ဘက်ဖြစ်ခြင်း" },
+        { "id": "v92_010", "word": "証拠", "reading": "しょうこ", "meaning_mm": "သက်သေအထောက်အထား" }
+      ]
+    },
+    {
+      "lesson_no": 93,
+      "title": "第93課 (Arts & Creativity - အနုပညာနှင့် ဖန်တီးမှု)",
+      "vocabulary": [
+        { "id": "v93_001", "word": "作品", "reading": "さくひん", "meaning_mm": "အနုပညာလက်ရာ" },
+        { "id": "v93_002", "word": "演奏", "reading": "えんそう", "meaning_mm": "တီးခတ်ဖျော်ဖြေခြင်း" },
+        { "id": "v93_003", "word": "劇場", "reading": "げきじょう", "meaning_mm": "ပြဇာတ်ရုံ" },
+        { "id": "v93_004", "word": "彫刻", "reading": "ちょうこく", "meaning_mm": "ပန်းပုထုခြင်း" },
+        { "id": "v93_005", "word": "展示", "reading": "てんじ", "meaning_mm": "ပြသခြင်း (Exhibition)" },
+        { "id": "v93_006", "word": "才能", "reading": "さいのう", "meaning_mm": "ပါရမီ / အရည်အချင်း" },
+        { "id": "v93_007", "word": "描く", "reading": "えがく", "meaning_mm": "ပုံဆွဲသည်" },
+        { "id": "v93_008", "word": "舞台", "reading": "ぶたい", "meaning_mm": "စင်မြင့်" },
+        { "id": "v93_009", "word": "傑作", "reading": "けっさく", "meaning_mm": "ပြောင်မြောက်သော လက်ရာ" },
+        { "id": "v93_010", "word": "俳優", "reading": "はいゆう", "meaning_mm": "မင်းသား / မင်းသမီး" }
+      ]
+    },
+    {
+      "lesson_no": 94,
+      "title": "第94課 (Social Relationships - လူမှုဆက်ဆံရေး ကြိယာများ)",
+      "vocabulary": [
+        { "id": "v94_001", "word": "慰める", "reading": "なぐさめる", "meaning_mm": "နှစ်သိမ့်ပေးသည်" },
+        { "id": "v94_002", "word": "見舞う", "reading": "みまう", "meaning_mm": "လူနာမေးသွားသည်" },
+        { "id": "v94_003", "word": "励ます", "reading": "はげます", "meaning_mm": "အားပေးကူညီသည်" },
+        { "id": "v94_004", "word": "甘やかす", "reading": "あまやかす", "meaning_mm": "အလိုလိုက်သည်" },
+        { "id": "v94_005", "word": "疑う", "reading": "うたがう", "meaning_mm": "သံသယဖြစ်သည်" },
+        { "id": "v94_006", "word": "恨む", "reading": "うらむ", "meaning_mm": "ရန်ငြိုးထားသည် / မကျေမနပ်ဖြစ်သည်" },
+        { "id": "v94_007", "word": "敬う", "reading": "うやまう", "meaning_mm": "ရိုသေလေးစားသည်" },
+        { "id": "v94_008", "word": "避ける", "reading": "さける", "meaning_mm": "ရှောင်ကြဉ်သည်" },
+        { "id": "v94_009", "word": "頼る", "reading": "たよる", "meaning_mm": "အားကိုးသည်" },
+        { "id": "v94_010", "word": "恐れる", "reading": "おそれる", "meaning_mm": "ကြောက်ရွံ့သည်" }
+      ]
+    },
+    {
+      "lesson_no": 95,
+      "title": "第95課 (Time & Progress - အချိန်နှင့် တိုးတက်မှု)",
+      "vocabulary": [
+        { "id": "v95_001", "word": "延期", "reading": "えんき", "meaning_mm": "ရက်ရွှေ့ဆိုင်းခြင်း" },
+        { "id": "v95_002", "word": "期限", "reading": "きげん", "meaning_mm": "နောက်ဆုံးသတ်မှတ်ရက်" },
+        { "id": "v95_003", "word": "延長", "reading": "えんちょう", "meaning_mm": "သက်တမ်းတိုးခြင်း" },
+        { "id": "v95_004", "word": "順調", "reading": "じゅんちょう", "meaning_mm": "ချောချောမွေ့မွေ့ရှိသော" },
+        { "id": "v95_005", "word": "急速", "reading": "きゅうそく", "meaning_mm": "လျင်မြန်သော" },
+        { "id": "v95_006", "word": "段階", "reading": "だんかい", "meaning_mm": "အဆင့်ဆင့် (Stage)" },
+        { "id": "v95_007", "word": "過程", "reading": "かてい", "meaning_mm": "လုပ်ငန်းစဉ် (Process)" },
+        { "id": "v95_008", "word": "永久", "reading": "えいきゅう", "meaning_mm": "ထာဝရ" },
+        { "id": "v95_009", "word": "今後", "reading": "こんご", "meaning_mm": "နောင်အနာဂတ်တွင်" },
+        { "id": "v95_010", "word": "時期", "reading": "じき", "meaning_mm": "ကာလ / အချိန်အခါ" }
+      ]
+    },
+    {
+      "lesson_no": 96,
+      "title": "第96課 (States & Qualities - အခြေအနေနှင့် အရည်အသွေးများ)",
+      "vocabulary": [
+        { "id": "v96_001", "word": "豊富", "reading": "ほうふ", "meaning_mm": "ပေါကြွယ်ဝသော / လုံလောက်သော" },
+        { "id": "v96_002", "word": "巨大", "reading": "きょだい", "meaning_mm": "အလွန်ကြီးမားသော" },
+        { "id": "v96_003", "word": "鮮やか", "reading": "あざやか", "meaning_mm": "တောက်ပသော / စိုပြည်သော" },
+        { "id": "v96_004", "word": "急速", "reading": "きゅうそく", "meaning_mm": "လျင်မြန်သော" },
+        { "id": "v96_005", "word": "強烈", "reading": "きょうれつ", "meaning_mm": "ပြင်းထန်သော / စူးရှသော" },
+        { "id": "v96_006", "word": "平凡", "reading": "へいぼん", "meaning_mm": "ရိုးရိုးသာမန်ဖြစ်သော" },
+        { "id": "v96_007", "word": "有能", "reading": "ゆうのう", "meaning_mm": "စွမ်းဆောင်ရည်ရှိသော" },
+        { "id": "v96_008", "word": "適切", "reading": "てきせつ", "meaning_mm": "သင့်တော်လျောက်ပတ်သော" },
+        { "id": "v96_009", "word": "特殊", "reading": "とくしゅ", "meaning_mm": "ထူးခြားသော / အထူးဖြစ်သော" },
+        { "id": "v96_010", "word": "透明", "reading": "とうめい", "meaning_mm": "ကြည်လင်သော / ဖောက်ထွင်းမြင်နိုင်သော" }
+      ]
+    },
+    {
+      "lesson_no": 97,
+      "title": "第97課 (Human Behavior Verbs - လူတို့၏ ပြုမူဆောင်ရွက်ချက်များ)",
+      "vocabulary": [
+        { "id": "v97_001", "word": "味わう", "reading": "あじわう", "meaning_mm": "အရသာခံသည် / ခံစားနားလည်သည်" },
+        { "id": "v97_002", "word": "恵まれる", "reading": "めぐまれる", "meaning_mm": "ကောင်းချီးခံစားရသည် / ပြည့်စုံသည်" },
+        { "id": "v97_003", "word": "争う", "reading": "あらがう", "meaning_mm": "ငြင်းခုံသည် / ယှဉ်ပြိုင်သည်" },
+        { "id": "v97_004", "word": "避ける", "reading": "さける", "meaning_mm": "ရှောင်ကြဉ်သည်" },
+        { "id": "v97_005", "word": "慰める", "reading": "なぐさめる", "meaning_mm": "နှစ်သိမ့်သည်" },
+        { "id": "v97_006", "word": "見つめる", "reading": "みつめる", "meaning_mm": "စိုက်ကြည့်သည်" },
+        { "id": "v97_007", "word": "からかう", "reading": "からかう", "meaning_mm": "စနောက်သည် / ကျီစယ်သည်" },
+        { "id": "v97_008", "word": "微笑む", "reading": "ほほえむ", "meaning_mm": "ပြုံးသည်" },
+        { "id": "v97_009", "word": "震える", "reading": "ふるえる", "meaning_mm": "တုန်ရင်သည်" },
+        { "id": "v97_010", "word": "輝く", "reading": "かがやく", "meaning_mm": "တောက်ပသည်" }
+      ]
+    },
+    {
+      "lesson_no": 98,
+      "title": "第98課 (Essential Onomatopoeia - အမေးများသော အမူအရာပြစကားလုံးများ)",
+      "vocabulary": [
+        { "id": "v98_001", "word": "ぺらぺら", "reading": "ぺらぺら", "meaning_mm": "ကျွမ်းကျင်စွာ (စကားပြောခြင်း)" },
+        { "id": "v98_002", "word": "どんどん", "reading": "どんどん", "meaning_mm": "တရစပ် / တဖြည်းဖြည်းချင်း (တိုးတက်ခြင်း)" },
+        { "id": "v98_003", "word": "のびのび", "reading": "のびのび", "meaning_mm": "လွတ်လွတ်လပ်လပ် / စိတ်အေးလက်အေး" },
+        { "id": "v98_004", "word": "うろうろ", "reading": "うろうろ", "meaning_mm": "ဟိုဒီလျှောက်သွားခြင်း / ယောင်ချာချာဖြစ်ခြင်း" },
+        { "id": "v98_005", "word": "ぶつぶつ", "reading": "ぶつぶつ", "meaning_mm": "တိုးတိုးတိုးတိုး ပြောခြင်း / ပြစ်ပြစ်ခါခါပြောခြင်း" },
+        { "id": "v98_006", "word": "ぴかぴか", "reading": "ぴかぴか", "meaning_mm": "ပြောင်လက်နေသော" },
+        { "id": "v98_007", "word": "ぎっしり", "reading": "ぎっしり", "meaning_mm": "ကျပ်ညှပ်နေသော / ပြည့်နှက်နေသော" },
+        { "id": "v98_008", "word": "すっきり", "reading": "すっきり", "meaning_mm": "ကြည်လင်လန်းဆန်းသော / ရှင်းလင်းသော" },
+        { "id": "v98_009", "word": "はきはき", "reading": "はきはき", "meaning_mm": "သွက်လက်ချက်ချာသော" },
+        { "id": "v98_010", "word": "ばらばら", "reading": "ばらばら", "meaning_mm": "ကွဲပြားခြားနားသော / ပြန့်ကျဲနေသော" }
+      ]
+    },
+    {
+      "lesson_no": 99,
+      "title": "第99課 (Organization & Logic - ဖွဲ့စည်းပုံနှင့် ကျိုးကြောင်းဆင်ခြင်မှု)",
+      "vocabulary": [
+        { "id": "v99_001", "word": "組織", "reading": "そしき", "meaning_mm": "အဖွဲ့အစည်း / ဖွဲ့စည်းပုံ" },
+        { "id": "v99_002", "word": "規模", "reading": "きぼ", "meaning_mm": "အတိုင်းအတာ / ပမာဏ (Scale)" },
+        { "id": "v99_003", "word": "普及", "reading": "ふきゅう", "meaning_mm": "ပျံ့နှံ့ခြင်း / ခေတ်စားလာခြင်း" },
+        { "id": "v99_004", "word": "分析", "reading": "ぶんせき", "meaning_mm": "ခွဲခြမ်းစိတ်ဖြာခြင်း" },
+        { "id": "v99_005", "word": "統計", "reading": "とうけい", "meaning_mm": "စာရင်းဇယား (Statistics)" },
+        { "id": "v99_006", "word": "管理", "reading": "かんり", "meaning_mm": "စီမံခန့်ခွဲခြင်း / ထိန်းသိမ်းခြင်း" },
+        { "id": "v99_007", "word": "改善", "reading": "かいぜん", "meaning_mm": "ပြုပြင်ပြောင်းလဲခြင်း / ပိုမိုကောင်းမွန်အောင်လုပ်ခြင်း" },
+        { "id": "v99_008", "word": "機能", "reading": "きのう", "meaning_mm": "လုပ်ဆောင်ချက် (Function)" },
+        { "id": "v99_009", "word": "方針", "reading": "ほうしん", "meaning_mm": "မူဝါဒ / လမ်းစဉ်" },
+        { "id": "v99_010", "word": "要素", "reading": "ようそ", "meaning_mm": "အချက်အလက် / အခြေခံအကြောင်းရင်း" }
+      ]
+    },
+    {
+      "lesson_no": 100,
+      "title": "第100課 (Final Summary & Goals - အနှစ်ချုပ်နှင့် ပန်းတိုင်များ)",
+      "vocabulary": [
+        { "id": "v100_001", "word": "目標", "reading": "もくひょう", "meaning_mm": "ပန်းတိုင် / ရည်မှန်းချက်" },
+        { "id": "v100_002", "word": "克服", "reading": "こくふく", "meaning_mm": "ကျော်လွှားခြင်း / အောင်နိုင်ခြင်း" },
+        { "id": "v100_003", "word": "基礎", "reading": "きそ", "meaning_mm": "အခြေခံ (Foundation)" },
+        { "id": "v100_004", "word": "実行", "reading": "じっこう", "meaning_mm": "လက်တွေ့လုပ်ဆောင်ခြင်း" },
+        { "id": "v100_005", "word": "達成", "reading": "たっせい", "meaning_mm": "ပြီးမြောက်အောင်မြင်ခြင်း" },
+        { "id": "v100_006", "word": "感謝", "reading": "かんしゃ", "meaning_mm": "ကျေးဇူးတင်ခြင်း" },
+        { "id": "v100_007", "word": "貢献", "reading": "こうけん", "meaning_mm": "အကျိုးပြုခြင်း / ပါဝင်ကူညီခြင်း" },
+        { "id": "v100_008", "word": "絶好", "reading": "ぜっこう", "meaning_mm": "အကောင်းဆုံးသော (ဥပမာ- အခွင့်အရေး)" },
+        { "id": "v100_009", "word": "永続", "reading": "えいぞく", "meaning_mm": "ထာဝရတည်မြဲခြင်း" },
+        { "id": "v100_010", "word": "完了", "reading": "かんりょう", "meaning_mm": "ပြီးဆုံးခြင်း / ပြီးမြောက်ခြင်း" }
+      ]
+    }
+  ]
+}
+  ],
+     "grammar": [
+    {
+      "level": "n3",
+      "category": "grammar",
       "lessons": [
-        
-      ],
-      "grammar": [
-        
-      ],
+        {
+          "lesson_no": 51,
+          "title": "第51課 (အချိန်နှင့် အခြေအနေ - ၁)",
+          "grammar_list": [
+            {
+              "id": "g51_001",
+              "pattern": "～うちに",
+              "meaning_mm": "～တုန်းမှာ / ～အတွင်းမှာ (အခွင့်အရေးမကုန်ခင် တစ်ခုခုလုပ်ရန် သို့မဟုတ် မသိလိုက်ဘဲ အပြောင်းအလဲဖြစ်သွားခြင်း)",
+              "formation": "V-辞書形 / V-ている / V-ない / A-い / Na-な / N-の + うちに",
+              "examples": [
+                {
+                  "jp": "忘れないうちに、メモしておきます。",
+                  "romaji": "Wasurenai uchi ni, memo shite okimasu.",
+                  "mm": "မမေ့သေးခင် (မမေ့တုန်းမှာ) မှတ်စု ရေးထားပါမယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g51_002",
+              "pattern": "～たびに",
+              "meaning_mm": "～တိုင်းမှာ (ရှေ့ကအခြေအနေဖြစ်တိုင်း နောက်ကအရာ အမြဲဖြစ်ပေါ်ခြင်း)",
+              "formation": "V-辞書形 / N-の + たびに",
+              "examples": [
+                {
+                  "jp": "この写真を見るたびに、家族を思い出します。",
+                  "romaji": "Kono shashin o miru tabi ni, kazoku o omoidashimasu.",
+                  "mm": "ဒီဓာတ်ပုံကို ကြည့်တိုင်း မိသားစုကို သတိရပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g51_003",
+              "pattern": "～最中に",
+              "meaning_mm": "～နေတုန်း အချိန်အတိအကျမှာ (တစ်ခုခု အားစိုက်လုပ်နေတုန်းမှာ အခြားတစ်ခု ဝင်နှောင့်ယှက်ခြင်း)",
+              "formation": "V-ている / N-の + 最中に (さいちゅうに)",
+              "examples": [
+                {
+                  "jp": "会議をしている最中に、電気が消えました。",
+                  "romaji": "Kaigi o shite iru saichū ni, denki ga kiemashita.",
+                  "mm": "အစည်းအဝေး လုပ်နေတုန်း အချိန်မှာပဲ မီးပျက်သွားပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 52,
+          "title": "第52課 (အကြောင်းပြချက်နှင့် ရလဒ်)",
+          "grammar_list": [
+            {
+              "id": "g52_001",
+              "pattern": "～おかげで",
+              "meaning_mm": "～ကျေးဇူးကြောင့် (ကောင်းမွန်သော ရလဒ်အတွက် သုံးသည်)",
+              "formation": "V/A/Na/N (普通形) + おかげで (*Na-な / N-の)",
+              "examples": [
+                {
+                  "jp": "先生のおかげで、合格できました。",
+                  "romaji": "Sensei no okage de, gōkaku dekimashita.",
+                  "mm": "ဆရာ့ကျေးဇူးကြောင့် စာမေးပွဲ အောင်နိုင်ခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g52_002",
+              "pattern": "～せいで",
+              "meaning_mm": "～ကြောင့် (မကောင်းသော ရလဒ် သို့မဟုတ် အပြစ်တင်ရာတွင် သုံးသည်)",
+              "formation": "V/A/Na/N (普通形) + せいで (*Na-な / N-の)",
+              "examples": [
+                {
+                  "jp": "雨のせいで、試合が中止になりました。",
+                  "romaji": "Ame no sei de, shiai ga chūshi ni narimashita.",
+                  "mm": "မိုးရွာတဲ့ (အနုမေတ္တာ) ကြောင့် ပွဲစဉ် ရပ်နားလိုက်ရပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g52_003",
+              "pattern": "～からには",
+              "meaning_mm": "～ကတည်းကတော့ / ～ဖြစ်မှတော့ (တာဝန်ယူမှု သို့မဟုတ် ပြတ်သားသော ဆုံးဖြတ်ချက်)",
+              "formation": "V-普通形 + からには",
+              "examples": [
+                {
+                  "jp": "約束したからには、守らなければなりません。",
+                  "romaji": "Yakusoku shita kara ni wa, mamoranahereba narimasen.",
+                  "mm": "ကတိပေးခဲ့ပြီးမှတော့ တည်အောင် လုပ်ရပါမယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 53,
+          "title": "第53課 (ခန့်မှန်းချက်နှင့် ယုံကြည်ချက်)",
+          "grammar_list": [
+            {
+              "id": "g53_001",
+              "pattern": "～に違いない",
+              "meaning_mm": "～ဖြစ်မှာ သေချာတယ် (ခိုင်လုံသော အထောက်အထားဖြင့် ခန့်မှန်းခြင်း)",
+              "formation": "V/A/Na/N (普通形) + にちがいない (*Na/N だ ဖြုတ်)",
+              "examples": [
+                {
+                  "jp": "犯人は彼に違いない。",
+                  "romaji": "Hannin wa kare ni chigainai.",
+                  "mm": "တရားခံက သူဖြစ်မှာ သေချာတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g53_002",
+              "pattern": "～はずだ",
+              "meaning_mm": "～မှာပဲ / ～ဖို့ ရှိတယ် (ကျိုးကြောင်းဆင်ခြင်မှုအရ ဖြစ်သင့်ဖြစ်ထိုက်သော အခြေအနေ)",
+              "formation": "V/A/Na/N (普通形) + はずだ (*Na-な / N-の)",
+              "examples": [
+                {
+                  "jp": "彼はもうすぐ来るはずです。",
+                  "romaji": "Kare wa mōsugu kuru hazu desu.",
+                  "mm": "သူက မကြာခင် ရောက်လာမှာပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g53_003",
+              "pattern": "～わけだ",
+              "meaning_mm": "～တာပေါ့ / ～တာကိုး (အကြောင်းရင်းကို နားလည်သွားသည့်အခါ သုံးသည်)",
+              "formation": "V/A/Na/N (普通形) + わけだ (*Na-な / N-の)",
+              "examples": [
+                {
+                  "jp": "暑いわけだ。エアコンが止まっている。",
+                  "romaji": "Atsui wake da. Eakon ga tomatte iru.",
+                  "mm": "ပူနေတာကိုး။ အဲယားကွန်းက ရပ်နေတာပဲ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 54,
+          "title": "第54課 (နှိုင်းယှဉ်ချက်နှင့် ဆန့်ကျင်ဘက်)",
+          "grammar_list": [
+            {
+              "id": "g54_001",
+              "pattern": "～に比べて",
+              "meaning_mm": "～နှင့် နှိုင်းယှဉ်ရင်",
+              "formation": "N + にくらべて",
+              "examples": [
+                {
+                  "jp": "今年は去年に比べて、雨が多い。",
+                  "romaji": "Kotoshi wa kyonen ni kurabete, ame ga ooi.",
+                  "mm": "ဒီနှစ်က မနှစ်ကနဲ့ နှိုင်းယှဉ်ရင် မိုးပိုများပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g54_002",
+              "pattern": "～に対して",
+              "meaning_mm": "～နှင့် ဆန့်ကျင်ဘက် / ～အပေါ်မှာ (သဘောထား သို့မဟုတ် ကွာခြားချက်ပြခြင်း)",
+              "formation": "V-普通形 (の) / N + に対して (たいして)",
+              "examples": [
+                {
+                  "jp": "兄は明るいのに対して、弟は静かです。",
+                  "romaji": "Ani wa akarui no ni taishite, otōto wa shizuka desu.",
+                  "mm": "အစ်ကိုဖြစ်သူက တက်ကြွလန်းဆန်းသလောက် ညီဖြစ်သူကတော့ အေးအေးဆေးဆေး ရှိပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g54_003",
+              "pattern": "～反面",
+              "meaning_mm": "～တစ်ဖက်မှာလည်း (ကောင်းကွက်နှင့် ဆိုးကွက် ဒွန်တွဲနေခြင်း)",
+              "formation": "V/A/Na/N (普通形) + 反面 (はんめん) (*Na-な / N-である)",
+              "examples": [
+                {
+                  "jp": "都会の生活は便利な反面、ストレスも多い。",
+                  "romaji": "Tokai no seikatsu wa benri na hanmen, sutoresu mo ooi.",
+                  "mm": "မြို့ပြဘဝက အဆင်ပြေချောမွေ့သလောက် တစ်ဖက်မှာလည်း စိတ်ဖိစီးမှုတွေ များပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 55,
+          "title": "第55課 (ကြိယာ၏ အခြေအနေပြအသုံးများ)",
+          "grammar_list": [
+            {
+              "id": "g55_001",
+              "pattern": "～かける / ～かけの",
+              "meaning_mm": "～ဆဲဆဲ / ～လက်စ (အလုပ်တစ်ခု မပြီးသေးဘဲ တစ်ဝက်တစ်ပျက် ဖြစ်နေခြင်း)",
+              "formation": "V-ます (ます ဖြုတ်) + かける",
+              "examples": [
+                {
+                  "jp": "読みかけの本が机の上にあります。",
+                  "romaji": "Yomikake no hon ga tsukue no ue ni arimasu.",
+                  "mm": "ဖတ်လက်စ စာအုပ်က စားပွဲပေါ်မှာ ရှိပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g55_002",
+              "pattern": "～きる / ～きれる",
+              "meaning_mm": "～အကုန်အစင်လုပ်သည် / ～အဆုံးအထိလုပ်နိုင်သည်",
+              "formation": "V-ます (ます ဖြုတ်) + きる",
+              "examples": [
+                {
+                  "jp": "長い距離を走りきりました。",
+                  "romaji": "Nagai kyori o hashirikkirimashita.",
+                  "mm": "ရှည်လျားတဲ့ အကွာအဝေးကို အဆုံးထိ ပြေးခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g55_003",
+              "pattern": "～通す",
+              "meaning_mm": "～အဆုံးထိ ဇွဲရှိရှိလုပ်သည်",
+              "formation": "V-ます (ます ဖြုတ်) + とおす",
+              "examples": [
+                {
+                  "jp": "自分で決めたことは、最後までやり通します。",
+                  "romaji": "Jibun de kimeta koto wa, saigo made yaritōshimasu.",
+                  "mm": "ကိုယ်တိုင်ဆုံးဖြတ်ထားတဲ့အရာကို အဆုံးထိဖြစ်အောင် လုပ်ဆောင်ပါမယ်။"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "n3",
+      "category": "grammar",
+      "lessons": [
+        {
+          "lesson_no": 56,
+          "title": "第56課 (အကန့်အသတ်နှင့် အလေးပေးခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g56_001",
+              "pattern": "～ばかりか / ～ばかりでなく",
+              "meaning_mm": "～ရုံတင်မကဘဲ (အခြားအရာတစ်ခုပါ ထပ်လောင်းဖော်ပြခြင်း)",
+              "formation": "V/A/Na/N (普通形) + ばかりか (*Na-な / N-の/である)",
+              "examples": [
+                {
+                  "jp": "彼は漢字ばかりか、敬語も上手に話せます。",
+                  "romaji": "Kare wa kanji bakarika, keigo mo jōzu ni hanasemasu.",
+                  "mm": "သူက ခန်ဂျီတင်မကဘဲ ယဉ်ကျေးတဲ့စကား (Keigo) ကိုပါ ကျွမ်းကျင်စွာ ပြောနိုင်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g56_002",
+              "pattern": "～さえ / ～さえ～ば",
+              "meaning_mm": "～ပင်လျှင် / ～ရုံနဲ့တင် (အနည်းဆုံး လိုအပ်ချက်ကို ပြခြင်း)",
+              "formation": "N + さえ / V-ます (ます ဖြုတ်) + さえすれば",
+              "examples": [
+                {
+                  "jp": "薬を飲みさえすれば、すぐに治りますよ。",
+                  "romaji": "Kusuri o nomisae sureba, sugu ni naorimasu yo.",
+                  "mm": "ဆေးသောက်ရုံနဲ့တင် ချက်ချင်း ပြန်ကောင်းသွားမှာပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g56_003",
+              "pattern": "～こそ / ～からこそ",
+              "meaning_mm": "～မှသာလျှင် / ～ကြောင့်မို့လို့သာလျှင် (အကြောင်းရင်းကို အလေးအနက်ပြုခြင်း)",
+              "formation": "N + こそ / Reason + からこそ",
+              "examples": [
+                {
+                  "jp": "努力したからこそ、成功できたんです。",
+                  "romaji": "Doryoku shita kara koso, seikō dekita n desu.",
+                  "mm": "ကြိုးစားခဲ့လို့မို့လို့သာလျှင် အောင်မြင်နိုင်ခဲ့တာပါ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 57,
+          "title": "第57課 (အခြေအနေနှင့် ယူဆချက်များ)",
+          "grammar_list": [
+            {
+              "id": "g57_001",
+              "pattern": "～にかかわらず",
+              "meaning_mm": "～နဲ့ မသက်ဆိုင်ဘဲ / ～ဖြစ်စေ၊ မဖြစ်စေ",
+              "formation": "V-辞書形 + ない / N + にかかわらず",
+              "examples": [
+                {
+                  "jp": "雨が降る降らないにかかわらず、試合は行います。",
+                  "romaji": "Ame ga furu furanai ni kakawarazu, shiai wa okonaimasu.",
+                  "mm": "မိုးရွာသည်ဖြစ်စေ၊ မရွာသည်ဖြစ်စေ ပွဲကို ကျင်းပပါမယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g57_002",
+              "pattern": "～に反して (にはんして)",
+              "meaning_mm": "～နှင့် ဆန့်ကျင်ပြီး / ～နှင့် မတူဘဲ (မျှော်လင့်ချက် သို့မဟုတ် စည်းကမ်းနှင့် ဆန့်ကျင်ခြင်း)",
+              "formation": "N + に反して",
+              "examples": [
+                {
+                  "jp": "予想に反して、テストは簡単でした。",
+                  "romaji": "Yosō ni hanshite, tesuto wa kantan deshita.",
+                  "mm": "ခန့်မှန်းထားတာနဲ့ ဆန့်ကျင်ပြီး စာမေးပွဲက လွယ်ခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g57_003",
+              "pattern": "たとえ ～ても",
+              "meaning_mm": "အကယ်၍ပင် ～ဖြစ်ပါစေဦးတော့",
+              "formation": "たとえ + V-ても / A-くても / Na, N-でも",
+              "examples": [
+                {
+                  "jp": "たとえ反対されても、留学するつもりです。",
+                  "romaji": "Tatoe hantai saretemo, ryūgaku suru tsumori desu.",
+                  "mm": "အကယ်၍ ကန့်ကွက်ခံရပါစေဦးတော့ ကျောင်းသွားတက်ဖို့ ရည်ရွယ်ထားပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 58,
+          "title": "第58課 (ယုတ္တိတန်သော ဖော်ပြချက်များ)",
+          "grammar_list": [
+            {
+              "id": "g58_001",
+              "pattern": "～わけがない",
+              "meaning_mm": "～ဖြစ်စရာ အကြောင်းမရှိဘူး / ～စရာ အကြောင်းကို မရှိတာ",
+              "formation": "V/A/Na/N (普通形) + わけがない (*Na-な / N-の)",
+              "examples": [
+                {
+                  "jp": "真面目な彼が、嘘をつくわけがない。",
+                  "romaji": "Majime na kare ga, uso o tsuku wake ga nai.",
+                  "mm": "တည်တည်ကြည်ကြည်ရှိတဲ့သူက လိမ်ပြောစရာအကြောင်း လုံးဝမရှိဘူး။"
+                }
+              ]
+            },
+            {
+              "id": "g58_002",
+              "pattern": "～わけではない",
+              "meaning_mm": "～တယ်လို့တော့ မဟုတ်ပါဘူး / ～တာတော့ မဟုတ်ဘူး (အကုန်လုံးကို မငြင်းဘဲ တစ်စိတ်တစ်ပိုင်း ငြင်းဆိုခြင်း)",
+              "formation": "V/A/Na/N (普通形) + わけではない (*Na-な / N-の)",
+              "examples": [
+                {
+                  "jp": "日本料理が嫌いなわけではないが、あまり食べない。",
+                  "romaji": "Nihon ryōri ga kirai na wake de wa nai ga, amari tabenai.",
+                  "mm": "ဂျပန်စာကို မကြိုက်တာတော့ မဟုတ်ပါဘူး၊ ဒါပေမဲ့ သိပ်မစားဖြစ်ဘူး။"
+                }
+              ]
+            },
+            {
+              "id": "g58_003",
+              "pattern": "～ということだ",
+              "meaning_mm": "～လို့ အဓိပ္ပာယ်ရတယ် / ～တယ်လို့ ကြားတယ်",
+              "formation": "V-普通形 + ということだ",
+              "examples": [
+                {
+                  "jp": "ニュースによると、来週から安くなるということです。",
+                  "romaji": "Nyūsu ni yoru to, raishū kara yasuku naru to iu koto desu.",
+                  "mm": "သတင်းအရဆိုရင် နောက်အပတ်ကစပြီး ဈေးသက်သာမယ်လို့ ကြားရပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 59,
+          "title": "第59課 (ခံစားချက်နှင့် အမူအရာပြအသုံးများ)",
+          "grammar_list": [
+            {
+              "id": "g59_001",
+              "pattern": "～たがる / ～たがっている",
+              "meaning_mm": "～ချင်နေသည် (တတိယလူ၏ ဆန္ဒကို ဖော်ပြခြင်း)",
+              "formation": "V-ます (ます ဖြုတ်) + たがる",
+              "examples": [
+                {
+                  "jp": "妹は新しいスマホを欲しがっています。",
+                  "romaji": "Imōto wa atarashii sumaho o hoshigatte imasu.",
+                  "mm": "ညီမလေးက စမတ်ဖုန်းအသစ် လိုချင်နေပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g59_002",
+              "pattern": "～ふりをする",
+              "meaning_mm": "～ယောင်ဆောင်သည် / ～ဟန်ဆောင်သည်",
+              "formation": "V/A/Na/N (普通形) + ふりをする (*Na-な / N-の)",
+              "examples": [
+                {
+                  "jp": "彼は独身のふりをしていますが、実は結婚しています。",
+                  "romaji": "Kare wa dokushin no furi o shite imasu ga, jitsu wa kekkon shite imasu.",
+                  "mm": "သူက လူပျိုယောင်ဆောင်နေပေမယ့် တကယ်တော့ အိမ်ထောင်ရှိပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g59_003",
+              "pattern": "～っぱなし",
+              "meaning_mm": "～အတိုင်း ပစ်ထားသည် (လုပ်လက်စကို မသိမ်းဘဲ ထားခဲ့ခြင်း)",
+              "formation": "V-ます (ます ဖြုတ်) + っぱなし",
+              "examples": [
+                {
+                  "jp": "テレビをつけっぱなしで寝てしまいました。",
+                  "romaji": "Terebi o tsukeppanashi de nete shimaimashita.",
+                  "mm": "တီဗွီဖွင့်လျက်သားအတိုင်း အိပ်ပျော်သွားခဲ့ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 60,
+          "title": "第60課 (ဖြစ်နိုင်ခြေနှင့် စိုးရိမ်မှုများ)",
+          "grammar_list": [
+            {
+              "id": "g60_001",
+              "pattern": "～おそれがある",
+              "meaning_mm": "～ဖြစ်နိုင်တဲ့ အန္တရာယ်ရှိတယ် / ～ဖြစ်မှာ စိုးရိမ်ရတယ်",
+              "formation": "V-辞書形 / N-の + おそれがある",
+              "examples": [
+                {
+                  "jp": "今夜、台風が来るおそれがあります。",
+                  "romaji": "Konya, taifū ga kuru osore ga arimasu.",
+                  "mm": "ဒီည မုန်တိုင်းလာနိုင်တဲ့ အန္တရာယ်ရှိပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g60_002",
+              "pattern": "～に決まっている",
+              "meaning_mm": "～မှာ သေချာတယ် (ယုံကြည်ချက်အပြည့်ဖြင့် ပြောဆိုခြင်း)",
+              "formation": "V/A/Na/N (普通形) + にきまっている (*Na/N だ ဖြုတ်)",
+              "examples": [
+                {
+                  "jp": "そんなの、嘘に決まっていますよ。",
+                  "romaji": "Sonna no, uso ni kimatte imasu yo.",
+                  "mm": "အဲဒါမျိုးကတော့ လိမ်တာ သေချာနေတာပဲလေ။"
+                }
+              ]
+            },
+            {
+              "id": "g60_003",
+              "pattern": "～っけ",
+              "meaning_mm": "～ပါလိမ့် (မမှတ်မိတော့ဘဲ ပြန်မေးမြန်းခြင်း သို့မဟုတ် အတည်ပြုခြင်း)",
+              "formation": "V/A/Na/N (普通形) + っけ (*Na/N だ -> だ/だっ) ",
+              "examples": [
+                {
+                  "jp": "今日の会議は何時からだっけ？",
+                  "romaji": "Kyō no kaigi wa nan-ji kara dakke?",
+                  "mm": "ဒီနေ့အစည်းအဝေးက ဘယ်နှစ်နာရီကစမှာပါလိမ့်?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "n3",
+      "category": "grammar",
+      "lessons": [
+        {
+          "lesson_no": 61,
+          "title": "第61課 (ပေးခြင်းနှင့် ရယူခြင်း - အဆင့်မြင့်)",
+          "grammar_list": [
+            {
+              "id": "g61_001",
+              "pattern": "～て差し上げる (てさしあげる)",
+              "meaning_mm": "～ပေးသည် (ကိုယ်ထက်ကြီးသူ သို့မဟုတ် ဂုဏ်သရေရှိသူကို တစ်ခုခုလုပ်ပေးသည့်အခါ နှိမ့်ချသုံးနှုန်းခြင်း)",
+              "formation": "V-て形 + 差し上げる",
+              "examples": [
+                {
+                  "jp": "先生に荷物を持って差し上げました。",
+                  "romaji": "Sensei ni nimotsu o motte sashiagemashita.",
+                  "mm": "ဆရာ့ရဲ့ အထုပ်အပိုးတွေကို သယ်ပေးခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g61_002",
+              "pattern": "～てくださる",
+              "meaning_mm": "～ပေးသည် (ကိုယ်ထက်ကြီးသူက ကိုယ့်ကို တစ်ခုခုလုပ်ပေးသည့်အခါ မြှောက်စားသုံးနှုန်းခြင်း)",
+              "formation": "V-て形 + くださる",
+              "examples": [
+                {
+                  "jp": "部長が駅まで送ってくださいました。",
+                  "romaji": "Buchō ga eki made okutte kudasaimashita.",
+                  "mm": "ဌာနမှူးက ဘူတာရုံအထိ လိုက်ပို့ပေးခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g61_003",
+              "pattern": "～てやる / ～てあげる",
+              "meaning_mm": "～ပေးသည် (ကိုယ်ထက်ငယ်သူ၊ တိရစ္ဆာန် သို့မဟုတ် ရင်းနှီးသူကို လုပ်ပေးခြင်း)",
+              "formation": "V-て形 + やる / あげる",
+              "examples": [
+                {
+                  "jp": "犬にえさをやってください。",
+                  "romaji": "Inu ni esa o yatte kudasai.",
+                  "mm": "ခွေးကို အစာကျွေးပေးပါ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 62,
+          "title": "第62課 (စေခိုင်းခံရခြင်း - Causative Passive)",
+          "grammar_list": [
+            {
+              "id": "g62_001",
+              "pattern": "使役受身 (しえきうけみ)",
+              "meaning_mm": "～ခိုင်းတာ ခံရသည် (မိမိဆန္ဒမပါဘဲ သူတစ်ပါး ခိုင်းစေမှုကြောင့် သို့မဟုတ် အခြေအနေအရ မလုပ်မနေရ လုပ်ရခြင်း)",
+              "formation": "Gr 1: u -> aせられる (short: asareru), Gr 2: saserareru, Gr 3: kosaserareru / saserareru",
+              "examples": [
+                {
+                  "jp": "子供の時、母に野菜を食べさせられました。",
+                  "romaji": "Kodomo no toki, haha ni yasai o tabesaseraremashita.",
+                  "mm": "ကလေးဘဝတုန်းက အမေ့ဆီမှာ ဟင်းသီးဟင်းရွက်တွေကို အတင်းကျွေးတာ ခံခဲ့ရပါတယ်။ (မစားချင်ဘဲ စားခဲ့ရသည်)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 63,
+          "title": "第63課 (စည်းကမ်းနှင့် တာဝန်ရှိမှု)",
+          "grammar_list": [
+            {
+              "id": "g63_001",
+              "pattern": "～こと",
+              "meaning_mm": "～ရမည် / ～ရပါမည် (စည်းကမ်းများ၊ ညွှန်ကြားချက်များကို တိုတိုတုတ်တုတ် ရေးသားရာတွင် သုံးသည်)",
+              "formation": "V-辞書形 / V-ない形 + こと",
+              "examples": [
+                {
+                  "jp": "試験中は辞書を使わないこと。",
+                  "romaji": "Shiken-chū wa jisho o tsukawanai koto.",
+                  "mm": "စာမေးပွဲဖြေဆိုနေစဉ်အတွင်း အဘိဓာန် အသုံးမပြုရ။"
+                }
+              ]
+            },
+            {
+              "id": "g63_002",
+              "pattern": "～べきだ / ～べきではない",
+              "meaning_mm": "～သင့်သည် / ～မသင့်ဘူး (လူမှုရေးအရ သို့မဟုတ် ကိုယ်ကျင့်တရားအရ လုပ်သင့်သည့်အရာ)",
+              "formation": "V-辞書形 + べきだ (*する -> すべき)",
+              "examples": [
+                {
+                  "jp": "約束は守るべきです。",
+                  "romaji": "Yakusoku wa mamoru beki desu.",
+                  "mm": "ကတိဆိုတာ တည်သင့်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 64,
+          "title": "第64課 (အကြံပေးခြင်းနှင့် လမ်းညွှန်ချက်)",
+          "grammar_list": [
+            {
+              "id": "g64_001",
+              "pattern": "～たほうがいい / ～ないほうがいい",
+              "meaning_mm": "～တာ ပိုကောင်းမယ် (N4 ထက် ပိုမိုကျယ်ပြန့်သော context များတွင် သုံးသည်)",
+              "formation": "V-た形 / V-ない形 + ほうがいい",
+              "examples": [
+                {
+                  "jp": "無理をしないほうがいいですよ。",
+                  "romaji": "Muri o shinai hō ga ii desu yo.",
+                  "mm": "အလွန်အကျွံ မလုပ်တာ ပိုကောင်းပါလိမ့်မယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g64_002",
+              "pattern": "～たらどうですか",
+              "meaning_mm": "～ရင် ဘယ်လိုလဲ (အကြံပြုတိုက်တွန်းခြင်း)",
+              "formation": "V-たら + どうですか",
+              "examples": [
+                {
+                  "jp": "わからないなら、先生に聞いたらどうですか。",
+                  "romaji": "Wakaranai nara, sensei ni kiitara dō desu ka.",
+                  "mm": "နားမလည်ရင် ဆရာ့ကို မေးကြည့်ရင် ဘယ်လိုလဲ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 65,
+          "title": "第65課 (လွမ်းဆွတ်မှုနှင့် အလေ့အကျင့်ဟောင်း)",
+          "grammar_list": [
+            {
+              "id": "g65_001",
+              "pattern": "～たものだ",
+              "meaning_mm": "～လေ့ရှိခဲ့တယ် (အတိတ်က အချိန်အကြာကြီး လုပ်ခဲ့ဖူးသည့်အရာကို လွမ်းဆွတ်တမ်းတပြီး ပြန်ပြောသည့်အခါ သုံးသည်)",
+              "formation": "V-た形 + ものだ",
+              "examples": [
+                {
+                  "jp": "子供のころ、よくこの川で泳いだものです。",
+                  "romaji": "Kodomo no koro, yoku kono kawa de oyoida mono desu.",
+                  "mm": "ကလေးတုန်းက ဒီမြစ်ထဲမှာ ခဏခဏ ရေကူးလေ့ရှိခဲ့ဖူးပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g65_002",
+              "pattern": "～ついでに",
+              "meaning_mm": "～လုပ်ရင်းနဲ့ တစ်ခါတည်း (အဓိကအလုပ်တစ်ခု လုပ်နေတုန်းမှာ အခြားအလုပ်တစ်ခုကို လမ်းကြုံလုပ်ဆောင်ခြင်း)",
+              "formation": "V-辞書形 / V-た形 / N-の + ついでに",
+              "examples": [
+                {
+                  "jp": "買い物のついでに、手紙を出してきました。",
+                  "romaji": "Kaimono no tsuide ni, tegami o dashite kimashita.",
+                  "mm": "ဈေးဝယ်ရင်းနဲ့ တစ်ခါတည်း စာတိုက်ထဲ စာထည့်ခဲ့ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "n3",
+      "category": "grammar",
+      "lessons": [
+        {
+          "lesson_no": 66,
+          "title": "第66課 (အခြေအနေ တစ်သမတ်တည်းဖြစ်ခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g66_001",
+              "pattern": "～きり",
+              "meaning_mm": "～ကတည်းက (နောက်ထပ် ဘာမှ ထပ်မဖြစ်တော့ခြင်း သို့မဟုတ် ထိုအတိုင်းပဲ ဖြစ်နေခြင်း)",
+              "formation": "V-た形 + きり",
+              "examples": [
+                {
+                  "jp": "彼は「さよなら」と言ったきり、帰ってきませんでした。",
+                  "romaji": "Kare wa 'Sayonara' to itta kiri, kaette kimasen deshita.",
+                  "mm": "သူက 'နှုတ်ဆက်ပါတယ်' လို့ ပြောပြီးထွက်သွားကတည်းက ပြန်မလာတော့ပါဘူး။"
+                }
+              ]
+            },
+            {
+              "id": "g66_002",
+              "pattern": "～まま",
+              "meaning_mm": "～အတိုင်း / ～လျက်သား (အခြေအနေတစ်ခု မပြောင်းလဲဘဲ ရှိနေခြင်း)",
+              "formation": "V-た形 / V-ない形 / A-い / Na-な / N-の + まま",
+              "examples": [
+                {
+                  "jp": "靴をはいたまま、家に入らないでください。",
+                  "romaji": "Kutsu o haita mama, ie ni hairanaide kudasai.",
+                  "mm": "ဖိနပ်စီးလျက်သားအတိုင်း အိမ်ထဲကို မဝင်ပါနဲ့။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 67,
+          "title": "第67課 (နှိုင်းယှဉ်ချက်နှင့် ခံစားချက်ပြအသုံးများ)",
+          "grammar_list": [
+            {
+              "id": "g67_001",
+              "pattern": "～というより",
+              "meaning_mm": "～လို့ ပြောတာထက်စာရင် (ပိုပြီး တိကျတဲ့ အသုံးအနှုန်းကို ရွေးချယ်ပြောဆိုခြင်း)",
+              "formation": "V/A/Na/N (普通形) + というより",
+              "examples": [
+                {
+                  "jp": "あの二人は、友達というより兄弟みたいです。",
+                  "romaji": "Ano futari wa, tomodachi to iu yori kyōdai mitai desu.",
+                  "mm": "အဲဒီနှစ်ယောက်က သူငယ်ချင်းလို့ပြောတာထက်စာရင် ညီအစ်ကိုတွေလိုပါပဲ။"
+                }
+              ]
+            },
+            {
+              "id": "g67_002",
+              "pattern": "～にしても",
+              "meaning_mm": "～ဖြစ်ပါစေဦးတော့ / ～ဆိုရင်တောင်မှ (ရှေ့ကအချက်ကို လက်ခံပေမယ့် နောက်ကအချက်က ပိုအရေးကြီးကြောင်း ပြခြင်း)",
+              "formation": "V/A/Na/N (普通形) + にしても",
+              "examples": [
+                {
+                  "jp": "忙しいにしても、連絡ぐらいはできるはずです。",
+                  "romaji": "Isogashii ni shitemo, renraku gurai wa dekiru hazu desu.",
+                  "mm": "အလုပ်များနေတယ်ဆိုရင်တောင်မှ အနည်းဆုံးတော့ အကြောင်းကြားလို့ ရသင့်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 68,
+          "title": "第68課 (အခြေအနေအရ မလုပ်နိုင်ခြင်းနှင့် လုပ်ရခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g68_001",
+              "pattern": "～わけにはいかない",
+              "meaning_mm": "～လို့ မဖြစ်ဘူး / ～လို့ မရဘူး (ကိုယ်ကျင့်တရား သို့မဟုတ် လူမှုရေးအရ လုပ်ဖို့ အခြေအနေမပေးခြင်း)",
+              "formation": "V-辞書形 + わけにはいかない",
+              "examples": [
+                {
+                  "jp": "明日はテストがあるから、遊んでいるわけにはいかない。",
+                  "romaji": "Ashita wa tesuto ga aru kara, asonde iru wake ni wa ikanai.",
+                  "mm": "မနက်ဖြန် စာမေးပွဲရှိတာကြောင့် လျှောက်လည် (ဆော့) နေလို့ မဖြစ်ဘူး။"
+                }
+              ]
+            },
+            {
+              "id": "g68_002",
+              "pattern": "～ないわけにはいかない",
+              "meaning_mm": "～ရမယ် / ～မလုပ်လို့ မရဘူး (တာဝန်အရ သို့မဟုတ် အခြေအနေအရ မလုပ်မနေရ လုပ်ရခြင်း)",
+              "formation": "V-ない形 + わけにはいかない",
+              "examples": [
+                {
+                  "jp": "部長に頼まれたので、やらないわけにはいかない。",
+                  "romaji": "Buchō ni tanomareta node, yaranai wake ni wa ikanai.",
+                  "mm": "ဌာနမှူးက ခိုင်းထားတာဖြစ်လို့ မလုပ်ဘဲနေလို့ မရဘူး (လုပ်ရမယ်)။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 69,
+          "title": "第69課 (သတ်မှတ်ချက်နှင့် အလေ့အကျင့်)",
+          "grammar_list": [
+            {
+              "id": "g69_001",
+              "pattern": "～ことになっている",
+              "meaning_mm": "～ဖို့ သတ်မှတ်ထားတယ် / ～ဖို့ ရှိတယ် (စည်းကမ်း၊ အစီအစဉ် သို့မဟုတ် အများသဘောတူညီချက်)",
+              "formation": "V-辞書形 / V-ない形 + ことになっている",
+              "examples": [
+                {
+                  "jp": "教室では日本語で話すことになっています。",
+                  "romaji": "Kyōshitsu de wa Nihongo de hanasu koto ni natte imasu.",
+                  "mm": "စာသင်ခန်းထဲမှာ ဂျပန်လိုပြောဖို့ သတ်မှတ် (စည်းကမ်းထုတ်) ထားပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g69_002",
+              "pattern": "～ことにしている",
+              "meaning_mm": "～ဖို့ ဆုံးဖြတ်ထားတယ် / ～ဖို့ အလေ့အကျင့်လုပ်ထားတယ် (ကိုယ်ပိုင် စည်းကမ်း သို့မဟုတ် အလေ့အကျင့်)",
+              "formation": "V-辞書形 / V-ない形 + ことにしている",
+              "examples": [
+                {
+                  "jp": "健康のために、毎日走ることにしています。",
+                  "romaji": "Kenkō no tame ni, mainichi hashiru koto ni shite imasu.",
+                  "mm": "ကျန်းမာရေးအတွက် နေ့တိုင်းပြေးဖို့ ဆုံးဖြတ် (အလေ့အကျင့်လုပ်) ထားပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 70,
+          "title": "第70課 (ကာလအပိုင်းအခြားနှင့် ကြားခံနယ်ပယ်)",
+          "grammar_list": [
+            {
+              "id": "g70_001",
+              "pattern": "～にわたって",
+              "meaning_mm": "～တစ်လျှောက်လုံး / ～အနှံ့ (အချိန် သို့မဟုတ် နေရာ အတိုင်းအတာ တစ်ခုလုံးကို ခြုံငုံဖော်ပြခြင်း)",
+              "formation": "N + にわたって",
+              "examples": [
+                {
+                  "jp": "会議は3日間にわたって行われました。",
+                  "romaji": "Kaigi wa mikkakan ni watatte okonawaremashita.",
+                  "mm": "အစည်းအဝေးကို ၃ ရက်တိုင်တိုင် ကျင်းပခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g70_002",
+              "pattern": "～を通じて / ～を通して (をつうじて / をとおして)",
+              "meaning_mm": "～မှတစ်ဆင့် / ～တစ်လျှောက်လုံး (ကြားခံတစ်ခုခု သို့မဟုတ် အချိန်ကာလ တစ်ခုလုံး)",
+              "formation": "N + を通じて / を通して",
+              "examples": [
+                {
+                  "jp": "インターネットを通じて、世界中の人と交流できます。",
+                  "romaji": "Intānetto o tsūjite, sekaijū no hito to kōryū deki masu.",
+                  "mm": "အင်တာနက်ကနေတစ်ဆင့် ကမ္ဘာတစ်ဝှမ်းကလူတွေနဲ့ ဆက်သွယ်လို့ရပါတယ်။"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "n3",
+      "category": "grammar",
+      "lessons": [
+        {
+          "lesson_no": 71,
+          "title": "第71課 (ရည်ညွှန်းခြင်းနှင့် ပတ်သက်ဆက်နွှယ်ခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g71_001",
+              "pattern": "～について",
+              "meaning_mm": "～အကြောင်း / ～နှင့်ပတ်သက်၍",
+              "formation": "N + について",
+              "examples": [
+                {
+                  "jp": "日本の文化について調べています。",
+                  "romaji": "Nihon no bunka ni tsuite shirabete imasu.",
+                  "mm": "ဂျပန်ယဉ်ကျေးမှုအကြောင်းကို စုံစမ်းစစ်ဆေးနေပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g71_002",
+              "pattern": "～に関して (にかんして)",
+              "meaning_mm": "～နှင့်ပတ်သက်ဆက်နွှယ်၍ (について ထက် ပို၍ formal ကျသည်)",
+              "formation": "N + に関して",
+              "examples": [
+                {
+                  "jp": "この事件に関して、新しい情報があります。",
+                  "romaji": "Kono jiken ni kanshite, atarashii jōhō ga arimasu.",
+                  "mm": "ဒီအမှုနဲ့ပတ်သက်ပြီး သတင်းအချက်အလက်အသစ် ရှိပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 72,
+          "title": "第72課 (အခြေခံခြင်းနှင့် အကြောင်းရင်းပြခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g72_001",
+              "pattern": "～をもとに / ～をもとにして",
+              "meaning_mm": "～ကို အခြေခံ၍ (Material သို့မဟုတ် Hint တစ်ခုခုကို အခြေခံခြင်း)",
+              "formation": "N + をもとに",
+              "examples": [
+                {
+                  "jp": "この映画は実話をもとに作られました。",
+                  "romaji": "Kono eiga wa jitsuwa o moto ni tsukuraremashita.",
+                  "mm": "ဒီရုပ်ရှင်ကို ဖြစ်ရပ်မှန်ဇာတ်လမ်းကို အခြေခံပြီး ရိုက်ကူးခဲ့တာပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g72_002",
+              "pattern": "～に基づいて (にもとづいて)",
+              "meaning_mm": "～ကို အခြေခံ၍ / ～အရ (Data သို့မဟုတ် စည်းကမ်းချက်တစ်ခုခုကို အခြေခံခြင်း)",
+              "formation": "N + に基づいて",
+              "examples": [
+                {
+                  "jp": "調査の結果に基づいて、計画を立てます。",
+                  "romaji": "Chōsa no kekka ni motozuite, keikaku o tatemasu.",
+                  "mm": "စစ်တမ်းရလဒ်ကို အခြေခံပြီး အစီအစဉ်ဆွဲပါမယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 73,
+          "title": "第73課 (မျှော်လင့်ချက်နှင့် ဆန့်ကျင်ဘက်)",
+          "grammar_list": [
+            {
+              "id": "g73_001",
+              "pattern": "～といっても",
+              "meaning_mm": "～လို့ ပြောပေမယ့်လည်း (တကယ်တမ်း အခြေအနေက ထင်ထားသလောက် မဟုတ်ကြောင်း ရှင်းပြခြင်း)",
+              "formation": "V/A/Na/N (普通形) + といっても",
+              "examples": [
+                {
+                  "jp": "料理ができるといっても、卵焼きぐらいです。",
+                  "romaji": "Ryōri ga dekiru to ittemo, tamagoyaki gurai desu.",
+                  "mm": "ဟင်းချက်တတ်တယ်ဆိုပေမယ့်လည်း ကြက်ဥကြော်လောက်ပါပဲ။"
+                }
+              ]
+            },
+            {
+              "id": "g73_002",
+              "pattern": "～からといって",
+              "meaning_mm": "～ဖြစ်ရုံနဲ့တင် (အကြောင်းပြချက် တစ်ခုတည်းနဲ့ ဆုံးဖြတ်လို့မရကြောင်း ပြခြင်း)",
+              "formation": "V/A/Na/N (普通形) + からといって",
+              "examples": [
+                {
+                  "jp": "日本に住んでいるからといって、日本語が上手だとは限らない。",
+                  "romaji": "Nihon ni sunde iru kara to itte, Nihongo ga jōzu da to wa kagiranai.",
+                  "mm": "ဂျပန်မှာ နေရုံနဲ့တင် ဂျပန်စာ တော်မယ်လို့ အမြဲတမ်း မပြောနိုင်ဘူး။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 74,
+          "title": "第74課 (အသွင်အပြင်နှင့် ဖြစ်လေ့ရှိသောအရာ)",
+          "grammar_list": [
+            {
+              "id": "g74_001",
+              "pattern": "～げ / ～たげ",
+              "meaning_mm": "～ပုံပဲ / ～တဲ့ပုံစံမျိုး (နာမဝိသေသနများနောက်မှတွဲ၍ အသွင်အပြင်ကို ပြသည်)",
+              "formation": "A-い (ဖြုတ်) / Na + げ",
+              "examples": [
+                {
+                  "jp": "彼女は悲しげな表情をしていた。",
+                  "romaji": "Kanojo wa kanashige na hyōjō o shite ita.",
+                  "mm": "သူမက ဝမ်းနည်းနေတဲ့ မျက်နှာအမူအရာမျိုး ဖြစ်နေခဲ့တယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g74_002",
+              "pattern": "～がち",
+              "meaning_mm": "～တတ်သည် / ～ဖြစ်လွယ်သည် (မကောင်းသောအရာများတွင် သုံးလေ့ရှိသည်)",
+              "formation": "V-ます (ဖြုတ်) / N + がち",
+              "examples": [
+                {
+                  "jp": "最近、雨の日が続くと、気分が暗くなりがちです。",
+                  "romaji": "Saikin, ame no hi ga tsuzuku to, kibun ga kuraku narigachi desu.",
+                  "mm": "ဒီတလော မိုးရွာတဲ့ရက်တွေ ဆက်တိုက်ဖြစ်လာရင် စိတ်ဓာတ်ကျ (မှိုင်) တတ်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 75,
+          "title": "第75課 (နှိုင်းယှဉ်ချက်ပြ အသုံးအနှုန်းများ)",
+          "grammar_list": [
+            {
+              "id": "g75_001",
+              "pattern": "～っぽい",
+              "meaning_mm": "～နဲ့ တူသော / ～လိုမျိုး (တစ်စုံတစ်ခု၏ ဂုဏ်သတ္တိကို အလေးပေးပြောခြင်း)",
+              "formation": "V-ます (ဖြုတ်) / N + っぽい",
+              "examples": [
+                {
+                  "jp": "この料理は、ちょっと油っぽいです。",
+                  "romaji": "Kono ryōri wa, chotto aburappoi desu.",
+                  "mm": "ဒီဟင်းက နည်းနည်း ဆီများ (ဆီပြန်) နေသလိုပဲ။"
+                }
+              ]
+            },
+            {
+              "id": "g75_002",
+              "pattern": "～みたいだ / ～みたいに",
+              "meaning_mm": "～နဲ့ တူတယ် / ～လိုမျိုးပဲ (ဥပမာပေးခြင်း သို့မဟုတ် ခန့်မှန်းခြင်း)",
+              "formation": "V/A/Na/N (普通形) + みたいだ (*Na/N だ ဖြုတ်)",
+              "examples": [
+                {
+                  "jp": "彼はまるで子供みたいに遊びます。",
+                  "romaji": "Kare wa marude kodomo mitai ni asobimasu.",
+                  "mm": "သူက တကယ့်ကို ကလေးတစ်ယောက်လိုပဲ ဆော့ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 76,
+          "title": "第76課 (ချန်လှပ်ခြင်းနှင့် ဘေးဖယ်ထားခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g76_001",
+              "pattern": "～ぬきで / ～ぬきの",
+              "meaning_mm": "～မပါဘဲ / ～ကို ချန်လှပ်၍",
+              "formation": "N + ぬきで",
+              "examples": [
+                {
+                  "jp": "今日は仕事の話抜きで、楽しみましょう。",
+                  "romaji": "Kyō wa shigoto no hanashi nuki de, tanoshimimashō.",
+                  "mm": "ဒီနေ့တော့ အလုပ်အကြောင်းတွေ ဖယ်ထားပြီး (မပြောဘဲ) ပျော်ပျော်နေကြစို့။"
+                }
+              ]
+            },
+            {
+              "id": "g76_002",
+              "pattern": "～はともかく",
+              "meaning_mm": "～ကတော့ ထားပါဦး / ～ကတော့ အရေးမကြီးသေးပါဘူး (အခြားအချက်ကို ပိုဦးစားပေးပြောခြင်း)",
+              "formation": "N + はともかく",
+              "examples": [
+                {
+                  "jp": "味はともかく、見た目はきれいです。",
+                  "romaji": "Aji wa tomokaku, mitame wa kirei desu.",
+                  "mm": "အရသာကတော့ ထားပါဦး၊ အသွင်အပြင်ကတော့ လှပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 77,
+          "title": "第77課 (အချိန်ကာလနှင့် စတင်ခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g77_001",
+              "pattern": "～に際して (にさいして)",
+              "meaning_mm": "～သည့်အခါတွင် / ～သည့်အချိန်မှာ (Formal ဖြစ်သော ကိစ္စရပ်များ)",
+              "formation": "V-辞書形 / N + に際して",
+              "examples": [
+                {
+                  "jp": "帰国に際して、お世話になった人に挨拶しました。",
+                  "romaji": "Kikoku ni saishite, osewa ni natta hito ni aisatsu shimashita.",
+                  "mm": "နိုင်ငံပြန်တဲ့အခါမှာ ကျေးဇူးရှိခဲ့တဲ့သူတွေကို နှုတ်ဆက်ခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g77_002",
+              "pattern": "～に先立って (にさきだって)",
+              "meaning_mm": "～ထက် အရင် / ～မတိုင်မီ (အရေးကြီးသော ကိစ္စတစ်ခု မစခင် ကြိုတင်လုပ်ဆောင်ခြင်း)",
+              "formation": "V-辞書形 / N + に先立って",
+              "examples": [
+                {
+                  "jp": "開店に先立って、パーティーが開かれました。",
+                  "romaji": "Kaiten ni sakidatte, pātī ga hirakaremashita.",
+                  "mm": "ဆိုင်မဖွင့်မီမှာ (အရင်ဆုံး) ပါတီပွဲ ကျင်းပခဲ့ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 78,
+          "title": "第78課 (အခြေအနေ တစ်ခုနှင့်တစ်ခု ဆက်စပ်မှု)",
+          "grammar_list": [
+            {
+              "id": "g78_001",
+              "pattern": "～一方だ (いっぽうだ)",
+              "meaning_mm": "～ဘက်ကိုပဲ တောက်လျှောက်ဖြစ်နေသည် (အပြောင်းအလဲတစ်ခု ဆက်တိုက်ဖြစ်ပေါ်နေခြင်း)",
+              "formation": "V-辞書形 + 一方だ",
+              "examples": [
+                {
+                  "jp": "最近、物価は上がる一方です。",
+                  "romaji": "Saikin, bukka wa agaru ippō desu.",
+                  "mm": "ဒီတလော ကုန်ဈေးနှုန်းတွေက တောက်လျှောက် တက်နေတာပါပဲ။"
+                }
+              ]
+            },
+            {
+              "id": "g78_002",
+              "pattern": "～つつある",
+              "meaning_mm": "～နေဆဲဖြစ်သည် (အပြောင်းအလဲတစ်ခု တဖြည်းဖြည်း ဖြစ်ပေါ်နေခြင်း)",
+              "formation": "V-ます (ဖြုတ်) + つつある",
+              "examples": [
+                {
+                  "jp": "この村では人口が減りつつあります。",
+                  "romaji": "Kono mura de wa jinkō ga heritsutsu arimasu.",
+                  "mm": "ဒီရွာမှာ လူဦးရေက တဖြည်းဖြည်း လျော့နည်းလာနေပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 79,
+          "title": "第79課 (ရလဒ်နှင့် အဆုံးသတ်များ)",
+          "grammar_list": [
+            {
+              "id": "g79_001",
+              "pattern": "～あげく",
+              "meaning_mm": "～ပြီးတဲ့နောက်မှာတော့ နောက်ဆုံး (မကောင်းတဲ့ရလဒ် ထွက်လာသည့်အခါ သုံးသည်)",
+              "formation": "V-た形 / N-の + あげく",
+              "examples": [
+                {
+                  "jp": "悩んだあげく、結局買いませんでした。",
+                  "romaji": "Nayan da ageku, kekkyoku kaimasen deshita.",
+                  "mm": "အကြာကြီး စဉ်းစား (စိတ်ညစ်) ပြီးတဲ့နောက်မှာတော့ နောက်ဆုံးတော့ မဝယ်ဖြစ်ခဲ့ပါဘူး။"
+                }
+              ]
+            },
+            {
+              "id": "g79_002",
+              "pattern": "～末に (すえに)",
+              "meaning_mm": "～ပြီးတဲ့နောက် အဆုံးသတ်မှာ (အကြာကြီး ကြိုးစားအားထုတ်ပြီးမှ ရလဒ်ထွက်ပေါ်ခြင်း)",
+              "formation": "V-た形 / N-の + 末に",
+              "examples": [
+                {
+                  "jp": "長い話し合いの末に、やっと決まりました。",
+                  "romaji": "Nagai hanashiai no sue ni, yatto kimarimashita.",
+                  "mm": "အကြာကြီး ဆွေးနွေးပြီးတဲ့နောက်မှာတော့ နောက်ဆုံးတော့ ဆုံးဖြတ်ချက် ထွက်လာပါပြီ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 80,
+          "title": "第80課 (ထပ်လောင်းဖော်ပြခြင်းနှင့် ဆန့်ကျင်ဘက်)",
+          "grammar_list": [
+            {
+              "id": "g80_001",
+              "pattern": "～のみならず",
+              "meaning_mm": "～တင်မကဘဲ (ばかりか နှင့် အဓိပ္ပာယ်တူသော်လည်း ပို၍ formal ကျသည်)",
+              "formation": "V/A/Na/N (普通形) + のみならず (*Na/N だ -> である)",
+              "examples": [
+                {
+                  "jp": "この映画は日本のみならず、世界中で有名です。",
+                  "romaji": "Kono eiga wa Nihon nominara zu, sekaijū de yūmei desu.",
+                  "mm": "ဒီရုပ်ရှင်က ဂျပန်မှာတင်မကဘဲ တစ်ကမ္ဘာလုံးမှာပါ နာမည်ကြီးပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g80_002",
+              "pattern": "～どころか",
+              "meaning_mm": "～ဖို့နေနေသာသာ / ～တောင် မကဘဲ (ထင်ထားတာနဲ့ လုံးဝဆန့်ကျင်ဘက် အစွန်းရောက်ခြင်း)",
+              "formation": "V/A/Na/N (普通形) + どころか",
+              "examples": [
+                {
+                  "jp": "貯金どころか、借金が増えてしまった。",
+                  "romaji": "Chokin dokoroka, shakkin ga fuete shimatta.",
+                  "mm": "ငွေစုဖို့နေနေသာသာ အကြွေးတွေတောင် ပိုများလာခဲ့တယ်။"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "n3",
+      "category": "grammar",
+      "lessons": [
+        {
+          "lesson_no": 81,
+          "title": "第81課 (အပြောင်းအလဲနှင့်အတူ လိုက်ဖက်ဖြစ်ပေါ်ခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g81_001",
+              "pattern": "～に従って (にしたがって)",
+              "meaning_mm": "～သည်နှင့်အမျှ (ရှေ့ကအခြေအနေ ပြောင်းလဲလာတာနဲ့အမျှ နောက်ကပါ လိုက်ပြောင်းလာခြင်း)",
+              "formation": "V-辞書形 / N + に従って",
+              "examples": [
+                {
+                  "jp": "北へ行くに従って、寒くなります。",
+                  "romaji": "Kita e iku ni shitagatte, samuku narimasu.",
+                  "mm": "မြောက်ဘက်ကို သွားလေလေ (သွားသည်နှင့်အမျှ) ပိုအေးလာလေလေပါပဲ။"
+                }
+              ]
+            },
+            {
+              "id": "g81_002",
+              "pattern": "～につれて",
+              "meaning_mm": "～သည်နှင့်အမျှ (ရှေ့ကအဆင့်ဆင့်ပြောင်းလဲမှုကြောင့် နောက်ကပါ လိုက်ပြောင်းခြင်း)",
+              "formation": "V-辞書形 / N + につれて",
+              "examples": [
+                {
+                  "jp": "時間が経つにつれて、痛みはなくなります。",
+                  "romaji": "Jikan ga tatsu ni tsurete, itami wa nakunarimasu.",
+                  "mm": "အချိန်ကုန်လွန်လာတာနဲ့အမျှ နာကျင်မှုက ပျောက်ကွယ်သွားပါလိမ့်မယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 82,
+          "title": "第82課 (ဒွန်တွဲဖြစ်ပေါ်ခြင်းနှင့် ပူးတွဲပါဝင်ခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g82_001",
+              "pattern": "～に伴って (にともなって)",
+              "meaning_mm": "～နှင့်အတူ / ～သည်နှင့်အမျှ (အဖြစ်အပျက်တစ်ခု ဖြစ်တာနဲ့ တစ်ပြိုင်နက် နောက်တစ်ခုပါ တွဲဖြစ်ခြင်း)",
+              "formation": "V-辞書形 / N + に伴って",
+              "examples": [
+                {
+                  "jp": "人口の増加に伴って、ゴミの問題も深刻になった。",
+                  "romaji": "Jinkō no zōka ni tomonatte, gomi no mondai mo shinkoku ni natta.",
+                  "mm": "လူဦးရေ တိုးပွားလာတာနဲ့အတူ အမှိုက်ပြဿနာကလည်း ပြင်းထန်လာခဲ့တယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g82_002",
+              "pattern": "～とともに",
+              "meaning_mm": "～နှင့်အတူ / ～သည်နှင့်တစ်ပြိုင်နက် (အကြောင်းအရာနှစ်ခု တစ်ပြိုင်နက် ဖြစ်ပေါ်ခြင်း)",
+              "formation": "V-辞書形 / N + とともに",
+              "examples": [
+                {
+                  "jp": "お正月は家族とともに過ごしたいです。",
+                  "romaji": "Oshōgatsu wa kazoku to tomo ni sugoshitai desu.",
+                  "mm": "နှစ်သစ်ကူးကို မိသားစုနဲ့အတူ ဖြတ်သန်းချင်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 83,
+          "title": "第83課 (ပြည့်နှက်နေခြင်းနှင့် ကန့်သတ်ခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g83_001",
+              "pattern": "～だらけ",
+              "meaning_mm": "～တွေချည်းပဲ / ～တွေ ပြည့်နေတာပဲ (မကောင်းတဲ့အရာတွေ စုပြုံနေသည့်အခါ သုံးသည်)",
+              "formation": "N + だらけ",
+              "examples": [
+                {
+                  "jp": "彼の部屋はゴミだらけです。",
+                  "romaji": "Kare no heya wa gomi darake desu.",
+                  "mm": "သူ့အခန်းက အမှိုက်တွေချည်းပါပဲ (အမှိုက်တွေ ပြည့်နေတာပဲ)။"
+                }
+              ]
+            },
+            {
+              "id": "g83_002",
+              "pattern": "～にすぎない",
+              "meaning_mm": "～မျှသာ / ～ထက်မပိုဘူး (အဆင့်အတန်း နိမ့်ပါးကြောင်း သို့မဟုတ် ပမာဏ နည်းကြောင်း ပြခြင်း)",
+              "formation": "V/A/Na/N (普通形) + にすぎない",
+              "examples": [
+                {
+                  "jp": "それは単なる噂にすぎません。",
+                  "romaji": "Sore wa tannaru uwasa ni sugimasen.",
+                  "mm": "အဲဒါက သာမန် ကောလာဟလတစ်ခုမျှသာ ဖြစ်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 84,
+          "title": "第84課 (ခံစားချက်ကို အလေးပေးခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g84_001",
+              "pattern": "～ことに",
+              "meaning_mm": "～ဖို့ကောင်းတာကတော့ (မိမိရဲ့ ခံစားချက်ကို အရင်ဦးဆုံး အလေးပေးပြောခြင်း)",
+              "formation": "V-た形 / A-い / Na-な + ことに",
+              "examples": [
+                {
+                  "jp": "驚いたことに、彼はもう結婚していました。",
+                  "romaji": "Odoroita koto ni, kare wa mō kekkon shite imashita.",
+                  "mm": "အံ့ဩဖို့ကောင်းတာကတော့ သူက အိမ်ထောင်ကျနေပြီ ဖြစ်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g84_002",
+              "pattern": "～ことはない",
+              "meaning_mm": "～စရာ မလိုဘူး / ～ဖို့ မလိုအပ်ဘူး (အကြံပေးခြင်း သို့မဟုတ် အားပေးခြင်း)",
+              "formation": "V-辞書形 + ことはない",
+              "examples": [
+                {
+                  "jp": "そんなに心配することはありませんよ。",
+                  "romaji": "Sonna ni shinpai suru koto wa arimasen yo.",
+                  "mm": "အဲဒီလောက်အထိ စိတ်ပူစရာ မလိုပါဘူး (မလိုပါဘူးနော်)။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 85,
+          "title": "第85課 (အစပြုခြင်းနှင့် ရည်မှန်းချက်)",
+          "grammar_list": [
+            {
+              "id": "g85_001",
+              "pattern": "～をきっかけに",
+              "meaning_mm": "～ကို အကြောင်းပြု၍ / ～ကို အစပြုပြီး (အဖြစ်အပျက်တစ်ခုကြောင့် အပြောင်းအလဲကြီးတစ်ခု စတင်ခြင်း)",
+              "formation": "N + をきっかけに",
+              "examples": [
+                {
+                  "jp": "日本のアニメをきっかけに、日本語を勉強し始めました。",
+                  "romaji": "Nihon no anime o kikkake ni, Nihongo o benkyō shihajimemashita.",
+                  "mm": "ဂျပန်အန်နီမေးကို အကြောင်းပြုပြီး (အစပြုပြီး) ဂျပန်စာ စလေ့လာခဲ့တာပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g85_002",
+              "pattern": "～をこめて",
+              "meaning_mm": "～ကို ထည့်သွင်း၍ / ～ကို အရင်းခံ၍ (မေတ္တာ၊ စေတနာ၊ ဆန္ဒများကို အပြည့်အဝ ထည့်ဝင်ခြင်း)",
+              "formation": "N + をこめて",
+              "examples": [
+                {
+                  "jp": "愛をこめて、このプレゼントを贈ります。",
+                  "romaji": "Ai o komete, kono purezento o okurimasu.",
+                  "mm": "အချစ်တွေ ထည့်သွင်းပြီး (အချစ်တွေနဲ့အတူ) ဒီလက်ဆောင်ကို ပေးအပ်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 86,
+          "title": "第86課 (ခေါင်းစဉ်နှင့် ကိုယ်စားပြုမှုများ)",
+          "grammar_list": [
+            {
+              "id": "g86_001",
+              "pattern": "～を中心に (をちゅうしんに)",
+              "meaning_mm": "～ကို ဗဟိုပြု၍ / ～ကို အဓိကထား၍",
+              "formation": "N + を中心に",
+              "examples": [
+                {
+                  "jp": "この店は若者を中心に人気があります。",
+                  "romaji": "Kono mise wa wakamono o chūshin ni ninki ga arimasu.",
+                  "mm": "ဒီဆိုင်က လူငယ်တွေကို အဓိကထားပြီး လူကြိုက်များပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g86_002",
+              "pattern": "～をはじめ",
+              "meaning_mm": "～အပါအဝင် / ～ကို အစပြု၍ (အဓိကကျသောအရာကို အရင်ဆုံး ဥပမာပေးခြင်း)",
+              "formation": "N + をはじめ",
+              "examples": [
+                {
+                  "jp": "日本には富士山をはじめ、美しい山がたくさんあります。",
+                  "romaji": "Nihon ni wa Fujisan o hajime, utsukushii yama ga takusan arimasu.",
+                  "mm": "ဂျပန်မှာ ဖူဂျီတောင်အပါအဝင် လှပတဲ့တောင်တွေ အများကြီးရှိပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 87,
+          "title": "第87課 (နယ်ပယ်နှင့် အခြေအနေများ)",
+          "grammar_list": [
+            {
+              "id": "g87_001",
+              "pattern": "～をめぐって",
+              "meaning_mm": "～နှင့်ပတ်သက်ပြီး (လူအများအပြားကြား ငြင်းခုံခြင်း သို့မဟုတ် အငြင်းပွားခြင်း)",
+              "formation": "N + をめぐって",
+              "examples": [
+                {
+                  "jp": "その問題をめぐって、激しい議論が行われた。",
+                  "romaji": "Sono mondai o megutte, hageshii giron ga okonawareta.",
+                  "mm": "အဲဒီပြဿနာနဲ့ပတ်သက်ပြီး ပြင်းထန်တဲ့ ဆွေးနွေးငြင်းခုံမှုတွေ ဖြစ်ပွားခဲ့ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g87_002",
+              "pattern": "～において / ～における",
+              "meaning_mm": "～၌ / ～မှာ (နေရာ၊ အချိန် သို့မဟုတ် နယ်ပယ်ကို ပြသည့် Formal အသုံး)",
+              "formation": "N + において",
+              "examples": [
+                {
+                  "jp": "現代において、スマホは欠かせないものです。",
+                  "romaji": "Gendai ni oite, sumaho wa kakasenai mono desu.",
+                  "mm": "မျက်မှောက်ခေတ်မှာ စမတ်ဖုန်းက မရှိမဖြစ် အရာတစ်ခု ဖြစ်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 88,
+          "title": "第88課 (အကြောင်းပြချက်နှင့် ငြင်းဆိုခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g88_001",
+              "pattern": "～ものだから / ～もので",
+              "meaning_mm": "～တာကြောင့်မို့လို့ (ကိုယ်ရေးကိုယ်တာ အကြောင်းပြချက် သို့မဟုတ် ဆင်ခြေပေးသည့်အခါ သုံးသည်)",
+              "formation": "V/A/Na/N (普通形) + ものだから (*Na-な / N-な)",
+              "examples": [
+                {
+                  "jp": "道が混んでいたものだから、遅れてしまいました。",
+                  "romaji": "Michi ga konde ita mono dakara, okurete shimaimashita.",
+                  "mm": "လမ်းတွေ ပိတ်နေတာကြောင့်မို့လို့ နောက်ကျသွားခဲ့တာပါ။"
+                }
+              ]
+            },
+            {
+              "id": "g88_002",
+              "pattern": "～ものか / ～もんか",
+              "meaning_mm": "～ပါ့မလား / လုံးဝ ～မှာမဟုတ်ဘူး (ပြင်းထန်သော ငြင်းဆိုမှု သို့မဟုတ် မဖြစ်နိုင်ကြောင်း ပြခြင်း)",
+              "formation": "V-辞書形 / A-い / Na-な / N-な + ものか",
+              "examples": [
+                {
+                  "jp": "あんな店、二度と行くもんか。",
+                  "romaji": "Anna mise, nido to iku mon ka.",
+                  "mm": "အဲဒီလိုဆိုင်မျိုးကို ဒုတိယတစ်ခေါက် လုံးဝသွားမှာမဟုတ်ဘူး။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 89,
+          "title": "第89課 (ဖြစ်နိုင်ခြေနှင့် စိုးရိမ်မှုများ)",
+          "grammar_list": [
+            {
+              "id": "g89_001",
+              "pattern": "～得る / ～得ない (うる / えない)",
+              "meaning_mm": "～နိုင်သည် / လုံးဝ ～မနိုင်ဘူး (ဖြစ်နိုင်ချေရှိ၊ မရှိကို ပြခြင်း)",
+              "formation": "V-ます (ဖြုတ်) + 得る / 得ない",
+              "examples": [
+                {
+                  "jp": "そんなことは、あり得ません。",
+                  "romaji": "Sonna koto wa, arie masen.",
+                  "mm": "အဲဒီလိုကိစ္စမျိုးကတော့ လုံးဝ မဖြစ်နိုင်ပါဘူး။"
+                }
+              ]
+            },
+            {
+              "id": "g89_002",
+              "pattern": "～かねない",
+              "meaning_mm": "～ဖြစ်သွားနိုင်တယ် (မကောင်းတဲ့ရလဒ်တစ်ခု ဖြစ်ပေါ်လာနိုင်တဲ့ အန္တရာယ်ရှိကြောင်း ပြခြင်း)",
+              "formation": "V-ます (ဖြုတ်) + かねない",
+              "examples": [
+                {
+                  "jp": "スピードを出しすぎると、事故を起こしかねません。",
+                  "romaji": "Supīdo o dashisugiru to, jiko o okoshikanemasen.",
+                  "mm": "အရှိန်အလွန်အကျွံ မောင်းရင် မတော်တဆမှု ဖြစ်သွားနိုင်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 90,
+          "title": "第90課 (နှိုင်းယှဉ်ချက်နှင့် မမျှော်လင့်သောအခြေအနေ)",
+          "grammar_list": [
+            {
+              "id": "g90_001",
+              "pattern": "～わりに (は)",
+              "meaning_mm": "～ဖြစ်ပေမယ့်လည်း / ～တာနဲ့ စာရင် (ထင်ထားတာနဲ့ ကွာခြားနေသည့်အခါ သုံးသည်)",
+              "formation": "V/A/Na/N (普通形) + わりに (*Na-な / N-の)",
+              "examples": [
+                {
+                  "jp": "この料理は、値段のわりに美味しいです。",
+                  "romaji": "Kono ryōri wa, nedan no wari ni oishii desu.",
+                  "mm": "ဒီဟင်းက ဈေးနှုန်းနဲ့စာရင် (ဈေးပေါပေမယ့်လည်း) အရသာရှိပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g90_002",
+              "pattern": "～にしては",
+              "meaning_mm": "～치ံ / ～ဖြစ်တာတောင်မှ (စံသတ်မှတ်ချက်တစ်ခုနဲ့ ယှဉ်ရင် မမျှော်လင့်ဘဲ ထူးခြားနေခြင်း)",
+              "formation": "V/A/Na/N (普通形) + にしては (*Na/N だ ဖြုတ်)",
+              "examples": [
+                {
+                  "jp": "初めてにしては、上手にできましたね。",
+                  "romaji": "Hajimete ni shite wa, jōzu ni dekimashita ne.",
+                  "mm": "ပထမဆုံးအကြိမ် လုပ်တာတောင်မှ တော်တော်လေး ကျွမ်းကျင်တာပဲနော်။"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "n3",
+      "category": "grammar",
+      "lessons": [
+        {
+          "lesson_no": 91,
+          "title": "第91課 (ရည်ရွယ်ချက်နှင့် အသုံးပြုသူသတ်မှတ်ခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g91_001",
+              "pattern": "～向け (むけ)",
+              "meaning_mm": "～အတွက် ထုတ်လုပ်ထားသော / ～အတွက် ရည်ရွယ်သော (Target Audience)",
+              "formation": "N + 向け",
+              "examples": [
+                {
+                  "jp": "これは子供向けのニュース番組です。",
+                  "romaji": "Kore wa kodomo muke no nyūsu bangumi desu.",
+                  "mm": "ဒါက ကလေးတွေအတွက် ရည်ရွယ်ထုတ်လုပ်ထားတဲ့ သတင်းအစီအစဉ် ဖြစ်ပါတယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g91_002",
+              "pattern": "～向き (むき)",
+              "meaning_mm": "～နှင့် သင့်တော်သော (Suitability)",
+              "formation": "N + 向き",
+              "examples": [
+                {
+                  "jp": "この仕事は、彼女向きだと思います。",
+                  "romaji": "Kono shigoto wa, kanojo muki da to omoimasu.",
+                  "mm": "ဒီအလုပ်က သူမနဲ့ သင့်တော်မယ်လို့ ထင်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 92,
+          "title": "第92課 (မဖြစ်နိုင်ခြင်းနှင့် အခက်အခဲများ)",
+          "grammar_list": [
+            {
+              "id": "g92_001",
+              "pattern": "～ようがない",
+              "meaning_mm": "～လုပ်ဖို့ နည်းလမ်းမရှိဘူး / ～လို့ မရနိုင်ဘူး",
+              "formation": "V-ます (ဖြုတ်) + ようがない",
+              "examples": [
+                {
+                  "jp": "連絡先がわからないので、連絡しようがない。",
+                  "romaji": "Renrakusaki ga wakaranai node, renraku shiyō ga nai.",
+                  "mm": "ဆက်သွယ်ရန်လိပ်စာ မသိရတာကြောင့် ဆက်သွယ်ဖို့ နည်းလမ်းမရှိပါဘူး (ဆက်သွယ်လို့ မရပါဘူး)။"
+                }
+              ]
+            },
+            {
+              "id": "g92_002",
+              "pattern": "～がたい",
+              "meaning_mm": "～ဖို့ ခက်ခဲသော (စိတ်ပိုင်းဆိုင်ရာအရ လုပ်ရခက်ခြင်း)",
+              "formation": "V-ます (ဖြုတ်) + がたい",
+              "examples": [
+                {
+                  "jp": "信じがたい話ですが、本当なんです。",
+                  "romaji": "Shinjigatai hanashi desu ga, hontō nan desu.",
+                  "mm": "ယုံရခက်တဲ့ ဇာတ်လမ်းဆိုပေမယ့်လည်း အမှန်တရားပါပဲ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 93,
+          "title": "第93課 (အခြေအနေအရ ဖြစ်ပေါ်လာခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g93_001",
+              "pattern": "～次第 (しだい)",
+              "meaning_mm": "～ပြီးတာနဲ့ ချက်ချင်း (လုပ်ဆောင်ချက်တစ်ခု ပြီးစီးသည်နှင့် နောက်တစ်ခုကို ချက်ချင်းလုပ်မည့်အခါ သုံးသည်)",
+              "formation": "V-ます (ဖြုတ်) + 次第",
+              "examples": [
+                {
+                  "jp": "準備ができ次第、出発します。",
+                  "romaji": "Junbi ga dekishidai, shuppatsu shimasu.",
+                  "mm": "ပြင်ဆင်ပြီးတာနဲ့ ချက်ချင်း ထွက်ခွာပါမယ်။"
+                }
+              ]
+            },
+            {
+              "id": "g93_002",
+              "pattern": "～次第だ / ～次第で",
+              "meaning_mm": "～ပေါ်မှာ မူတည်တယ်",
+              "formation": "N + 次第だ / 次第で",
+              "examples": [
+                {
+                  "jp": "合格できるかどうかは、君の努力次第だ。",
+                  "romaji": "Gōkaku dekiru ka dō ka wa, kimi no doryoku shidai da.",
+                  "mm": "အောင်၊ မအောင်ဆိုတာ မင်းရဲ့ ကြိုးစားမှုပေါ်မှာ မူတည်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 94,
+          "title": "第94課 (အခြေခံကျသော ဥပမာပေးခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g94_001",
+              "pattern": "～はもちろん / ～はもとより",
+              "meaning_mm": "～ကတော့ ပြောစရာမလိုဘူး / ～တင်မကဘဲ (ရှေ့ကအရာက သိသာလွန်းလို့ ထပ်ပြောနေစရာမလိုကြောင်း ပြခြင်း)",
+              "formation": "N + はもちろん",
+              "examples": [
+                {
+                  "jp": "彼は英語はもちろん、日本語もペラペラです。",
+                  "romaji": "Kare wa Eigo wa mochiron, Nihongo mo perapera desu.",
+                  "mm": "သူက အင်္ဂလိပ်စာကတော့ ပြောစရာမလိုအောင် တော်သလို၊ ဂျပန်စာလည်း ကျွမ်းကျွမ်းကျင်ကျင် ပြောနိုင်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 95,
+          "title": "第95課 (ကာလနှင့် နယ်ပယ်အတိုင်းအတာ)",
+          "grammar_list": [
+            {
+              "id": "g95_001",
+              "pattern": "～から～にかけて",
+              "meaning_mm": "～မှ ～အထိ (အချိန် သို့မဟုတ် နေရာ အပိုင်းအခြားကို ခန့်မှန်းဖော်ပြခြင်း)",
+              "formation": "N1 + から + N2 + にかけて",
+              "examples": [
+                {
+                  "jp": "昨夜から今朝にかけて、大雨が降りました。",
+                  "romaji": "Sakuya kara kesa ni kakete, ooame ga furimashita.",
+                  "mm": "မနေ့ညကနေ ဒီမနက်အထိ မိုးအသည်းအသန် ရွာခဲ့ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 96,
+          "title": "第96課 (ကန့်သတ်ချက်မဲ့ခြင်းနှင့် ချန်လှပ်ခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g96_001",
+              "pattern": "～を問わず (をとわず)",
+              "meaning_mm": "～နှင့် မသက်ဆိုင်ဘဲ / ～ကို မခွဲခြားဘဲ",
+              "formation": "N + を問わず",
+              "examples": [
+                {
+                  "jp": "この公園は、年齢を問わず誰でも利用できます。",
+                  "romaji": "Kono kōen wa, nenrei o towazu dare demo riyō dekimasu.",
+                  "mm": "ဒီပန်းခြံက အသက်အရွယ်မရွေး (မသက်ဆိုင်ဘဲ) ဘယ်သူမဆို အသုံးပြုနိုင်ပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 97,
+          "title": "第97課 (အလေးပေး ထောက်ပြခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g97_001",
+              "pattern": "～だけに / ～だけあって",
+              "meaning_mm": "～ဖြစ်တာကြောင့်မို့လို့သာလျှင် / ～ဖြစ်တဲ့အတိုင်းပဲ (ရှေ့ကအကြောင်းပြချက်ကြောင့် နောက်ကရလဒ်က ပိုပြီးထူးခြားကြောင်း ပြခြင်း)",
+              "formation": "V/A/Na/N (普通形) + だけに (*Na-な / N-の/である)",
+              "examples": [
+                {
+                  "jp": "一生懸命練習しただけに、不合格は悔しい。",
+                  "romaji": "Isshōkenmei renshū shita dake ni, fugōkaku wa kuyashii.",
+                  "mm": "ကြိုးစားပမ်းစား လေ့ကျင့်ခဲ့လို့မို့လို့သာလျှင် (အောင်သင့်ပါလျက်) မအောင်တာက အရမ်းနှမြောဖို့ကောင်းပါတယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 98,
+          "title": "第98課 (လမ်းစဉ်နှင့် လမ်းညွှန်ချက်များ)",
+          "grammar_list": [
+            {
+              "id": "g98_001",
+              "pattern": "～に沿って (にそって)",
+              "meaning_mm": "～အတိုင်း / ～နှင့်အညီ (လမ်းညွှန်ချက်၊ စည်းကမ်း သို့မဟုတ် လမ်းကြောင်းအတိုင်း လိုက်နာလုပ်ဆောင်ခြင်း)",
+              "formation": "N + に沿って",
+              "examples": [
+                {
+                  "jp": "マニュアルに沿って、機械を操作してください。",
+                  "romaji": "Manyuaru ni sotte, kikai o sōsa shite kudasai.",
+                  "mm": "လက်စွဲစာအုပ်ပါ လမ်းညွှန်ချက်အတိုင်း စက်ကို ကိုင်တွယ်အသုံးပြုပါ။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 99,
+          "title": "第99課 (ပြုပြင်ခြင်းနှင့် ပြန်လည်လုပ်ဆောင်ခြင်း)",
+          "grammar_list": [
+            {
+              "id": "g99_001",
+              "pattern": "～直す (なおす)",
+              "meaning_mm": "ပြန်လည် ～သည် (ပိုကောင်းအောင် တစ်ဖန်ပြန်လုပ်ခြင်း)",
+              "formation": "V-ます (ဖြုတ်) + 直す",
+              "examples": [
+                {
+                  "jp": "間違いが多いので、もう一度書き直します。",
+                  "romaji": "Machigai ga ooi node, mō ichido kakinaoshimasu.",
+                  "mm": "အမှားတွေ များနေတာကြောင့် နောက်တစ်ကြိမ် ပြန်ရေးပါမယ်။"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lesson_no": 100,
+          "title": "第100課 (အကောင်းဆုံးနှင့် ကန့်သတ်ချက်များ)",
+          "grammar_list": [
+            {
+              "id": "g100_001",
+              "pattern": "～に限る (にかぎる)",
+              "meaning_mm": "～က အကောင်းဆုံးပဲ (မိမိအမြင်အရ အကောင်းဆုံးအရာကို ဖော်ပြခြင်း)",
+              "formation": "V-辞書形 / V-ない形 / N + に限る",
+              "examples": [
+                {
+                  "jp": "暑い日は、冷たいビールに限りますね。",
+                  "romaji": "Atsui hi wa, tsumetai bīru ni kagirimasu ne.",
+                  "mm": "ပူတဲ့နေ့တွေမှာတော့ အေးစိမ့်နေတဲ့ ဘီယာက အကောင်းဆုံးပါပဲနော်။"
+                }
+              ]
+            },
+            {
+              "id": "g100_002",
+              "pattern": "～に限り / ～に限って",
+              "meaning_mm": "～မှသာလျှင် / ～သည့်အခါမှသာလျှင် (အထူးကန့်သတ်ချက်)",
+              "formation": "N + に限り",
+              "examples": [
+                {
+                  "jp": "本日、女性のお客様に限り、ドリンク無料です。",
+                  "romaji": "Honjitsu, josei no okyakusama ni kagiri, dorinku muryō desu.",
+                  "mm": "ဒီနေ့တော့ အမျိုးသမီး ဧည့်သည်တော်များမှသာလျှင် အချိုရည် အခမဲ့ ရပါမယ်။"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
       "jlpt_n3_vocab": [
         
       ],
