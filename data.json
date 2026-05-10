@@ -1,4 +1,16 @@
 {
+
+  "ads": [
+    {
+      "image_url": "https://your-image-link.com/ad1.jpg",
+      "link": "https://www.facebook.com/your_page_link_1"
+    },
+    {
+      "image_url": "https://your-image-link.com/ad2.jpg",
+      "link": "https://www.facebook.com/your_page_link_2"
+    }
+  ],
+
   "n5": {
     "level": "N5",
     "alphabets": {
@@ -40593,7 +40605,7 @@
       "level": "n3",
       "category": "grammar",
       "lessons": [
-        
+
         {
           "lesson_no": 51,
           "title": "第51課 (အချိန်နှင့် အခြေအနေ - ၁)",
