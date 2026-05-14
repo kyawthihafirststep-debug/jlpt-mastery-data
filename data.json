@@ -4,7 +4,7 @@
   "ads": [
     {
       "ad_id": "sponsor_001",
-      "image_url": "assets/Listening/N5/2.jpg",
+      "image_url": "https://picsum.photos/800/400",
       "link": "https://www.facebook.com/sakurajapaneseschool",
       "phone": "+959123456789",
       "telegram": "tg://resolve?domain=nihongomastery", 
@@ -13,7 +13,7 @@
     },
     {
       "ad_id": "sponsor_002",
-      "image_url": "assets/Listening/N5/2.jpg",
+      "image_url": "https://picsum.photos/800/400",
       "link": "https://www.facebook.com/nihongomastery",
       "phone": "+959987654321",
       "telegram": "tg://resolve?domain=nihongomastery",
