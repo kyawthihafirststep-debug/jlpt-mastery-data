@@ -9,7 +9,7 @@
       "phone": "+959123456789",
       "telegram": "tg://resolve?domain=nihongomastery", 
       "viber": "viber://chat?number=%2B959၂257332418",
-      "is_active": true
+      "is_active": false
     },
     {
       "ad_id": "sponsor_002",
@@ -18,7 +18,7 @@
       "phone": "+959987654321",
       "telegram": "tg://resolve?domain=nihongomastery",
       "viber": "viber://chat?number=%2B959989260115",
-      "is_active": true
+      "is_active": false
     }
   ],
 
