@@ -9,7 +9,7 @@
       "phone": "+959123456789",
       "telegram": "tg://resolve?domain=nihongomastery", 
       "viber": "viber://chat?number=%2B959257332418",
-      "is_active": true
+      "is_active": false
     },
     {
       "ad_id": "sponsor_002",
@@ -18,7 +18,7 @@
       "phone": "+959987654321",
       "telegram": "tg://resolve?domain=nihongomastery",
       "viber": "viber://chat?number=%2B959989260115",
-      "is_active": true
+      "is_active": false
     }
   ],
 
@@ -51542,7 +51542,7 @@
   "app_settings": {
     "privacy_policy_url": "https://docs.google.com/document/d/1TKpfgG5Wo0YtzV-IDeUE0BOnniBbWd0bAJNcymwl9qY/edit?usp=sharing",
     "terms_of_service_url": "https://docs.google.com/document/d/1gDd8fl9yo15E8PyLjYGrTW0Gl3hdcACXlDulY68v4bo/edit?usp=sharing",
-    "telegram_url": "https://t.me/+w7NASxPY7LlkOGM1",
+    "telegram_url": "tg://resolve?domain=nihongomastery",
     "support_email": "parryroger2004@gmail.com",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.example.jlptmastery"
   }
