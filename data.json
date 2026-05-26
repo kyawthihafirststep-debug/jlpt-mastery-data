@@ -1,5 +1,9 @@
 {
-
+"local_ad": {
+    "is_active": true,
+    "image_url": "https://i.imgur.com/your-ad-image.jpg",
+    "target_url": "https://www.facebook.com/your-page"
+  },
   
   "ads": [
     {
